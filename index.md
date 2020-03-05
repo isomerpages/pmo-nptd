@@ -2,7 +2,7 @@
 layout: homepage
 title: National Population and Talent Division
 description: Brief site description here
-image: /images/nptd.png
+image: /images/NPTD.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
