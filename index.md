@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: National Population and Talent Division
-        subtitle: Population in Brief 2019: What do you need to know?
+        title: National Population and Talent Division 
+        subtitle: Population in Brief 2019: What do you need to know? 
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
