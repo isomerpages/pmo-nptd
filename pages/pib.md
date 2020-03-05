@@ -1,5 +1,5 @@
 ---
-title: PIB
+title: Population In Brief
 permalink: /pib/
 ---
 
