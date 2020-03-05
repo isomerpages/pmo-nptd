@@ -7,19 +7,16 @@
 logo: /images/nptd.jpg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Our Population
+    collection: left-nav-one
+  - title: Media Centre
+    resource_room: true
   - title: Faq
     url: /faq/
   - title: PIB
     url: /pib/
-  - title: Terms Of Use
-    url: /terms-of-use/
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Left Nav One
-    collection: left-nav-one
   - title: Left Nav Two
     collection: left-nav-two
-  - title: Media Centre
-    resource_room: true
+  
