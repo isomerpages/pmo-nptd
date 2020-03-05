@@ -1,6 +1,6 @@
 ---
-title: Population Trends
-permalink: /left-nav-one/sub-page-A/
+title: Marriage and Parenthood
+permalink: /left-nav-one/sub-page-B/
 ---
 
 ### **Marriage and Parenthood**
