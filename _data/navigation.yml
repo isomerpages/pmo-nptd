@@ -13,10 +13,9 @@ links:
     collection: left-nav-one
   - title: Media Centre
     resource_room: true
-<!---  - title: Faq
+<!-- - title: Faq  -->
     url: /faq/
-  - title: PIB
+<!--  - title: PIB -->
     url: /pib/
-  - title: Left Nav Two
-    collection: left-nav-two
- --->
+<!--  - title: Left Nav Two -->
+<!--    collection: left-nav-two -->
