@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: National Population and Talent Division
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/nptd.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -10,17 +10,17 @@ sections:
         title: National Population and Talent Division 
         subtitle: "Population in Brief 2019: What do you need to know?"
         background: /images/hero-banner.png
-        button: Contact Us
+        button: "Read More"
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
+            - title: "Pop Trends"
               description: Important highlight A is important
               url: https://google.com
-            - title: Highlight B
+            - title: "Marriage and Parenthood"
               description: Important highlight B is equally important
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: "Ageing"
+              description: "How is SG a home for ageing population?"
               url: /privacy/
     - infobar:
         title: Infobar title
