@@ -11,13 +11,13 @@ sections:
         subtitle: "Population in Brief 2019: What do you need to know?"
         background: /images/hero-banner.png
         button: "Read More"
-        url: /contact-us/
+        url: /pib/
         key_highlights:
             - title: "Pop Trends"
-              description: Important highlight A is important
+              description: "Find out more about population trends in Singapore!"
               url: https://google.com
             - title: "Marriage and Parenthood"
-              description: Important highlight B is equally important
+              description: "Dating, Marriage -> Parenthood"
               url: https://gmail.com
             - title: "Ageing"
               description: "How is SG a home for ageing population?"
