@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/NPTD.png
 
 links:
   - title: Contact Us
@@ -21,5 +21,5 @@ links:
     collection: left-nav-one
   - title: Left Nav Two
     collection: left-nav-two
-  - title: Resource Room
+  - title: Media Centre
     resource_room: true
