@@ -1,6 +1,6 @@
 ---
-title: Population In Brief
-permalink: /pib/
+title: Test
+permalink: /test/
 ---
 ### Why you don’t want to stop working. Ever.
 
@@ -8,7 +8,7 @@ permalink: /pib/
 
 
 
-![Justin at work](https://www.population.sg/images/default-source/default-album/justin-at-work.jpg?sfvrsn=ae9f5136_0)
+![Justin at work](https://www.population.sg/images/default-source/default-album/justin-at-work.jpg)
 
 On the job: Part of Justin Kor's work as a content associate involves him meeting and interviewing people, hearing their ideas and teasing interesting anecdotes out from them. He may just be at the starting point of his career, but Justin had already planned out his perfect retirement life -- a long, idyllic fishing holiday by the sea. But a meeting with an intern, or more accurately, a 63-year-old retiree turned intern, changed his views about retirement.
 
