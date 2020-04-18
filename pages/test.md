@@ -1,6 +1,6 @@
 ---
-title: Population In Brief
-permalink: /pib/
+title: test
+permalink: /test/
 ---
 
 ### **Population in Brief 2019: What do you need to know?**
