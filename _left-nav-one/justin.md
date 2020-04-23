@@ -1,6 +1,6 @@
 ---
 title: Population Trends
-permalink: /left-nav-one/justin-test/
+permalink: /left-nav-one/justin/
 ---
 
 Test
