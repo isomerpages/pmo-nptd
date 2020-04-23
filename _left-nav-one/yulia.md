@@ -1,0 +1,4 @@
+---
+title: test
+permalink: /yulia/
+---

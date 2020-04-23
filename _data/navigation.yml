@@ -4,22 +4,18 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/nptd.jpg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Privacy Statement
-    url: /privacy-statement/
-  - title: Terms Of Use
-    url: /terms-of-use/
   - title: Who We Are
     url: /who-we-are/
-  - title: Left Nav One
+  - title: Our Population
     collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
-  - title: Resource Room
+  - title: Media Centre
     resource_room: true
+  - title: Faq
+    url: /faq/
+  - title: PIB
+    url: /pib/
+  - title: Left Nav Two
+    collection: left-nav-two 
