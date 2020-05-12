@@ -12,8 +12,8 @@ links:
   - title: Our Population
     collection: left-nav-one
   - title: Media Centre
+    resource_room: true
       url: /media-centre/
-      resource_room: true
       sub-links:
       - title: All
         url: /media-centre/
