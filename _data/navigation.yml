@@ -10,7 +10,7 @@ links:
   - title: About Us
     url: /about-us/
   - title: Our Population
-    url: /our-population/overview/
+    collection: our-population
   - title: Media Centre
     resource_room: true
   - title: FAQ
