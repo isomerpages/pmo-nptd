@@ -15,7 +15,4 @@ links:
     resource_room: true
   - title: Faq
     url: /faq/
-  - title: PIB
-    url: /pib/
-  - title: Left Nav Two
-    collection: left-nav-two 
+
