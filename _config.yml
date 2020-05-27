@@ -5,6 +5,8 @@ favicon: /images/favicon-isomer.ico
 collections:
   our-population: 
     output: true
+  1-population-trends: 
+    output: true
 resources_name: media-centre
 
 ##################################################################################################################
