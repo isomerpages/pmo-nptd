@@ -13,6 +13,7 @@ links:
     collection: left-nav-one
   - title: Media Centre
     resource_room: true
-  - title: Faq
+  - title: FAQ
     url: /faq/
-
+  - title: Contact Us
+    url: /contact-us/
