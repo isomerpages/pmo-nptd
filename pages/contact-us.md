@@ -1,32 +1,23 @@
 ---
-layout: contact_us
 title: Contact Us
-permalink: /contact-us/
-agency_name: National Population and Talent Division
-locations:
-  - title: Main Office
-    address:
-        - 100 High Street
-        - #03-01 The Treasury
-        - Singapore 179434
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+permalink: /pages/contact-us/
 ---
+
+# Get in touch with    
+# National Population and Talent Division
+### HQ Address
+
+**National Population and Talent Division, Strategy Group, Prime Minister's Office**
+
+100 High Street, The Treasury, Singapore 179434
+
+### Email  
+[<a href="mailto:SG_Feedback@pmo.gov.sg" target="_blank">SG_Feedback@pmo.gov.sg</a>](mailto:SG_Feedback@pmo.gov.sg)
+
+### Contact Us 
+
+### Send us your feedback  
+If you have a query, feedback or wish to report a problem<br>
+related to this website, please fill in the [<a href="https://form.gov.sg/#!/5df1d0ca0c936b00190cbfed" target="_blank">online form</a>](https://form.gov.sg/#!/5df1d0ca0c936b00190cbfed).
+
+
