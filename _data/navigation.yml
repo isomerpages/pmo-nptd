@@ -7,8 +7,8 @@
 logo: /images/nptd.jpg
 
 links:
-  - title: Who We Are
-    url: /who-we-are/
+  - title: About Us
+    url: /about-us/
   - title: Our Population
     collection: left-nav-one
   - title: Media Centre
