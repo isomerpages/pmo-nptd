@@ -1,6 +1,6 @@
 ---
 title: Population Trends
-permalink: /our-population/population-trends/
+permalink: /our-population/population-trends/population-trends
 ---
 
 Singapore’s total population stands at 5.7 million as of June 2019, up by just over 1 per cent from the previous year.
