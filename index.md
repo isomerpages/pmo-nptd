@@ -13,14 +13,14 @@ sections:
         button: "Read More"
         url: /pib/
         key_highlights:
-            - title: "Pop Trends"
+            - title: "Population Trends"
               description: "Find out more about population trends in Singapore!"
               url: https://google.com
             - title: "Marriage and Parenthood"
-              description: "Dating, Marriage -> Parenthood"
+              description: "Making Singapore a Great Place for Families"
               url: https://gmail.com
-            - title: "Ageing"
-              description: "How is SG a home for ageing population?"
+            - title: "Made For Families"
+              description: "Be part of an ecosystem that supports families"
               url: /privacy/
     - infobar:
         title: Infobar title
