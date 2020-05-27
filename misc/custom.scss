@@ -18,6 +18,17 @@ $media-color-five: #00838f;
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
+$pre-text: normal;
+$font-family: "Lato", sans-serif !important;
+$font-weight-normal: normal;
+$font-weight-medium: medium;
+$font-weight-bold: bold;
+$font-color: #3a3a3a;
+$p-size: 0.9rem;
+$p-line-height: 1.5rem;
+$background-color-white: #ffffff;
+$capatilize: capitalize;
+
 // Mixins
 
 @mixin touch() {
@@ -32,6 +43,9 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+body {
+  font-family: "Lato", sans-serif !important;
+}
 // Background
 .bg{
   &-primary{
