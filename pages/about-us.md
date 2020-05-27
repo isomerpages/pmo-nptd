@@ -1,6 +1,6 @@
 ---
-title: Who We Are
-permalink: /who-we-are/
+title: About Us
+permalink: /about-us/
 ---
 
 ### **About Us**
