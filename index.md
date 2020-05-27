@@ -2,7 +2,7 @@
 layout: homepage
 title: National Population and Talent Division
 description: Welcome to the National Population and Talent Division website
-image: /images/NPTD-web.jpg
+image: /images/NPTD-logo.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
