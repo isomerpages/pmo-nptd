@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /pages/contact-us/
+permalink: /contact-us/
 ---
 
 # Get in touch with    
