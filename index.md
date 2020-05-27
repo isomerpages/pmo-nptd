@@ -8,7 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: <font size=8>National Population and Talent Division</font> 
-        subtitle: "Sub text here"
         background: /images/hero-banner-May-2020.jpg
         button: "Read More"
         url: /pib/
