@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: National Population and Talent Division 
+        title: <font size=8>National Population and Talent Division</font> 
         subtitle: "Sub text here"
         background: /images/hero-banner.png
         button: "Read More"
