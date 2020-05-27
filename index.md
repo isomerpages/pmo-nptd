@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: National Population and Talent Division 
-        subtitle: "Population in Brief 2019: What do you need to know?"
+        subtitle: "Sub text here"
         background: /images/hero-banner.png
         button: "Read More"
         url: /pib/
@@ -23,13 +23,13 @@ sections:
               description: "Be part of an ecosystem that supports families"
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        title: Population in Brief 2019
+        subtitle: What do you need to know?
+        description: Population in Brief (PIB) 2019 has just been released with fresh data on Singapore’s population. It provides key updates and trends on Singapore’s population, particularly in relation to citizen marriages, births and immigration.
+        button: Read More
         url: /faq/
     - resources:
-        title: Media
+        title: Media and Publications
         subtitle: Learn more
         button: View More
 ---
