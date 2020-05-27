@@ -3,10 +3,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 collections:
-  left-nav-one:
-    output: true
-  left-nav-two:
-    output: true
   our-population: 
     output: true
 resources_name: media-centre
