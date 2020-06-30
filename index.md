@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: <font size=8>National Population and Talent Division</font> 
-        background: /images/hero-banner-May-2020.jpg
+        background: /images/stock-image-7.JPG
         button: "Read More"
         url: /about-us/
         key_highlights:
