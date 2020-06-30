@@ -5,6 +5,8 @@ permalink: /our-population/overview/
 
 ### Our Sustainable Population Objectives
 
+![Public housing in Singapore, image by iStock](/images/stock-image-1.JPG)
+
 **People**, as the late Mr Lee Kuan Yew once said, are Singapore’s only available natural resource. And the good news is that Singaporeans are living longer. **Life expectancy** in Singapore is on the rise, reflecting a higher standard of living and affluence. Our seniors are also increasingly healthier and better educated.
 
 Singapore’s resident TFR has remained below the replacement rate of 2.1 for many years, and is part of a broader demographic shift in our society. With couples marrying later and having fewer kids, our **fertility rate** — the average number of children women will have in their lifetime — has remained low for many years.
@@ -14,6 +16,8 @@ This means that as larger cohorts of older Singaporeans enter their retirement y
 Down the road, with the current fertility rate and without immigration, our citizen population will continue to shrink. This would make it difficult to maintain a strong core of Singaporeans in the population. It would also pose challenges as we strive to strengthen our sense of national identity; of who we are as Singaporeans in a globalised world.
 
 Our low fertility rates could be a fundamental, existential issue for Singapore. This is why we need policies to help sustain a **stable and cohesive** society with Singaporeans at its heart, a **dynamic and vibrant economy** to provide good jobs and opportunities for Singaporeans<sup>1</sup>, and a **high quality living environment**.
+
+![Family, image by iStock](/images/stock-image-2.jpg)
 
 At the heart of these policies is the desire to make **Singapore a great place for families** — to build a strong ecosystem to support Singaporeans to get married and raise families. One of such ways, is with a comprehensive Marriage and Parenthood (M&P) package, comprising measures in the areas of housing, preschool, healthcare, work-life harmony and overall child-raising costs. 
 
