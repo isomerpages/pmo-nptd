@@ -6,7 +6,7 @@ permalink: /our-population/resources/
 ### Articles ###
 
 * Older Singaporeans to double by 2030 
-* [How is the TFR Calculated?](/media-centre/press-releases/how-is-the-tfr-calculated) 
+* [How is the TFR Calculated?](/media-centre/articles/how-is-the-tfr-calculated) 
 * Are Singaporeans renouncing their citizenship and rapidly being replaced? 
 * What are the racial proportions among Singapore citizens? 
 * Why are Singapore's official population statistics different from those released by international organisations? 
