@@ -4,6 +4,8 @@ permalink: /our-population/population-trends/Overview
 third_nav_title: Population Trends
 ---
 
+![Pedestrians aerial view](/images/stock-image-6.JPG)
+
 Singapore’s total population stands at 5.x million as of June 2020, which grew slightly by xx% from June 2019 to June 2020. Overall, total population growth rate over the past five years was slower compared to the previous five-year period.
 
 ![Total population](/images/diagram-1.JPG)
