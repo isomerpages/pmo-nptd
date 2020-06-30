@@ -17,10 +17,10 @@ sections:
               url: https://google.com
             - title: "Marriage and Parenthood"
               description: "Making Singapore a Great Place for Families"
-              url: https://gmail.com
+              url: https://heybaby.sg
             - title: "Made For Families"
               description: "Be part of an ecosystem that supports families"
-              url: /privacy/
+              url: https://www.heybaby.sg/madeforfamilies
     - infobar:
         title: Population in Brief 2019
         subtitle: What do you need to know?
