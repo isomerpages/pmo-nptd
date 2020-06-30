@@ -12,11 +12,11 @@ So what affects TFR? In the short-term, TFR can be affected by factors such as e
  
 Despite our low TFR, there is reason to be hopeful as more Singaporeans are starting families. More citizens got married in the last five years (2015-2019) than between 2010 and 2014.
 
-![Citizen marriages chart](/images/Citizens-marriages-chart.JPG)
+![Citizen marriages chart](/images/chart-8.JPG)
 
 More citizen babies were born between 2015 and 2019, than between 2010 and 2014.
 
-![Citizen births chart](/images/Citizens-births-chart.JPG)
+![Citizen births chart](/images/chart-11.JPG)
   
 Furthermore, Singaporeans consistently express a strong desire to get married and have children. The 2016 Marriage and Parenthood (M&P) Survey showed that 83% of single Millennials (aged 21-35) surveyed want to get married, and 92% of married Millennials surveyed want to have at least two children.
 
