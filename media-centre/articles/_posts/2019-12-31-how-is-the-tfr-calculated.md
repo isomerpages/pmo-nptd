@@ -2,7 +2,7 @@
 layout: post
 title:  "How is the TFR calculated?"
 date:   2019-12-31
-permalink: "/media-centre/press-releases/how-is-the-tfr-calculated"
+permalink: "/media-centre/articles/how-is-the-tfr-calculated"
 ---
 
 ![Baby and mother, image by iStock](/images/stock-image-8.JPG)
