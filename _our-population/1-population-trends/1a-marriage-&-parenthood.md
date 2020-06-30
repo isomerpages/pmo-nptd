@@ -10,11 +10,11 @@ So what affects TFR? In the short-term, TFR can be affected by factors such as e
  
 Despite our low TFR, there is reason to be hopeful as more Singaporeans are starting families. More citizens got married in the last five years (2015-2019) than between 2010 and 2014.
 
-insert chart
+![Citizen marriages chart](/images/Citizens-marriages-chart.JPG)
 
 More citizen babies were born between 2015 and 2019, than between 2010 and 2014.
 
-insert chart
+![Citizen births chart](/images/Citizens-births-chart.JPG)
   
 Furthermore, Singaporeans consistently express a strong desire to get married and have children. The 2016 Marriage and Parenthood (M&P) Survey showed that 83% of single Millennials (aged 21-35) surveyed want to get married, and 92% of married Millennials surveyed want to have at least two children.
 
@@ -26,9 +26,7 @@ There is now more support than before for parents to better manage their work an
 
 To further improve work-life harmony in Singapore, a Citizens’ Panel, comprising Singaporeans from various walks of life, was convened in 2019. Initiatives recommended by the panel to promote FWAs, improve HR practices and social norms are now in the pipeline. Details can be found here. We will continue to work with fellow Singaporeans on ways to address marriage and parenthood issues.
 
-Insert Infographic
-  
-Click for the latest enhancements announced in 2019, and a summary of the Citizens’ Panel on Work-Life Harmony>
+![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
 
 To assure families of support from the government and community at large, we have also launched the Made For Families initiative in June 2020. Businesses, organisations and community groups can adopt the Made For Families brand mark to identify themselves as promoting the value of family in our society. Government programmes that help couples marry, start and bring up their families will also be identified as reasons why Singapore is Made for Families. More details on Made For Families can be found here.
 
