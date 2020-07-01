@@ -1,6 +1,6 @@
 ---
-title: About US
-permalink: /about-us/
+title: About NPTD
+permalink: /about-nptd/
 ---
 
 
