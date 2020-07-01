@@ -16,11 +16,14 @@ sections:
               description: "Find out more about population trends in Singapore!"
               url: /our-population/population-trends/overview/
             - title: "Marriage and Parenthood"
-              description: "Making Singapore a Great Place for Families"
-              url: https://heybaby.sg
-            - title: "Made For Families"
-              description: "Be part of an ecosystem that supports families"
-              url: https://www.heybaby.sg/madeforfamilies
+              description: "Making Singapore a great place for families"
+              url: /our-population/population-trends/marriage-&-parenthood
+            - title: "Ageing"
+              description: "Growing old with purpose and grac"
+              url: /our-population/population-trends/ageing
+            - title: "People and Society"
+              description: "A strong and cohesive Singapore society"
+              url: /our-population/population-trends/people-&-society
     - infobar:
         title: Population in Brief 2019
         subtitle: What do you need to know?
