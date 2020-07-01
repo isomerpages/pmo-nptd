@@ -39,7 +39,7 @@ sections:
         url: https://www.heybaby.sg/PlayAPart/MadeForFamilies
         image: /images/made-for-families.jpg
     - resources:
-        title: Media and Publications
-        subtitle: Learn more
+        title: Latest News
+        subtitle: Media Centre
         button: View More
 ---
