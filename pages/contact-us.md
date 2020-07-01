@@ -4,15 +4,16 @@ title: Contact Us
 permalink: /contact-us/
 ---
 
-# Get in touch with    
-# National Population and Talent Division
+# Get in touch with #   
+# National Population and Talent Division #
+
 ### HQ Address
 
 **National Population and Talent Division, Strategy Group, Prime Minister's Office**
 
 100 High Street, The Treasury, Singapore 179434
 
-### Email  
+### E-mail  
 [<a href="mailto:SG_Feedback@pmo.gov.sg" target="_blank">SG_Feedback@pmo.gov.sg</a>](mailto:SG_Feedback@pmo.gov.sg)
 
 ### Send us your feedback  
