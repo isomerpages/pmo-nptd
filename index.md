@@ -19,17 +19,23 @@ sections:
               description: "Making Singapore a great place for families"
               url: /our-population/population-trends/marriage-&-parenthood
             - title: "Ageing"
-              description: "Growing old with purpose and grac"
+              description: "Growing old with purpose and grace"
               url: /our-population/population-trends/ageing
             - title: "People and Society"
               description: "A strong and cohesive Singapore society"
               url: /our-population/population-trends/people-&-society
-    - infobar:
+    - infopic:
+        image: /images/Population-in-brief.jpg
         title: Population in Brief 2019
-        subtitle: What do you need to know?
-        description: Population in Brief (PIB) 2019 has just been released with fresh data on Singapore’s population. It provides key updates and trends on Singapore’s population, particularly in relation to citizen marriages, births and immigration.
+        description: Population in Brief (PIB) 2019 has just been released with fresh data on Singapore’s population. It provides key updates and trends on Singapore’s population, particularly in relation to citizen marriages, births and immigration. 
         button: Read More
-        url: /our-population/population-trends/overview/
+        url: /media-centre/publications/population-in-brief/
+    - infopic:
+        title: Made For Families
+        description: In the spirit of emerging stronger together, we invite everyone to come together to build a Singapore that is Made For Families to thrive. Take part in the #WeAreMadeForFamilies challenge! 
+        button: Read More
+        url: https://www.heybaby.sg/PlayAPart/MadeForFamilies
+        image: /images/made-for-families.jpg
     - resources:
         title: Media and Publications
         subtitle: Learn more
