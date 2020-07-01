@@ -8,7 +8,7 @@ logo: /images/NPTD.png
 
 links:
   - title: Who We Are
-    collection: who-we-are
+    url: /who-we-are/
   - title: Our Population
     collection: our-population
   - title: Media Centre
