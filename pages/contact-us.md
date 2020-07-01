@@ -1,5 +1,5 @@
 ---
-title: Get in touch with National Population and Talent Division
+title: Contact Us
 permalink: /contact-us/
 ---
 
