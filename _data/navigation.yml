@@ -7,13 +7,13 @@
 logo: /images/NPTD.png
 
 links:
-  - title: About Us
+  - title: Who We Are
     collection: about-us
   - title: Our Population
     collection: our-population
   - title: Media Centre
     resource_room: true
-  - title: FAQ
-    url: /faq/
+  - title: Resources
+    url: /resources/
   - title: Contact Us
     url: /contact-us/
