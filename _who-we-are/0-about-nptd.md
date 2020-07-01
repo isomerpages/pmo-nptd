@@ -1,6 +1,6 @@
 ---
 title: About NPTD
-permalink: /about-nptd/
+permalink: /who-we-are/about-nptd/
 ---
 
 ### **About NPTD**
