@@ -29,11 +29,13 @@ sections:
         title: Population in Brief 2019
         description: Population in Brief (PIB) 2019 has just been released with fresh data on Singapore’s population. It provides key updates and trends on Singapore’s population, particularly in relation to citizen marriages, births and immigration. 
         button: Read More
+        alt: Population in Brief 2019
         url: /media-centre/publications/population-in-brief/
     - infopic:
         title: Made For Families
         description: In the spirit of emerging stronger together, we invite everyone to come together to build a Singapore that is Made For Families to thrive. Take part in the #WeAreMadeForFamilies challenge! 
         button: Read More
+        alt: Made For Families
         url: https://www.heybaby.sg/PlayAPart/MadeForFamilies
         image: /images/made-for-families.jpg
     - resources:
