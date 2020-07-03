@@ -1,6 +1,6 @@
 ---
-title: Ageing
-permalink: /our-population/population-trends/ageing
+title: Ageing Population
+permalink: /our-population/population-trends/ageing-population
 third_nav_title: Population Trends
 ---
 
