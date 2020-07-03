@@ -18,9 +18,9 @@ sections:
             - title: "Marriage and Parenthood"
               description: "Making Singapore a great place for families"
               url: /our-population/population-trends/marriage-&-parenthood
-            - title: "Ageing"
+            - title: "Ageing Population"
               description: "Growing old with purpose and grace"
-              url: /our-population/population-trends/ageing
+              url: /our-population/population-trends/ageing-population
             - title: "People and Society"
               description: "A strong and cohesive Singapore society"
               url: /our-population/population-trends/people-&-society
