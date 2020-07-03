@@ -33,7 +33,7 @@ sections:
         url: /media-centre/publications/population-in-brief/
     - infopic:
         title: Made For Families
-        description: In the spirit of emerging stronger together, we invite everyone to come together to build a Singapore that is Made For Families to thrive. Take part in the #WeAreMadeForFamilies challenge! 
+        description: In the spirit of emerging stronger together, we invite everyone to come together to build a Singapore that is Made For Families to thrive. 
         button: Read More
         alt: Made For Families
         url: https://www.heybaby.sg/PlayAPart/MadeForFamilies
