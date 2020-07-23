@@ -4,7 +4,7 @@ permalink: /our-population/population-trends/ageing-population
 third_nav_title: Population Trends
 ---
 
-![Grandparents and grandchildren, image by iStock](/images/stock-image-3.jpg)
+![Grandparents and grandchildren, image by iStock](/images/stock-image-11.JPG)
 
 With increasing life expectancy and low fertility rates, the proportion of our citizen population aged 65 years and above is fast rising - with large cohorts of “baby boomers” entering the post-65 age range. With increasing longevity, there are opportunities to make Singapore a home for all ages, and a place where we can **grow old with purpose and grace**. 
 
