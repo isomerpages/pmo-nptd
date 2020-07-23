@@ -5,7 +5,7 @@ permalink: /our-population/overview/
 
 ### Our Sustainable Population Objectives
 
-![Public housing in Singapore, image by iStock](/images/stock-image-1.JPG)
+![Public housing in Singapore, image by iStock](/images/stock-image-10.JPG)
 
 **People**, as the late Mr Lee Kuan Yew once said, are Singapore’s only available natural resource. **Life expectancy** in Singapore is on the rise, reflecting a higher standard of living and affluence. Our seniors are also increasingly healthier and better educated.
 
@@ -17,7 +17,7 @@ At the current fertility rate and without immigration, our citizen population wi
 
 Our low fertility rates is hence a fundamental, existential issue for Singapore. This is why we need policies to help sustain a **stable and cohesive** society with Singaporeans at its core, a **dynamic and vibrant economy** to provide good jobs and opportunities for Singaporeans, and a **high quality living environment** for all.
 
-![Family, image by iStock](/images/stock-image-2.jpg)
+![Family, image by iStock](/images/stock-image-12.JPG)
 
 At the heart of these policies is the desire to make **Singapore a great place for families** — to build a strong ecosystem to support Singaporeans in their marriage and parenthood journeys. We adopt a comprehensive approach to this, by continually improving measures in in key areas, such as housing, preschool, healthcare, work-life harmony, overall child-raising costs, and physical infrastructure. 
 
