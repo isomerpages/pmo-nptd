@@ -18,13 +18,13 @@ The number of SCs granted also includes citizenships for children born overseas 
 
 ![Citizenships table](/images/table-5.JPG)
 
-The exact number of new SC / PRs granted each year depends on several factors, including the number and quality of applications we receive, the pace of integration of new immigrants and our changing needs. 
+The exact number of new SC/PRs granted each year depends on several factors, including the number and quality of applications we receive, the pace of integration of new immigrants and our changing needs. 
 
-Every application for SC/PR is evaluated holistically to assess the applicant’s ability to integrate in and contribute to Singapore, and their commitment to sinking roots here. Various markers of social integration are considered, such as applicants’ family ties to Singaporeans, length of residency here, and whether applicants and their children have studied in our national schools or completed NS. Other factors considered include the applicant's economic contributions, qualifications and age.
+Every application for SC/PR is evaluated holistically to assess the applicant’s ability to integrate in and contribute to Singapore, and their commitment to sinking roots here. Various markers of social integration are considered, such as applicants’ family ties to Singaporeans, length of residency here, and whether applicants and their children have studied in our national schools or completed National Service. Other factors considered include the applicant's economic contributions, qualifications and age.
 
-New citizens must make the effort to fit in. To help them along, we have a [National Integration Council (NIC)](https://www.nationalintegrationcouncil.gov.sg/), which is behind initiatives such as the [Singapore Citizenship Journey (SCJ)](https://www.nationalintegrationcouncil.gov.sg/citizenship/singapore-citizenship-journey). All naturalised citizens go through the SCJ to understand Singapore’s history, norms and values, and in the process build stronger ties with the local community. 
+New citizens must make the effort to fit in. To help them along, we have a [National Integration Council (NIC)](https://www.nationalintegrationcouncil.gov.sg/), which is behind initiatives such as the [Singapore Citizenship Journey (SCJ)](https://www.mccy.gov.sg/sector/initiatives/singapore-citizenship-journey). All naturalised citizens go through the SCJ to understand Singapore’s history, norms and values, and in the process build stronger ties with the local community. 
 
-Integration is not something that can be forced upon people. But when everyone across all levels of society gets involved, that’s when it will be most effective, sustainable and rewarding for Singapore.
+When everyone across all levels of society gets involved, that’s when integration will be most effective, sustainable and rewarding for Singapore.
 
 
 *<sup>1</sup> Inter-ethnic marriages refer to marriages between persons of different races*  
