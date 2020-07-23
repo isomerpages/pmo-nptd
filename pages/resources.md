@@ -7,9 +7,12 @@ permalink: /resources/
 
 * Older Singaporeans to double by 2030 
 * [How is the TFR Calculated?](/media-centre/articles/how-is-the-tfr-calculated) 
-* Are Singaporeans renouncing their citizenship and rapidly being replaced? 
-* What are the racial proportions among Singapore citizens? 
-* Why are Singapore's official population statistics different from those released by international organisations? 
+* [Are Singaporeans renouncing their citizenship and rapidly being replaced?](/media-centre/articles/are-singaporeans-renouncing-their-citizenship-and-rapidly-being-replaced) 
+* [What are the racial proportions among Singapore citizens?](/media-centre/articles/what-are-the-racial-proportions-among-singapore-citizens) 
+* [Why are Singapore's official population statistics different from those released by international organisations?](/media-centre/articles/why-are-singapore-s-official-population-statistics-different-from-those-released-by-international-organisations)  
+* [What is the aim of Government population policies?](/media-centre/articles/what-is-the-aim-of-government-population-policies)  
+* [Does the Government have a population target, e.g. 10 million?](/media-centre/articles/does-the-government-have-a-population-target-eg-10-million)  
+* [Clarification regarding recent statements on Singapore population 'target'](/media-centre/press-releases/clarification-regarding-recent-statements-on-singapore-population-target)
   
 ### Publications ###
 
