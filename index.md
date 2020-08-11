@@ -16,7 +16,7 @@ sections:
               description: "Find out more about population trends in Singapore!"
               url: /our-population/population-trends/overview/
             - title: "Marriage and Parenthood"
-              description: "Making Singapore a great place for families"
+              description: "Building a Singapore that is Made For Families"
               url: /our-population/population-trends/marriage-&-parenthood
             - title: "Ageing Population"
               description: "Growing old with purpose and grace"
