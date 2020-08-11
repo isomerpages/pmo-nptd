@@ -10,7 +10,7 @@ sections:
         title: <font size=8>National Population and Talent Division</font> 
         background: /images/stock-image-13.JPG
         button: "Read More"
-        url: /about-us/
+        url: /who-we-are/
         key_highlights:
             - title: "Population Trends"
               description: "Find out more about population trends in Singapore!"
