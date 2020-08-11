@@ -4,7 +4,7 @@ permalink: /our-population/population-trends/people-&-society
 third_nav_title: Population Trends
 ---
 
-![Friends of Singapore, image by iStock](/images/stock-image-4.JPG)
+![Friends of Singapore, image by iStock](/images/stock-image-14.JPG)
 
 A strong and cohesive Singapore society is one that also embraces diversity. Singapore has a rich history of welcoming people of different cultures and backgrounds; and many of us can trace our ancestry beyond these shores.
 
