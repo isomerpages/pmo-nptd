@@ -26,8 +26,8 @@ sections:
               url: /our-population/population-trends/people-&-society
     - infopic:
         image: /images/Population-in-brief.jpg
-        title: Population in Brief 2019
-        description: Population in Brief (PIB) 2019 has just been released with fresh data on Singapore’s population. It provides key updates and trends on Singapore’s population, particularly in relation to citizen marriages, births and immigration. 
+        title: Population in Brief
+        description: The annual Population in Brief (PIB) provides key updates and trends on Singapore's population, particularly in relation to citizen marriages, births, and immigration. The latest PIB is available here. 
         button: Read More
         alt: Population in Brief 2019
         url: /media-centre/publications/population-in-brief/
