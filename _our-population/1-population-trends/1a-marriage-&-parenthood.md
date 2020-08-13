@@ -4,7 +4,7 @@ permalink: /our-population/population-trends/marriage-&-parenthood
 third_nav_title: Population Trends
 ---
 
-![Singapore family, image by iStock](/images/stock-image-15.JPG)
+![Family collage](/images/stock-image-19.JPG)
 
 **Marriage and Parenthood Trends**
 
