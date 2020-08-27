@@ -14,13 +14,13 @@ In the short-term, TFR can be affected by factors such as economic uncertainty, 
 
 We regularly monitor emerging and enduring trends to better understand how they impact Singaporeans’ attitudes towards marriage and parenthood.
  
-Despite our low TFR, there is reason to be hopeful as more Singaporeans are starting families. On average, more citizens got married in the last five years (2015-2019) than between 2010 and 2014.
+Despite our low TFR, there is reason to be hopeful as more Singaporeans are starting families. On average, more citizens got married in the last five years (2015-2019) than between 2010 and 2014. 
 
-![Citizen marriages chart](/images/chart-8.JPG)
+![Citizen marriages chart](/images/Citizens-marriages-chart.png)
 
-On average, there were also more citizen babies were born between 2015 and 2019, than between 2010 and 2014.
+On average, there were also more citizen babies born between 2015 and 2019, than the preceding five-year period (2010 – 2014).
 
-![Citizen births chart](/images/chart-11.JPG)
+![Citizen births chart](/images/Citizens-births-chart.png)
   
 Young Singaporeans have consistently expressed a strong desire to get married and have children. The 2016 Marriage and Parenthood (M&P) Survey showed that 83% of single Millennials (aged 21-35) surveyed want to get married, and 92% of married Millennials surveyed want to have at least two children.
 
