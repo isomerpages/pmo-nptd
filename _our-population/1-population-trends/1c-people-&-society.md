@@ -12,11 +12,11 @@ This coexistence and intermixing of cultures continues today. In 2018, about 1 i
 
 ![Inter-ethnic and transnationl marriages](/images/transnational-inter-ethnic-charts.JPG)
 
-Immigration remains a delicate issue in many places around the world. In Singapore, the numbers are carefully controlled – between 2015-2019, about 22,100 new Singapore citizenships (SC) and about 31,700 Permanent Residencies (PR) were granted on average each year. The total size of the PR population has remained stable at around half a million. 
+Immigration remains a delicate issue in many places around the world. In Singapore, the numbers are carefully controlled – over the past five years, about 22,000 new Singapore Citizenships (SC) and about 32,000 Permanent Residencies (PR) were granted on average each year. The total size of the PR population has remained stable at around half a million. 
 
-The number of SCs granted also includes citizenships for children born overseas to Singaporean parents. These children made up about 1,600 of new SCs granted each year. 
+The number of SCs granted also includes citizenships for children born overseas to Singaporean parents. These children made up about 1,600 of new SCs granted each year.
 
-![Citizenships table](/images/table-5.JPG)
+![Number of SCs and PRs granted](/images/chart-15-1.JPG)
 
 The exact number of new SC/ PRs granted each year depends on several factors, including the number and quality of applications we receive, the pace of integration of new immigrants and our changing needs.
 
