@@ -8,7 +8,7 @@ third_nav_title: Population Trends
 
 **Marriage and Parenthood Trends**
 
-Globally, many developed societies have seen birth rates declining since the 1970s. Singapore’s total fertility rate (TFR)  was 1.14 in 2019.
+Globally, many developed societies have seen birth rates declining since the 1970s. Singapore’s total fertility rate [(TFR)](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) was 1.14 in 2019.
 
 In the short-term, TFR can be affected by factors such as economic uncertainty, and demographic trends. In the long-term, TFR trends are influenced by social norms and values, and attitudes toward marriage and parenthood. Economic development and improvements in education and work opportunities for women also influence societal attitudes toward singlehood, marriage, and parenthood. 
 
