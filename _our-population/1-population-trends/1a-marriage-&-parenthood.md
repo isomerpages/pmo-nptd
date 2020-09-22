@@ -16,11 +16,11 @@ The Government regularly monitors emerging and enduring trends to better underst
  
 Despite the low TFR, there is reason to be hopeful as more Singaporeans are starting families. On average, more citizens got married in the last five years (2015-2019) than between 2010 and 2014.
 
-![Citizen marriages chart](/images/Citizens-marriages-chart.png)
+![Citizen marriages chart](/images/chart-8.png)
 
 On average, there were also more citizen babies born between 2015 and 2019, than the preceding five-year period (2010 and 2014).
 
-![Citizen births chart](/images/Citizens-births-chart.png)
+![Citizen births chart](/images/chart-11.png)
   
 Young Singaporeans have consistently expressed a strong desire to get married and have children. The 2016 Marriage and Parenthood (M&P) Survey showed that 83 per cent of single Millennials (aged 21-35) surveyed want to get married, and 92 per cent of married Millennials surveyed want to have at least two children.
 
