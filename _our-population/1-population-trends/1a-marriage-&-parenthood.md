@@ -18,7 +18,7 @@ Despite the low TFR, there is reason to be hopeful as more Singaporeans are star
 
 ![Citizen marriages chart](/images/Citizens-marriages-chart.png)
 
-On average, there were also more citizen babies were born between 2015 and 2019, than the preceding five-year period (2010 and 2014).
+On average, there were also more citizen babies born between 2015 and 2019, than the preceding five-year period (2010 and 2014).
 
 ![Citizen births chart](/images/Citizens-births-chart.png)
   
@@ -36,6 +36,5 @@ To further improve work-life harmony in Singapore, a Citizens’ Panel, comprisi
 
 ![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
 
-The *Made For Families* initiative was launched in June 2020 to further assure families of support from the Government and the community. Businesses, organisations and community groups can adopt the *Made For Families* brand mark to identify themselves as promoting the value of family in our society. Government programmes that help couples marry, start and bring up their families also contribute to shaping a Singapore that is [*Made for Families*](https://www.go.gov.sg/MadeForFamilies). 
+The *Made For Families* initiative was launched in June 2020 to further assure families of support from the Government and the community. Businesses, organisations and community groups can submit request to adopt the *Made For Families* brand mark to identify themselves as promoting the value of family in our society. Government programmes that help couples marry, start and bring up their families also contribute to shaping a Singapore that is [*Made for Families*](https://www.go.gov.sg/MadeForFamilies). 
 
-Visit [Heybaby.sg](https://www.heybaby.sg) for more information.
