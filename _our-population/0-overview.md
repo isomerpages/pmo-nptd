@@ -7,13 +7,13 @@ permalink: /our-population/overview/
 
 ![Public housing in Singapore, image by iStock](/images/stock-image-10.JPG)
 
-**People** are Singapore’s only available natural resource, as the late founding Prime Minister of Singapore Lee Kuan Yew once said. **Life expectancy** in Singapore is on the rise, reflecting a higher standard of living and affluence. Its seniors are also increasingly healthier and better educated.
+**People** are Singapore’s only available natural resource, as the late founding Prime Minister of Singapore Lee Kuan Yew once said. **Life expectancy** in Singapore is on the rise, reflecting a higher standard of living. Our seniors are also increasingly healthier and better educated.
 
 Singapore’s resident Total Fertility Rate has remained below the replacement rate of 2.1 for many years. This trend is part of a broader demographic shift in the country. With couples marrying later and having fewer children, the **fertility rate** — the average number of children women will have in their lifetime — has remained low for many years.
 
 Larger cohorts of older Singaporeans are entering their retirement years, while smaller cohorts are entering the workforce. The working age citizen population will gradually decline. There will be fewer working age Singaporeans to drive our economy, and to support seniors who may not be working.
 
-A low fertility rate is hence an existential issue for Singapore. This is why policies are needed to help sustain a **stable and cohesive** society with Singaporeans at its core, a **dynamic and vibrant economy** to provide good jobs and opportunities for Singaporeans, and a **high quality living environment** for all.
+A low fertility rate is hence an existential issue for Singapore. This is why policies are needed to help sustain a **strong and cohesive** society with Singaporeans at its core, a **dynamic and vibrant economy** to provide good jobs and opportunities for Singaporeans, and a **high quality living environment** for all.
 
 ![Family of two](/images/stock-image-17.JPG)
 
