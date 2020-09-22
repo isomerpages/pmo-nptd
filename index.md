@@ -4,7 +4,6 @@ title: National Population and Talent Division
 description: Welcome to the National Population and Talent Division website
 image: /images/NPTD-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: <font size=8>National Population and Talent Division</font> 
@@ -27,7 +26,7 @@ sections:
     - infopic:
         image: /images/Population-in-brief.jpg
         title: Population in Brief
-        description: The annual Population in Brief (PIB) provides key updates and trends on Singapore's population, particularly in relation to citizen marriages, births, and immigration. The latest PIB is available here. 
+        description: The annual Population in Brief (PIB) provides key updates and trends on Singapore's population. The latest PIB is available here. 
         button: Read More
         alt: Population in Brief 2019
         url: /media-centre/publications/population-in-brief/
