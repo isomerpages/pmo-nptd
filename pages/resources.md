@@ -5,7 +5,6 @@ permalink: /resources/
 
 ### Articles ###
 
-* Older Singaporeans to double by 2030 
 * [How is the TFR Calculated?](/media-centre/articles/how-is-the-tfr-calculated) 
 * [Are Singaporeans renouncing their citizenship and rapidly being replaced?](/media-centre/articles/are-singaporeans-renouncing-their-citizenship-and-rapidly-being-replaced) 
 * [What are the racial proportions among Singapore citizens?](/media-centre/articles/what-are-the-racial-proportions-among-singapore-citizens) 
