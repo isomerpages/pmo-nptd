@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: <font size=8>National Population and Talent Division</font> 
-        background: /images/stock-image-13.JPG
+        background: /images/stock-image-13.jpg
         button: "Read More"
         url: /who-we-are/
         key_highlights:
