@@ -5,7 +5,7 @@ permalink: /our-population/overview/
 
 ### Our Sustainable Population Objectives
 
-![Public housing in Singapore, image by iStock](/images/stock-image-10.JPG)
+![Public housing in Singapore, image by iStock](/images/stock-image-10.jpg)
 
 **People** are Singapore’s only available natural resource, as the late founding Prime Minister of Singapore Lee Kuan Yew once said. **Life expectancy** in Singapore is on the rise, reflecting a higher standard of living. Our seniors are also increasingly healthier and better educated.
 
