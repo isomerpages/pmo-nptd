@@ -11,13 +11,14 @@ A strong and cohesive Singapore society is one that also embraces diversity. Sin
 
 The coexistence and intermixing of cultures continue today. In 2018, about 1 in 5 citizen marriages last year were inter-ethnic<sup>1</sup>, and more than 1 in 3 citizen marriages involved transnational<sup>2</sup> couples.
 
-![Inter-ethnic and transnationl marriages](/images/transnational-inter-ethnic-charts.JPG)
+![Inter-ethnic and transnationl marriages](/images/chart-9.png)
+![Inter-ethnic and transnationl marriages](/images/chart-10.png)
 
 Immigration is a delicate matter around the world. In Singapore, the number of immigrants are carefully managed. Between 2015 and 2019, 22,000 new Singapore citizenships (SC) and 32,000 Permanent Residencies (PR) were granted on average each year. The total size of the PR population has remained stable at around half a million. 
 
 The number of citizenships granted also includes those for children born overseas to Singaporean parents. These children made up about 1,600 of the new citizenships granted each year. 
 
-![Number of SCs and PRs granted](/images/chart-15-1.JPG)
+![Number of SCs and PRs granted](/images/chart-16.png)
 
 The exact number of new SC/ PRs granted each year depends on several factors, including the number and quality of applications received, and the pace of integration of new immigrants. 
 
