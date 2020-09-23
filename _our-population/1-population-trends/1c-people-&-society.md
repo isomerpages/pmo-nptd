@@ -9,7 +9,7 @@ third_nav_title: Population Trends
 
 A strong and cohesive Singapore society is one that also embraces diversity. Singapore has a rich history of welcoming people of different cultures and backgrounds; and many Singaporeans can trace their ancestry beyond the country’s shores.
 
-The coexistence and intermixing of cultures continue today. In 2018, about 1 in 5 citizen marriages last year were inter-ethnic<sup>1</sup>, and more than 1 in 3 citizen marriages involved transnational<sup>2</sup> couples.
+The coexistence and intermixing of cultures continue today. In 2019, about 1 in 5 citizen marriages were inter-ethnic<sup>1</sup>, and more than 1 in 3 citizen marriages involved transnational<sup>2</sup> couples.
 
 ![Inter-ethnic and transnationl marriages](/images/chart-9.png)
 ![Inter-ethnic and transnationl marriages](/images/chart-10.png)
