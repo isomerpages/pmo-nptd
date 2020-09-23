@@ -7,7 +7,7 @@ permalink: /our-population/overview/
 
 ![Public housing in Singapore, image by iStock](/images/stock-image-10.jpg)
 
-**People** are Singapore’s only available natural resource, as the late founding Prime Minister of Singapore Lee Kuan Yew once said. **Life expectancy** in Singapore is on the rise, reflecting a higher standard of living. Our seniors are also increasingly healthier and better educated.
+**People** are Singapore’s only available natural resource, as the late founding Prime Minister of Singapore Lee Kuan Yew once said. **Life expectancy** in Singapore is on the rise. Our seniors are also increasingly healthier and better educated.
 
 Singapore’s resident Total Fertility Rate has remained below the replacement rate of 2.1 for many years. This trend is part of a broader demographic shift in the country. With couples marrying later and having fewer children, the **fertility rate** — the average number of children women will have in their lifetime — has remained low for many years.
 
