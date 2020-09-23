@@ -28,7 +28,7 @@ Singapore welcomed 32,800 citizen births in 2019. More citizen babies were born 
 
 Nonetheless, resident total fertility rate remained below the replacement rate of 2.1 – at 1.14 in 2019 and the year before. This is due partly to a larger cohort of young Singaporeans (aged 20 – 30 in 2018) – many of whom are children of baby boomers<sup>1</sup> – who are entering the peak childbearing age, but have not yet had children. The median age of first-time mothers has also increased from 28.5 years in 2000 to 30.6 years in 2019.  
 
-![Total fertility rate](/images/chart-12.png)
+![Total fertility rate](/images/chart-12.PNG)
 
 These figures are from the annual publication of Population in Brief <hyperlink to latest PIB>, which provides key updates and trends on Singapore’s population.
 
