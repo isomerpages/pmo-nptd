@@ -18,8 +18,6 @@ Immigration is a delicate matter around the world. In Singapore, the number of i
 
 The number of citizenships granted also includes those for children born overseas to Singaporean parents. These children made up about 1,600 of the new citizenships granted each year. 
 
-![Number of SCs and PRs granted](/images/chart-16.png)
-
 The exact number of new SC/ PRs granted each year depends on several factors, including the number and quality of applications received, and our changing needs. 
 
 Every application for SC/ PR is evaluated holistically to assess the applicant’s ability to integrate in and contribute to Singapore, and their commitment to sinking roots here. Various markers of integration are considered, such as applicants’ family ties to Singaporeans, length of residency here, and whether they have studied in Singapore schools or completed National Service. Other factors considered include the applicant's economic contributions, qualifications and age.
