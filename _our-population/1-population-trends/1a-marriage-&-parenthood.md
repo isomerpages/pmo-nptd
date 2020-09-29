@@ -32,6 +32,8 @@ The **Marriage & Parenthood Package** provides comprehensive support for familie
 
 There is now more support than before for parents to better manage their work and family responsibilities through the provision of flexible work arrangements. Employers and co-workers are also showing more support towards cultivating family-friendly workplaces. 
 
+Find out more on the range of support available [here](https://wwww.heybaby.sg), or access the Marriage & Parenthood booklet [here](https://www.heybaby.sg/docs/default-source/default-document-library/m-p-booklet-aug-20204bcf71cafad74f18b9b36703a232db09.pdf?sfvrsn=c20c1709_3).
+
 To further improve work-life harmony in Singapore, a Citizens’ Panel, comprising Singaporeans from various walks of life, was convened in 2019. Initiatives recommended by the panel to promote FWAs, improve HR practices and social norms are now in the pipeline. Details can be found [here](https://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony). The Government will continue to work with fellow Singaporeans and the community on ways to address marriage and parenthood issues.
 
 ![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
