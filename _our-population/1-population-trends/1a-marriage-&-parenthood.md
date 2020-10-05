@@ -14,7 +14,7 @@ In the short-term, TFR can be affected by factors such as economic uncertainty, 
 
 The Government regularly monitors emerging and enduring trends to better understand how they impact Singaporeans’ attitudes towards marriage and parenthood.
  
-Despite the low TFR, there is reason to be hopeful as more Singaporeans are starting families. On average, more citizens got married in the last five years (2015-2019) than between 2010 and 2014.
+Despite the low TFR, it is useful to take a step back to consider marriage and birth trends over longer time periods. On average, more citizens got married in the last five years (2015-2019) than between 2010 and 2014.
 
 ![Citizen marriages chart](/images/chart-8.png)
 
