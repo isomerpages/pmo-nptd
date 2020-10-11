@@ -35,7 +35,7 @@ sections:
         description: Join us to build a Singapore that is Made For Families. Click on the link below to find out more and learn about the Government schemes available to support marriage and parenthood! 
         button: Read More
         alt: Made For Families
-        url: https://www.heybaby.sg
+        url: https://www.madeforfamilies.gov.sg
         image: /images/made-for-families.jpg
     - resources:
         title: Latest News
