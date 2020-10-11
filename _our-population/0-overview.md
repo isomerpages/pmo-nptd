@@ -15,7 +15,7 @@ Larger cohorts of older Singaporeans are entering their retirement years, while 
 
 A low fertility rate is hence an existential issue for Singapore. This is why policies are needed to help sustain a **strong and cohesive** society with Singaporeans at its core, a **dynamic and vibrant economy** to provide good jobs and opportunities for Singaporeans, and a **high quality living environment** for all.
 
-At the heart of these policies is the desire to make **Singapore a place that is [Made For Families](www.go.gov.sg/madeforfamilies)** — to build a strong ecosystem to support Singaporeans in their marriage and parenthood journeys. Singapore takes a comprehensive approach to this, by continually improving measures in in key areas, such as housing, preschool, healthcare, work-life harmony, overall child-raising costs, and physical infrastructure. 
+At the heart of these policies is the desire to make **Singapore a place that is [Made For Families](https://www.go.gov.sg/madeforfamilies)** — to build a strong ecosystem to support Singaporeans in their marriage and parenthood journeys. Singapore takes a comprehensive approach to this, by continually improving measures in in key areas, such as housing, preschool, healthcare, work-life harmony, overall child-raising costs, and physical infrastructure. 
 
 It is also important for Singapore to be a home for all ages, where everyone can live life to the fullest, and **age with purpose and grace**. That is why there are measures implemented across the ecosystem — from national support for retirement adequacy and long-term needs, to workplace initiatives for those who wish to stay in their jobs for longer, to communities of care, to individual opportunities for seniors and their families.
 
