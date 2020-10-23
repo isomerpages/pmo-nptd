@@ -10,7 +10,7 @@ Population in Brief is an annual publication that provides key updates and trend
 
 Download:
 
-* [Population in Brief 2020 (2mb, pdf)](/files/media-centre/publications/population-in-brief-2020.pdf)
+* [Population in Brief 2020 (2mb, pdf)](/files/media-centre/publications/pib-2020-final.pdf)
 * [Population in Brief 2019 (2mb, pdf)](/files/media-centre/publications/population-in-brief-2019.pdf)
 * [Population in Brief 2018 (1mb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/PublicationImages/population-in-brief-2018.pdf)
 
