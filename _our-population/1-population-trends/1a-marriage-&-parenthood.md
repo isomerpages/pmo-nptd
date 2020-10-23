@@ -8,13 +8,13 @@ third_nav_title: Population Trends
 
 **Marriage and Parenthood Trends**
 
-Globally, many developed societies have seen birth rates declining since the 1970s. [Singapore’s total fertility rate (TFR)](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) was 1.14 in 2019.
+Globally, many developed societies have seen birth rates declining since the 1970s. [Singapore’s resident Total Fertility Rate (TFR)](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) was 1.14 in 2019.
 
-In the short-term, TFR can be affected by factors such as economic uncertainty, and demographic trends. In the long-term, TFR trends are influenced by social norms and values, and attitudes toward marriage and parenthood. Economic development and improvements in education and work opportunities for women also influence societal attitudes toward singlehood, marriage, and parenthood. 
+In the short-term, TFR can be affected by factors such as economic uncertainty and demographic trends. In the long-term, TFR trends are influenced by social norms and values, and attitudes toward marriage and parenthood. Economic development, and improvements in education and work opportunities for women also influence societal attitudes toward singlehood, marriage, and parenthood.
 
 The Government regularly monitors emerging and enduring trends to better understand how they impact Singaporeans’ attitudes towards marriage and parenthood.
- 
-Despite the low TFR, it is useful to take a step back to consider marriage and birth trends over longer time periods. On average, more citizens got married in the last five years (2015-2019) than between 2010 and 2014.
+
+While the TFR has remained low, it is useful to also look at marriage and birth trends over longer time periods. On average, more citizens got married between 2015 and 2019, than the preceding five-year period (2010 and 2014).
 
 ![Citizen marriages chart](/images/chart-8.png)
 
@@ -26,17 +26,31 @@ Young Singaporeans have consistently expressed a strong desire to get married an
 
 **Support for Marriage & Parenthood**
 
-Supporting Singaporeans in fulfilling their hopes to get married and raise families is a key national priority. Through close partnership across Government agencies, and with community partners, employers and the larger society, a wide range of support is available to Singaporeans at every stage of their marriage and parenthood journey. 
+Supporting Singaporeans in fulfilling their aspirations to get married and raise families is a national priority. Through close partnerships across Government agencies, and with community partners, employers, businesses and the broader society, a range of support is available to Singaporeans at every stage of their marriage and parenthood journey.
 
-The **Marriage & Parenthood Package** provides comprehensive support for families in a wide range of areas – from caregiving needs and child-raising costs to the living environment. In recent years, more efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. 
+The **Marriage & Parenthood Package** provides comprehensive support to help couples start and raise their families. Key measures in the [Package](https://www.go.gov.sg/mpbooklet) include: 
 
-There is now more support than before for parents to better manage their work and family responsibilities through the provision of flexible work arrangements. Employers and co-workers are also showing more support towards cultivating family-friendly workplaces. 
+* Schemes to help couples own their first home
+* Baby Bonus Cash Gift and Child Development Account
+* Government-paid parental leave
+* Subsidised infant and child care
+* Subsidised healthcare for mothers and children, including free National Childhood Immunisation Schedule (NCIS) vaccinations and developmental screenings at polyclinics and Community Health Assist Scheme (CHAS) General Practitioner clinics 
+* Medisave Grant for Newborns
+* Co-funding for Assisted Conception Procedure (ACP) treatments at public Assisted Reproduction (AR) centres
 
-Find out more on the range of support available [here](https://wwww.madeforfamilies.gov.sg), or access the Marriage & Parenthood booklet [here](https://www.madeforfamilies.gov.sg/docs/default-source/default-document-library/m-p-booklet-2020.pdf).
+In recent years, efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amidst the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Singaporean children born between 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. With the BSG, parents will receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent  children. 
 
-To further improve work-life harmony in Singapore, a Citizens’ Panel, comprising Singaporeans from various walks of life, was convened in 2019. Initiatives recommended by the panel to promote FWAs, improve HR practices and social norms are now in the pipeline. Details can be found [here](https://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony). The Government will continue to work with fellow Singaporeans and the community on ways to address marriage and parenthood issues.
+![Comprehensive infographic](/images/comprehensive-infographic-1.png)
+![Comprehensive infographic page 2](/images/comprehensive-infographic-2.png)
+ 
+_More details on all the measures in the Package can be found at [go.gov.sg/mpbooklet](https://www.go.gov.sg/mpbooklet) and [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg). Parents may also use the Family Support Calculator in the LifeSG app, which can be downloaded at life.gov.sg, to find out how much benefits they can receive._
+
+With more companies adopting flexible work arrangements, parents may find it easier to better manage their work and family responsibilities. Employers and co-workers are also showing more support towards cultivating family-friendly workplaces. These are positive developments that we are encouraging though efforts such as the Tripartite Standards on Flexible Work Arrangements, and Unpaid Leave for Unexpected Care Needs, established in 2017 and 2018 respectively.
+
+To further improve work-life harmony in Singapore, the Citizens’ Panel on Work-Life Harmony, comprising Singaporeans from various walks of life, was convened in 2019. Initiatives recommended by the panel to promote FWAs, improve HR practices and social norms are now in the pipeline. Details can be found [here](https://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony). The Government will continue to work with fellow Singaporeans and the community on ways to address marriage and parenthood issues.
 
 ![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
 
-The *Made For Families* initiative was launched in June 2020 to further assure families of support from the Government and the community. Businesses, organisations and community groups can submit request to adopt the *Made For Families* brand mark to identify themselves as promoting the value of family in our society. Government programmes that help couples marry, start and bring up their families also contribute to shaping a Singapore that is [*Made for Families*](https://www.go.gov.sg/MadeForFamilies). 
+The _Made For Families initiative_ was launched in June 2020 to further assure families of support from the Government and the broader society, and to encourage more businesses and community groups to play a part in fostering a family-friendly ecosystem. Organisations can submit their request to adopt the _[Made for Families](https://www.go.gov.sg/madeforfamilies)_ brand mark [here](https://www.madeforfamilies.gov.sg/MadeForFamilies), to identify themselves as entities promoting the value of family in our society.
 
+Getting married and having children are milestones in life that need to be supported and encouraged as a society. As a national priority, Government  will continue to work with fellow Singaporeans, employers, businesses and the community, to nurture a _Made For Families_ Singapore.
