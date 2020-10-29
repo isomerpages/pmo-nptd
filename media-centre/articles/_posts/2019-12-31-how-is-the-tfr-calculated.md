@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How is the TFR calculated?"
+title:  "How is the Total Fertility Rate calculated?"
 date:   2019-12-31
 permalink: "/media-centre/articles/how-is-the-tfr-calculated"
 ---
