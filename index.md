@@ -29,7 +29,7 @@ sections:
         description: The annual Population in Brief (PIB) provides key updates and trends on Singapore's population. The latest PIB is available here. 
         button: Read More
         alt: Population in Brief 2019
-        url: /media-centre/publications/population-in-brief/
+        url: /media-centre/articles/population-in-brief-2020-key-trends
     - infopic:
         title: Made For Families
         description: Join us to build a Singapore that is Made For Families. Click on the link below to find out more and learn about the Government schemes available to support marriage and parenthood! 
