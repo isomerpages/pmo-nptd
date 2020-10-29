@@ -17,10 +17,10 @@ The Population in Brief (PIB) 2020 provides key updates and trends on Singapore�
 
 3.	**Overall population**
 
-* The citizen population grew by 0.6%, to reach 3.52 million as of Jun 2020. The citizen population continues to age steadily, with 16.8% aged 65 and above compared with 16.0% last year. The permanent resident population remained stable at 0.52 million as of Jun 2020.
+* The citizen population grew by 0.6 per cent, to reach 3.52 million as of June 2020. The citizen population continues to age steadily, with 16.8 per cent aged 65 and above compared with 16.0 per cent last year. The permanent resident population remained stable at 0.52 million as of June 2020.
 
-* The non-resident population decreased by 2.1%, to reach 1.64 million as of Jun 2020. This was largely due to a reduction in foreign employment in Services, from Jun 2019 to Jun 2020. By pass type, Work Permit Holders saw the largest decrease. 
+* The non-resident population decreased by 2.1 per cent, to reach 1.64 million as of June 2020. This was largely due to a reduction in foreign employment in Services, from June 2019 to June 2020. By pass type, Work Permit Holders saw the largest decrease. 
 
-* Overall, Singapore’s total population stands at 5.69 million as of Jun 2020. The total population decreased slightly by 0.3% from Jun 2019 to Jun 2020. This was largely due to the decrease in the non-resident population.
+* Overall, Singapore’s total population stands at 5.69 million as of June 2020. The total population decreased slightly by 0.3 per cent from June 2019 to June 2020. This was largely due to the decrease in the non-resident population.
 
 PIB 2020 is available [here](/media-centre/publications/population-in-brief). 
