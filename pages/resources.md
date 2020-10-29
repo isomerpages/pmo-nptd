@@ -6,7 +6,7 @@ permalink: /resources/
 ### Articles ###
 
 * [Population in Brief 2020: Key Trends](/media-centre/articles/population-in-brief-2020-key-trends) 
-* [How is the TFR Calculated?](/media-centre/articles/how-is-the-tfr-calculated) 
+* [How is the Total Fertility Rate calculated?](/media-centre/articles/how-is-the-tfr-calculated) 
 * [Are Singaporeans renouncing their citizenship and rapidly being replaced?](/media-centre/articles/are-singaporeans-renouncing-their-citizenship-and-rapidly-being-replaced) 
 * [What are the racial proportions among Singapore citizens?](/media-centre/articles/what-are-the-racial-proportions-among-singapore-citizens) 
 * [Why are Singapore's official population statistics different from those released by international organisations?](/media-centre/articles/why-are-singapore-s-official-population-statistics-different-from-those-released-by-international-organisations)  
