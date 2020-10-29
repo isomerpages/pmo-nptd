@@ -26,7 +26,7 @@ More Singaporeans are starting families. On average, more citizens got married i
 
 ![Citizen marriages](/images/chart-8.png)
 
-Singapore welcomed 32,800 citizen births in 2019. On average, more citizen babies were born between 2015 and 2019 (32,900 on average each year) than between 2010 and 2014 (31,700 on average each year).
+Singapore welcomed 32,844 citizen births in 2019. On average, more citizen babies were born between 2015 and 2019 (32,900 on average each year) than between 2010 and 2014 (31,700 on average each year).
 
 ![Citizen births](/images/chart-11.png)
 
