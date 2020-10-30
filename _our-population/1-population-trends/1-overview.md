@@ -14,7 +14,7 @@ Singapore’s citizen population grew by 0.6 per cent to 3.52 million as of June
 
 ![Permanent resident population](/images/chart-1.png)
 
-The non-resident population decreased by 2.1 per cent to reach 1.6 million, as of June 2020. There was a decrease in foreign employment from June 2019 to June 2020, mainly in Services. By pass type, the decrease in foreign employment was mainly driven by a decrease in the number of Work Permit Holders. These trends were largely due to COVID-19 related challenges, brought about by weak demand and travel restrictions.
+The non-resident population decreased by 2.1 per cent to reach 1.6 million, as of June 2020. There was a decrease in foreign employment from June 2019 to June 2020, mainly in the services sector. By pass type, the decrease in foreign employment was mainly driven by a decrease in the number of Work Permit Holders. These trends were largely due to COVID-19 related challenges, brought about by weak demand and travel restrictions.
 
 ![Non-resident population](/images/chart-2.png)
 
@@ -30,7 +30,7 @@ Singapore welcomed 32,844 citizen births in 2019. On average, more citizen babie
 
 ![Citizen births](/images/chart-11.png)
 
-However, resident Total Fertility Rate remained below the replacement rate of 2.1 at 1.14 in 2019, which is the same as the year before. This is partly due to later marriages and subsequent childbearing. The median age of first-time mothers increased from 28.5 years in 2000 to 30.6 years in 2019.
+However, resident Total Fertility Rate remained below the replacement rate of 2.1 at 1.14 in 2019, which is the same as the year before. This is partly due to later marriages and childbearing. The median age of first-time mothers increased from 28.5 years in 2000 to 30.6 years in 2019.
 
 ![Total fertility rate](/images/chart-12.png)
 
