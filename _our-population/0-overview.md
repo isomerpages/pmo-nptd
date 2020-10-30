@@ -7,11 +7,11 @@ permalink: /our-population/overview/
 
 ![Public housing in Singapore, image by iStock](/images/stock-image-10.jpg)
 
-For Singapore to have a sustainable population, policies are needed to build a **strong and cohesive** society with Singaporeans at its core, a **dynamic and vibrant economy** to provide good jobs and opportunities for Singaporeans, and a **high quality living environment** for all.
+For Singapore to have a sustainable population, policies are needed to build a **strong and cohesive** society with Singaporeans at its heart, a **dynamic and vibrant economy** to provide good jobs and opportunities for Singaporeans, and a **high quality living environment** for all.
 
 Singapore’s resident Total Fertility Rate<sup>1</sup> has remained below the replacement rate of 2.1 for many years. This trend reflects a broader demographic shift in the country. This trend reflects a broader demographic shift in the country, with couples marrying later and having fewer children.
 
-**Life expectancy** in Singapore is on the rise. Our seniors are also increasingly healthier and better educated. But an **ageing population with low fertility** means that larger groups of older Singaporeans are entering their retirement years, while a smaller number is entering the workforce. The working age citizen population will gradually decline. Consequently, there will be fewer working age Singaporeans to drive the economy, and to support the ageing population.
+**Life expectancy** in Singapore is on the rise. Our seniors are also increasingly healthier and better educated. But an **ageing population with low fertility** means that larger groups of older Singaporeans are entering their retirement years, while a smaller number is entering the workforce. Consequently, there will be fewer working age Singaporeans to drive the economy, and to support the ageing population.
 
 A low fertility rate is hence an existential issue for Singapore. We aim for a Singapore that is **[Made For Families](https://www.go.gov.sg/madeforfamilies)** — a strong ecosystem that celebrates and supports Singaporeans in every stage of their marriage and parenthood journey. Singapore takes a comprehensive approach to support Singaporeans in achieving their marriage and parenthood aspirations. This includes continually improving measures in areas such as accessible, affordable and quality housing, preschool, healthcare, overall child-raising costs and family-friendly physical infrastructure. Partnerships with the private and people sector are also essential to promote better work-life harmony and social enthusiasm for young children. 
 
