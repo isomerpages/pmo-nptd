@@ -31,14 +31,14 @@ Supporting Singaporeans in fulfilling their aspirations to get married and raise
 The **Marriage & Parenthood Package** provides comprehensive support to help couples start and raise their families. Key measures in the [Package](https://www.go.gov.sg/mpbooklet) include: 
 
 * Schemes to help couples own their first home
-* Baby Bonus Cash Gift and Child Development Account
+* Baby Bonus Scheme, comprising a Cash Gift and the Child Development Account
 * Government-paid parental leave
 * Subsidised infant and child care
 * Subsidised healthcare for mothers and children, including free National Childhood Immunisation Schedule (NCIS) vaccinations and developmental screenings at polyclinics and Community Health Assist Scheme (CHAS) General Practitioner clinics 
 * Medisave Grant for Newborns
 * Co-funding for Assisted Conception Procedure (ACP) treatments at public Assisted Reproduction (AR) centres
 
-In recent years, efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amidst the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Singaporean children born between 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. With the BSG, parents will receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent  children. 
+In recent years, efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amidst the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Eligible Singaporean children born between 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. With the BSG, couples will receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent  children. 
 
 ![Comprehensive infographic](/images/comprehensive-infographic-1.png)
 ![Comprehensive infographic page 2](/images/comprehensive-infographic-2.png)
@@ -51,6 +51,6 @@ To further improve work-life harmony in Singapore, the Citizens’ Panel on Work
 
 ![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
 
-The _Made For Families initiative_ was launched in June 2020 to further assure families of support from the Government and the broader society, and to encourage more businesses and community groups to play a part in fostering a family-friendly ecosystem. Organisations can submit their request to adopt the _[Made for Families](https://www.go.gov.sg/madeforfamilies)_ brand mark [here](https://www.madeforfamilies.gov.sg/MadeForFamilies), to identify themselves as entities promoting the value of family in our society.
+The _Made For Families initiative_ was launched in June 2020 to further assure families of support from the Government and the broader society, and to encourage more businesses and community groups to play a part in building a family-friendly ecosystem. Organisations can submit their request to adopt the _[Made for Families](https://www.go.gov.sg/madeforfamilies)_ brand mark [here](https://www.madeforfamilies.gov.sg/MadeForFamilies), to identify themselves as entities promoting the value of family in our society.
 
 Getting married and having children are milestones in life that need to be supported and encouraged as a society. As a national priority, Government  will continue to work with fellow Singaporeans, employers, businesses and the community, to nurture a _Made For Families_ Singapore.
