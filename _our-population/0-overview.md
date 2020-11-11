@@ -25,7 +25,7 @@ Raising the fertility rate is an important issue to address. We aim to build a s
 
 **Enabling all Singaporeans to age with grace and purpose**
 
-Singapore must be a home for all ages, where every Singaporean can age with grace and purpose. Life expectancy in Singapore is on the rise, and our life expectancy is among the highest in the world. Our seniors are also increasingly healthy in their old age, and better educated.
+Singapore must be a home for all ages, where every Singaporean can age with grace and purpose. Life expectancy in Singapore is on the rise, and is among the highest in the world. Our seniors are also increasingly healthy in their old age, and better educated.
 
 For older Singaporeans, the Government has a range of measures to boost retirement adequacy, provide healthcare and long-term care needs, and support those who wish to stay in their jobs for longer. We also work with community networks to allow our seniors to stay active and engaged, and further contribute to society.
 
