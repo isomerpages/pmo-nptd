@@ -22,7 +22,7 @@ On average, there were also more citizen babies born between 2015 and 2019, than
 
 *Chart 5 – Citizen births, 2009 - 2019*
 
-![Chart 5](/images/chart-4-citizen-births.PNG)
+![Chart 5](/images/chart-5-citizen-births.PNG)
 
 Young Singaporeans have consistently expressed a strong desire to get married and have children. The 2016 Marriage and Parenthood (M&P) Survey showed that 83 per cent of single Millennials (aged 21-35) surveyed want to get married, and 92 per cent of married Millennials surveyed want to have at least two children.
 
@@ -53,5 +53,5 @@ To further improve work-life harmony in Singapore, the Citizens’ Panel on Work
 
 ![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
 
-The Made For Families initiative was launched in June 2020 to further assure families of support from the Government and the broader society, and to encourage more businesses and community groups to play a part in building a family-friendly ecosystem. Organisations can submit their request to adopt the [Made for Families](https://www.go.gov.sg/madeforfamilies)_ brand mark [here](https://www.madeforfamilies.gov.sg/MadeForFamilies), to identify themselves as entities promoting the value of family in our society.
+The Made For Families initiative was launched in June 2020 to further assure families of support from the Government and the broader society, and to encourage more businesses and community groups to play a part in building a family-friendly ecosystem. Organisations can submit their request to adopt the [Made for Families](https://www.go.gov.sg/madeforfamilies) brand mark [here](https://www.madeforfamilies.gov.sg/MadeForFamilies), to identify themselves as entities promoting the value of family in our society.
 
