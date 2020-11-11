@@ -13,7 +13,8 @@ Our sustainable population objectives comprise three key pillars:
 
 * **Building a strong and cohesive society**, with Singaporeans at the heart of our nation. We want to ensure that Singapore remains a place where people from different backgrounds can live together in harmony.
 * **Supporting a dynamic and vibrant economy** to provide good jobs and opportunities for all Singaporeans. Amid the changes in our domestic and global environment, including the impact from the COVID-19 pandemic, we will continue to find ways to ensure that Singaporeans can continue to make a good living. 
-* **Providing a high-quality living environment and home for all Singaporeans**. Our country must continue to be well managed and meet the needs of our population. We want to build a Singapore where Singaporeans feel a strong sense of national identity, and which they are proud to call home. 
+* **Providing a high-quality living environment and home for all Singaporeans**. Our country must continue to be well managed and meet the needs of our population. We want to build a Singapore where Singaporeans feel a strong sense of national identity, and which they are proud to call home.  
+
 To achieve our sustainable population objectives, we have put in place the following strategies:
 
 **Building a Singapore that is Made for Families**
