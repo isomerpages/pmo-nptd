@@ -12,13 +12,13 @@ Similar to many developed societies, Singapore’s resident Total Fertility Rate
 
 In the short-term, TFR can be affected by factors such as economic uncertainty and demographic trends such as the age of marriage and number of children that couples have. In the longer term, TFR trends are influenced by social norms and values, and attitudes toward marriage and parenthood. Economic development, and improvements in education and work opportunities for women also influence societal attitudes toward singlehood, marriage, and parenthood.
 
-While the TFR has remained low, it is useful to also look at marriage and birth trends over longer time periods. On average, more citizens got married between 2015 and 2019, than the preceding five-year period (2010 and 2014, Chart 4).
+While the TFR has remained low, it is useful to also look at marriage and birth trends over longer time periods. On average, more citizens got married between 2015 and 2019, than the preceding five-year period (between 2010 and 2014, Chart 4).
 
 *Chart 4 – Citizen marriages, 2009 - 2019*
 
 ![Chart 4](/images/chart-4-citizen-marriages.PNG)
 
-On average, there were also more citizen babies born between 2015 and 2019, than the preceding five-year period (2010 and 2014, Chart 5).
+On average, there were also more citizen babies born between 2015 and 2019, than the preceding five-year period (between 2010 and 2014, Chart 5).
 
 *Chart 5 – Citizen births, 2009 - 2019*
 
