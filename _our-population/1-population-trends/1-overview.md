@@ -18,7 +18,7 @@ Singapore’s citizen population grew by 0.6 per cent to 3.52 million as of June
 
 ![Chart 1](/images/chart-1-total-population.PNG)
 
-The non-resident population decreased by 2.1 per cent to reach 1.64 million, as of June 2020. There was a decrease in foreign employment from June 2019 to June 2020 (Chart 2), mainly in the services sector. By pass type, the decrease in foreign employment was mainly driven by a decrease in the number of Work Permit Holders. These trends were largely due to COVID-19 related challenges, brought about by weak demand and travel restrictions.
+The non-resident population decreased by 2.1 per cent to reach 1.64 million, as of June 2020. There was a decrease in foreign employment from June 2019 to June 2020 (Chart 2), mainly in the services sector. By pass type, the decrease in foreign employment was mainly driven by a decrease in the number of [Work Permit Holders](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/key-facts). These trends were largely due to COVID-19 related challenges, brought about by weak demand and travel restrictions.
 
 *Chart 2: Foreign Employment Growth, as of June 2020*
 
