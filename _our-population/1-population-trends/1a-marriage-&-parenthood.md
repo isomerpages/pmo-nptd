@@ -40,7 +40,7 @@ The [Marriage & Parenthood Package](https://www.go.gov.sg/mpbooklet) provides co
 * MediSave Grant for Newborns  
 * Co-funding for Assisted Conception Procedure (ACP) treatments at public Assisted Reproduction (AR) centres  
 
-In recent years, efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amid the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Eligible Singaporean children born between 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. With the BSG, couples will receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent children. 
+In recent years, more efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amid the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Eligible Singaporean children born from 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. With the BSG, couples will receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent children. 
 
 ![Comprehensive infographic](/images/comprehensive-infographic-1.png)
 ![Comprehensive infographic page 2](/images/comprehensive-infographic-2.png)
@@ -49,7 +49,7 @@ _More details on all the measures in the Package can be found at [go.gov.sg/mpbo
 
 With more companies adopting flexible work arrangements, parents may find it easier to better manage their work and family responsibilities. Employers and co-workers are also showing more support towards cultivating family-friendly workplaces. These are positive developments that we are encouraging though efforts such as the Tripartite Standards on Flexible Work Arrangements, and Unpaid Leave for Unexpected Care Needs, established in 2017 and 2018 respectively.
 
-To further improve work-life harmony in Singapore, the Citizens’ Panel on Work-Life Harmony, comprising Singaporeans from various walks of life, was convened in 2019. Initiatives recommended by the panel to promote FWAs, improve HR practices and social norms are now in the pipeline. Details can be found [here](https://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony). 
+To further improve work-life harmony in Singapore, the Citizens’ Panel on Work-Life Harmony, comprising Singaporeans from various walks of life, was convened in 2019. Initiatives recommended by the panel to promote FWAs, improve HR practices and social norms are now being implemented. Details can be found [here](https://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony). 
 
 ![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
 
