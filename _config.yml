@@ -3,11 +3,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 collections:
-  left-nav-one:
+  about-us: 
     output: true
-  left-nav-two:
+  our-population: 
     output: true
-resources_name: resource-room
+resources_name: media-centre
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
@@ -27,6 +27,7 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+future: true
 plugins:
   - jekyll-feed
   - jekyll-assets
