@@ -7,6 +7,7 @@ collections:
     output: true
   our-population: 
     output: true
+google_analytics: UA-31610992-1
 resources_name: media-centre
 
 ##################################################################################################################
