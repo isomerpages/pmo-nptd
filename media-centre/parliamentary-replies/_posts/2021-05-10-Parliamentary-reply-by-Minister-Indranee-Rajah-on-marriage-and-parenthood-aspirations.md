@@ -25,4 +25,4 @@ To examine the potential impact of the pandemic on Singaporeans’ parenthood pl
 
 We are also holding a series of conversations from April to September this year on “Building A Singapore That is Made For Families”. These conversations will allow us to hear from Singaporeans, both men and women, directly and gain a deeper understanding of how they feel about marriage and parenthood and also whether and if so, how, sentiments may have changed following the pandemic. 
 
-Marriage and parenthood are very personal decisions. The Government will work hard to listen to the concerns and priorities of young couples, and work with the community to build a Singapore that is Made for Families.?
+Marriage and parenthood are very personal decisions. The Government will work hard to listen to the concerns and priorities of young couples, and work with the community to build a Singapore that is Made for Families.
