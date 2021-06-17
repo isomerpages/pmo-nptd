@@ -29,7 +29,7 @@ sections:
         description: Conducted once every decade by the Department of Statistics (DOS), the Census is the most comprehensive source of information on population and households, and provides benchmark data for other demographic, economic and social statistics. Census 2020 data is now available on DOS’s website. 
         button: Read More
         alt: Census of Population 2020
-        url: https://www.singstat.gov.sg/publications/reference#Census-of-Population-2020
+        url: https://www.singstat.gov.sg/whats-new/visualising-data
     - infopic:
         image: /images/PIB2020-thumbnail.PNG
         title: Population in Brief
