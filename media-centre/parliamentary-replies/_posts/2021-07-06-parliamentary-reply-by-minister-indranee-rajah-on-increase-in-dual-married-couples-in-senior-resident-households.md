@@ -7,7 +7,7 @@ permalink: "/media-centre/parliamentary-replies/parliamentary-replies/parliament
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
-**MTUESDAY, 6 JULY 2021**
+**TUESDAY, 6 JULY 2021**
 
 **Mr Chua Kheng Wee Louis:**
 
