@@ -26,5 +26,5 @@ Second, the Government has made it easier for seniors who can and wish to work t
 The Government has also provided various measures to support companies who employ senior workers. For example, the Senior Worker Support Package includes wage offsets through the Senior Employment Credit, Senior Worker Early Adopter Grant and Part-Time Re-Employment Grant. In addition, the Workfare Income Supplement Scheme has encouraged more senior workers to join the workforce. Workfare supplements the income of lower-wage workers in cash while helping them save for retirement through CPF, with senior workers receiving more. These efforts will allow senior workers who wish to do so to remain engaged, and contribute their experience and expertise to our workplaces.
 
 ----------
-<sup>1</sup> Senior residents refer to Singapore Citizens and Permanent Residents aged 65 and above.
+<sup>1</sup> Senior residents refer to Singapore Citizens and Permanent Residents aged 65 and above.  
 <sup>2</sup> Based on findings of the Global Burden of Disease 2019 study. The study can be accessed at www.healthdata.org/gbd/2019.
