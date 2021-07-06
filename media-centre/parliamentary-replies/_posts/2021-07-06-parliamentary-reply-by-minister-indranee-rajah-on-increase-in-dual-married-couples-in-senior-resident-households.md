@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Parliamentary reply by Minister Indranee Rajah on Increase in Dual-Career Married Couples in Senior Resident Households"
-date: 2021-07-05
+date: 2021-07-06
 permalink: "/media-centre/parliamentary-replies/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-increase-in-dual-married-couples-in-senior-resident-households"
 ---
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN ANSWER**  
-**MONDAY, 5 JULY 2021**
+**MTUESDAY, 6 JULY 2021**
 
 **Mr Chua Kheng Wee Louis:**
 
