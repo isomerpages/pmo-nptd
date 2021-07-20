@@ -24,13 +24,6 @@ sections:
               description: "A strong and cohesive Singapore society"
               url: /our-population/population-trends/people-&-society
     - infopic:
-        image: /images/ltpr-hero-visual.png
-        title: URA Long-Term Plan Review
-        description: Play a part in shaping Singapore’s future! URA has launched a year-long public engagement exercise for the Long-Term Plan Review, where you can share your aspirations and needs for our future city. This will help URA to develop resilient, flexible, and inclusive long-term plans based on your feedback in this Long-Term Plan Review. Share your views on shaping our future city in the online poll today. 
-        button: Share Now
-        alt: URA Long-Term Plan Review
-        url: https://go.gov.sg/ltpr
-    - infopic:
         image: /images/census-web-banner-for-pmo.png
         title: Census of Population 2020
         description: Conducted once every decade by the Department of Statistics (DOS), the Census is the most comprehensive source of information on population and households, and provides benchmark data for other demographic, economic and social statistics. Census 2020 data is now available on DOS’s website. 
