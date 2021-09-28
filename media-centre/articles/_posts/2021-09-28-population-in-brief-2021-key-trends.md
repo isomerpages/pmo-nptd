@@ -5,7 +5,7 @@ date:   2021-09-28
 permalink: "/media-centre/articles/population-in-brief-2021-key-trends"
 ---
 
-The [Population in Brief (PIB) 2021] (/media-centre/publications/population-in-brief-2021) publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends:
+The [Population in Brief (PIB) 2021](/media-centre/publications/population-in-brief-2021) publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends:
 1. **Overall population**
  * Singapore’s total population stood at 5.45 million as of June 2021. Amid the COVID-19 pandemic, the total population decreased by 4.1% from June 2020 to June 2021. This was largely due to the decrease in the non-resident population. 
 * The citizen population decreased by 0.7%, to 3.50 million as of June 2021. The citizen population continued to age, with 17.6% aged 65 and above, compared with 16.8% in June 2020. The permanent resident population also decreased by 6.2%, to 0.49 million as of June 2021. This was mainly because more citizens and PRs remained overseas continuously for 12 months or more due to COVID-19 travel restrictions, and were therefore not counted as part of our population.
