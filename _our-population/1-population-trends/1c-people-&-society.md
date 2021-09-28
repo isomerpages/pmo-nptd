@@ -11,12 +11,12 @@ A strong and cohesive Singapore society is one that also embraces diversity. Sin
 
 The coexistence and intermixing of cultures continue today. In the past decade, about 1 in 5 citizen marriages were inter-ethnic<sup>1</sup> (Chart 6). More than 1 in 3 citizen marriages involved transnational<sup>2</sup> couples (Chart 7), with the exception of 2020 when the proportion decreased to 30 per cent. This decrease may have been partly due to COVID-19-related travel restrictions<sup>3</sup>.
 
-*Chart 6 - Inter-ethnic marriages as a proportion of citizen marriages, 2010 - 2020*
+*Chart 6 – Inter-ethnic marriages as a proportion of citizen marriages, 2010 - 2020*
 ![Chart 6](/images/Chart-6-Inter-Ethnic-Marriages-2010-2020.jpg)
 *Source: Department of Statistics*  
 *The figures are based on the full calendar year (January to December).*
 
-*Chart 7 - Transnational marriages as a proportion of citizen marriages, 2010 - 2020*
+*Chart 7 – Transnational marriages as a proportion of citizen marriages, 2010 - 2020*
 ![Chart 7](/images/Chart-7-Transnational-Marriages-2010-2020.jpg)
 *Source: Department of Statistics*  
 *The figures are based on the full calendar year (January to December).*
