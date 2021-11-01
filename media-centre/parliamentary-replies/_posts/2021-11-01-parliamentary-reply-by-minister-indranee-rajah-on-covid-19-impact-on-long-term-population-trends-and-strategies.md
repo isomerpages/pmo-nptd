@@ -9,7 +9,7 @@ permalink: "/media-centre/parliamentary-replies/parliamentary-replies/parliament
 **WRITTEN ANSWER**  
 **MONDAY, 1 NOVEMBER 2021**
 
-** Miss Cheng Li Hui:**
+**Miss Cheng Li Hui:**
 
 To ask the Prime Minister in light of the Government’s annual Population in Brief report and the registered dips in our population numbers due to COVID-19 last year (a) what is the full or expected impact of COVID-19 on our long-term population trends; (b) whether COVID-19 has resulted in any setbacks to our existing population strategies thus far; and (c) whether the Government will consider re-calibrating our existing population strategies in view of the uncertainties caused by COVID-19 and, if so, in which areas.
 
