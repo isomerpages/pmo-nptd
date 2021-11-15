@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eat With Your Family Day is Made For Families!"
-date:   2021-15-11
+date:   2021-11-15
 permalink: "/media/press-release/eat-with-your-family-day-is-made-for-families"
 ---
 
