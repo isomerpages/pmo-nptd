@@ -55,7 +55,7 @@ Visit [https://familiesforlife.sg](https://familiesforlife.sg) for tips, resourc
 Launched in June 2020, “Made for Families” is a brand mark that represents the different ways - big and small - in which Singapore supports families. An initiative by
 the National Population and Talent Division (NPTD) in the Strategy Group, Prime Minister’s Office, Made For Families aims to assure families of the support offered by the government and community at large. We also hope to call out to more employers, corporate and community partners to contribute, and collectively build a conducive ecosystem that supports families in Singapore. 
 
-For more information on Made for Families, please visit [https://www.madeforfamilies.gov.sg](https://madeforfamilies.gov.sg).
+For more information on Made for Families, please visit [www.madeforfamilies.gov.sg](https://madeforfamilies.gov.sg).
 
 <u>Download</u>  
 [Made For Families factsheet](/files/media-centre/press-releases/made-for-families-factsheet.pdf)
