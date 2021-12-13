@@ -13,6 +13,6 @@ permalink: /contact-us/
 
 #### Send us your feedback ####  
 If you have a query, feedback or wish to report a problem<br>
-related to this website, please fill in the [<a href="https://form.gov.sg/#!/5df1d0ca0c936b00190cbfed" target="_blank">online form</a>](https://form.gov.sg/#!/5df1d0ca0c936b00190cbfed).
+related to this website, please fill in the [<a href="https://form.gov.sg/61af318eaa0a7000134a9a86" target="_blank">online form</a>](https://form.gov.sg/61af318eaa0a7000134a9a86).
 
 
