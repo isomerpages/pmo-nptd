@@ -1,7 +1,20 @@
 title: National Population and Talent Division
 url: "https://www.population.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
-
+colors:
+  primary-color: '#83253B'
+  secondary-color: '#6B1F31'
+  media-colors:
+    - title: media-color-one
+      color: '#e98691'
+    - title: media-color-two
+      color: '#f30c0c'
+    - title: media-color-three
+      color: '#2b3033'
+    - title: media-color-four
+      color: '#2b3033'
+    - title: media-color-five
+      color: '#2b3033'
 google_analytics: UA-31610992-1
 resources_name: media-centre
 
