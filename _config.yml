@@ -2,11 +2,6 @@ title: National Population and Talent Division
 url: "https://www.population.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
-collections:
-  about-us: 
-    output: true
-  our-population: 
-    output: true
 google_analytics: UA-31610992-1
 resources_name: media-centre
 
@@ -29,10 +24,13 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 future: true
+description: test test
+
+staging: https://pmo-population-staging.netlify.app,
+prod: https://pmo-population-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
