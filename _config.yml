@@ -1,44 +1,53 @@
 title: National Population and Talent Division
-url: "https://www.population.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+url: https://www.population.gov.sg
+favicon: /images/nptd_web_FINAL.png
 colors:
-  primary-color: '#83253B'
-  secondary-color: '#6B1F31'
+  primary-color: "#83253B"
+  secondary-color: "#6B1F31"
   media-colors:
     - title: media-color-one
-      color: '#660000'
+      color: "#660000"
     - title: media-color-two
-      color: '#3D0014'
+      color: "#3D0014"
     - title: media-color-three
-      color: '#5F021F'
+      color: "#5F021F"
     - title: media-color-four
-      color: '#8C001A'
+      color: "#8C001A"
     - title: media-color-five
-      color: '#BC402A'
+      color: "#BC402A"
 google_analytics: UA-31610992-1
 resources_name: media-centre
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 future: true
-description: test test
-
+description: The National Population and Talent Division drives the formulation,
+  coordination, and review of Government policies in support of our sustainable
+  population objectives.
 staging: https://pmo-population-staging.netlify.app,
 prod: https://pmo-population-prod.netlify.app
 plugins:
@@ -47,3 +56,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/nptd_web_FINAL.png
