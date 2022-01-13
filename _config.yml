@@ -48,7 +48,7 @@ future: true
 description: The National Population and Talent Division drives the formulation,
   coordination, and review of Government policies in support of our sustainable
   population objectives.
-staging: https://pmo-population-staging.netlify.app,
+staging: https://pmo-population-staging.netlify.app
 prod: https://pmo-population-prod.netlify.app
 plugins:
   - jekyll-feed
