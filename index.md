@@ -4,7 +4,6 @@ title: National Population and Talent Division
 description: The National Population and Talent Division drives the formulation,
   coordination, and review of Government policies in support of our sustainable
   population objectives.
-image: /images/NPTD-logo.jpg
 permalink: /
 sections:
   - hero:
