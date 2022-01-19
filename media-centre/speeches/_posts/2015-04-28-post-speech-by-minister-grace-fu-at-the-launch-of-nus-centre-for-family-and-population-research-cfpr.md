@@ -33,6 +33,7 @@ The Government has been keeping an eye on the demographic trends and is planning
 Family support, child care options and flexible work arrangements become critical in the decision to have children.  Women also expect their spouses to take up a greater share of child-care and housework.  Research into these shifting social attitudes and needs, as well as the policies that could address these changes, are of significant practical value. The findings will inform policy-making to support citizens in their marriage and parenthood journeys, in the most relevant and impactful way.
 
 Another key priority for the Government is our ageing population. Singapore is ageing faster than many other countries.  France, for instance, took over 100 years to transit from an ageing to an aged society. Sweden took 85 years.  Japan, which is known for its rapidly greying population, took 26 years.  Singapore’s population will age faster than Japan’s, taking just 18 years to make the same transition from an ageing to aged society.<sup>3</sup>  This means our society will have less time than others in preparing our people, our infrastructure, healthcare manpower, financing, and so on, for an ageing population.  
+
 Research into ageing issues is thus crucial in making a successful transition.  Studies in active ageing, the social and emotional wellbeing of the elderly, and intergenerational support between the young and old would be particularly relevant.
 
 **Relevant research for an Asian context**
@@ -44,6 +45,7 @@ For instance, Asian societies that are influenced by Confucian values have commo
 These cultural norms continue to influence perceptions towards flexible working arrangements, gender diversity in the workplace, and shared parental responsibility.  However, norms are changing and an Asian-oriented study into the changes will give useful inputs on policy solutions in an Asian context.   
 
 Migration is another area where an Asian perspective is important.  Economically vibrant cities attract talent.  Japan is cautiously moving away from its longstanding policy against immigration, and is very carefully opening its doors toward foreign workers.<sup>6</sup>  People migrate for non-economic reasons as well.  In Singapore, unions between citizens and non-citizens comprise almost 40% of all marriages involving Singaporeans.<sup>7</sup>   
+
 Migration meets important economic and social needs. We need to remain open to migration and continue to retain a high quality of life, strong cultural heritage and a sense of identity.  Collaborative, crosscountry research can deepen our shared understanding of the interrelations between migration, societal resilience and cohesion, as well as the benefits of human capital flows.       
 
 **Holistic insights from a multi-disciplinary approach**  
