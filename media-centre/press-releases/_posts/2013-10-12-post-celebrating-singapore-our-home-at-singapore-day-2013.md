@@ -126,7 +126,7 @@ The Overseas Singaporean Portal is at [www.overseassingaporean.sg](http://web.ar
 
 The OSU Facebook page is an online space for overseas Singaporeans to come together and connect with home and each other. Featuring bite-sized updates on things that are trending or happenings in Singapore, overseas Singaporeans can share and connect with each other over all things distinctively Singapore, be it food, Singlish, quirks or simple things that they miss.
 
-OSU Facebook is at [http://www.facebook.com/OverseasSingaporean.](https://www.facebook.com/OverseasSingaporean)
+OSU Facebook is at [https://www.facebook.com/singaporeglobalnetwork/](https://www.facebook.com/singaporeglobalnetwork/)
 
 ----------------
 
