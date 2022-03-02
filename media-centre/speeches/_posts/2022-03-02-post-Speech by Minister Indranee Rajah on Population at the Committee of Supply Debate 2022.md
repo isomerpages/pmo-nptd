@@ -24,9 +24,9 @@ I will speak about three Government strategies to build a more resilient populat
 •	Third, strengthening our local workforce and complementing it with a foreign workforce, to grow opportunities for Singaporeans.
 
  
-Our Population Strategies
+**Our Population Strategies**
 
-(I) Building a Singapore that is Made For Families
+**(I) Building a Singapore that is Made For Familie**s
 
 First, we continue to support Singaporeans who wish to start and expand their families. Mr Gan Thiam Poh had filed a cut about our strategies to encourage Singaporeans to get married and have children, given our low TFR.
 
@@ -47,6 +47,7 @@ To reassure couples to proceed with their parenthood plans, we introduced the on
 One such couple is Danial and Syaqilah, who got engaged, married, and had their first child all within two years. They initially planned to have their first child only after moving into their Built-to-Order (BTO) flat. However, they decided to go ahead as there was no perfect time to have a baby. Baby Isa was born in August 2021 and they were glad that the Baby Support Grant helped with their transition into parenthood. Danial and Syaqilah showed us that COVID-19 need not discourage us from making important life plans. 
 
 Other couples highlighted concerns about housing and the BTO pipeline, as many aspire to have their own home before they start families. Miss Cheng Li Hui filed a cut about how the Government can support such couples to access affordable housing, amidst disruptions due to COVID-19.
+
 We are pushing hard to complete our BTO projects as planned. For ongoing BTO projects, most flat buyers will be able to move into their new homes within 4 to 5 years after booking their flats, barring further unforeseen circumstances. 
 
 We will also launch up to 23,000 new BTO flats per year in 2022 and 2023 as MND has indicated. Couples waiting for their BTO flats to be completed can rent a flat at highly subsidised rates under HDB’s Parenthood Provisional Housing Scheme (PPHS). To better meet demand, HDB is ramping up the supply of PPHS flats with 800 additional units.
@@ -65,21 +66,30 @@ Mr Louis Ng suggested incentivising employers to increase usage of paternity lea
 
 I fully agree that parents need more flexibility and time away from work to care for their children. Our research on the experiences of fathers’ use of paternity leave shows that across different types of jobs and companies, a key factor affecting the level of utilisation is workplace support. This includes whether supervisors are supportive of fathers taking leave, and whether colleagues are willing to cover their duties.
 In some labour-intensive jobs, employers may be less willing to let fathers go on extended leave due to the challenge of finding covering arrangements. In such situations, employers could exercise more flexibility in fathers’ utilisation of paternity leave, such as taking the leave in more than one period within their child’s first year, to minimise disruptions to business operations.
+
 We will consider Mr Ng’s feedback, continue to review the scope for more parental leave provisions, and work with employers to encourage their utilisation.      
+
 However, supporting the caregiving needs of parents must be balanced with the manpower and operational needs of employers, particularly our Small and Medium-Sized Enterprises (SMEs), some of whom may still be grappling with the effects of the pandemic. 
 Instead of legislating more childcare leave, the Government aims to lead by example, and encourage employers to follow suit by exercising more flexibility and extending childcare leave where possible.
 
 This brings me to my broader point. To address the pressure of managing work and parenting commitments, we have to go beyond government policies. We need to come together as a whole of society to build a more family-friendly Singapore for a more sustainable approach. As Ms Ng Ling Ling pointed out, a pro-family workplace culture is important.
+
 Around the world, the pandemic has prompted many to rethink where, how and why we work.
+
 The US has experienced the “Great Resignation” – a phenomenon in which scores of employees have quit their jobs as they rethink priorities and search for better working conditions or more fulfilling careers. 
+
 While we have not had a “Great Resignation”, there are clear indications that Singaporeans are paying more attention to whether employers support work-life balance.
+
 Recent surveys suggest that workers in Singapore value employers who enable them to manage both their career and family commitments.
+
 Ms Ng Ling Ling said that mindsets must change. I agree. Professor Hoon Hian Teck also filed a cut about Work From Home arrangements to bolster family life. Adopting flexible work arrangements and prioritising employee well-being is not only good for workers and consequently for families; in the post-pandemic world this is going to be the key to firms’ competitiveness, productivity, and their ability to recruit and retain talent.
 
 Let me say something about flexible work arrangements (FWAs). 
 
 I want to emphasise that there is a distinction between FWAs and Work From Home (WFH). People often use these terms interchangeably but they are not the same. 
+
 Work From Home is only one type of FWA. Not all job types are suitable for Work From Home, but all job types can accommodate some form of FWA, depending on the nature of the job. Other forms of FWAs include flexi-time and flexi-load arrangements. Every organisation, big or small, can consider adopting the FWAs that best suit their employees’ needs and their business operations. 
+
 An example is Singtel. Pre-pandemic, Singtel already provided their employees flexi-work arrangement options such as telecommuting, flexi-time and part-time work. Singtel also offers “Flexi Family Leave” – five days of leave for birthdays, childcare, adoption and family emergencies.
 
 With new work practices thrust upon us by the pandemic, we now have a window of opportunity to make FWAs a norm. 
@@ -92,7 +102,7 @@ We launched the Made For Families brand mark in June 2020 to assure families of 
 
 Together, we will support and celebrate all families at every stage of their journey. Minister Masagos will share more details on our plans for the year ahead.
 
-(II) Moderating the impact of low birth rates and ageing through selective immigration
+**(II) Moderating the impact of low birth rates and ageing through selective immigration**
 
 Next, I will touch on moderating the impact of low birth rates and ageing through selective immigration. I spoke about our low birth rates. At the same time, our population continues to age, which has implications for our workforce and society.
 
@@ -103,12 +113,16 @@ To moderate the impact of low birth rates and ageing, we take in a carefully con
 We are selective about who we grant Permanent Residency (PR) and subsequently, citizenship to. Many of our new immigrants share family ties with Singaporeans while others have studied, worked, or lived here for some time. 
 
 In 2021, we granted about 21,500 new citizenships, including about 1,200 citizenships to children born overseas to Singaporean parents. We also granted about 33,400 new PRs. 
+
 These numbers are similar to pre-COVID levels, and higher when compared to 2020, due to the easing of travel restrictions and safe management measures, which previously slowed down in-person processes for the grant of citizenship or PR. 
+
 During last year’s COS, I said that a few thousand applicants who were approved in-principle in 2020, had not completed all the required processes to be granted PR or citizenship. These applicants were subsequently granted PR or citizenship, adding to the numbers granted in 2021. 
+
 Nonetheless, the total number of SCs granted in 2021 remains slightly lower than pre-COVID levels, as those granted SC must first renounce their foreign citizenship. In some cases, this continues to take longer than usual due to COVID-19 related measures.
+
 We will continue to ensure that our immigration policy remains relevant to our needs, and keep the pace of immigration measured and stable.
 
-(III) Strengthening our local workforce and complementing it with a foreign workforce 
+**(III) Strengthening our local workforce and complementing it with a foreign workforce**
 
 Our third strategy is to remain fully committed to supporting Singaporeans to seize new opportunities at various stages of their careers. 
 
@@ -126,13 +140,17 @@ As Ms Foo Mee Har has emphasised, we must guard against such sentiments, and con
 
 Let me touch on how we are strengthening social integration and cohesion in Singapore. Fostering social integration and cohesion requires a whole-of-society effort. 
 As individuals, each of us has a part to play. Let us be inclusive, patient, and help newcomers to adapt to local norms. Similarly, foreigners here should make the effort to adapt and integrate over time.
+
 We have also worked with partners on initiatives to help foreigners settle in and understand local norms and culture.
 
 For example, MOM’s OneWorkplace.sg initiative provides employers with tools and resources to identify workplace integration gaps, and implement team bonding programmes and Corporate Social Responsibility activities.
+
 Another example is how we worked with Singaporeans as part of the Citizen’s Workgroup for the Singapore Citizenship Journey (SC Journey) to explore, discuss and create content to update the SC Journey for our new citizens. The SC Journey will include the co-created content for newcomers to better learn and appreciate aspects of life in Singapore.
 
 Ultimately, we recognise that integration may take some time. We must cherish the unity in diversity that Singapore has, which helped everyone to rally together. 
-Conclusion
+
+**Conclusion**
+
 We will press on to build a more inclusive and brighter future for Singaporeans. With many Singaporeans still aspiring to start and raise families, we will continue to build a Singapore that is Made For Families.
 
 We will also continue to review our population strategies to ensure that they remain relevant to our needs. Together we will build a more resilient population, and keep Singaporeans at the heart of our population strategies.
