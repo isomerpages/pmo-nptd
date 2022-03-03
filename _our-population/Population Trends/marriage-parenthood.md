@@ -7,9 +7,10 @@ third_nav_title: Population Trends
 
 **Marriage and Parenthood Trends**
 
-Similar to many advanced societies, Singapore’s resident Total Fertility Rate (TFR) has been declining over the past decades. It was 1.10 in 2020, and increased slightly to 1.12 in 2021. Our low TFR is largely due to the rising proportion of singles, later marriages, and married couples having fewer children. In the short term, birth rates can fluctuate due to external factors like economic uncertainty. In the long term, demographic trends, progress and development in education, work opportunities, and societal values and attitudes towards marriage and family play a bigger part. Ultimately, getting married and having children are personal decisions, which are influenced by changing social norms, competing personal priorities, and economic sentiments.
+Similar to many advanced societies, Singapore’s resident Total Fertility Rate (TFR) has been declining over the past decades. It was 1.10 in 2020.
+Our low TFR is driven by rising singlehood, and later marriages and family formation. In the short term, birth rates can fluctuate due to external factors like economic uncertainty. In the long term, demographic trends, progress and development in education, work opportunities, and societal values and attitudes towards marriage and family play a bigger part. Ultimately, getting married and having children are personal decisions, which are influenced by changing social norms, competing personal priorities, and economic sentiments.
 
-Young Singaporeans have consistently expressed a strong desire to get married and have children. From our 2021 Marriage & Parenthood survey, 8 in 10 young singles aspire to get married and have children, and over 9 in 10 married Singaporeans want at least 2 children. These sentiments have held firm since our last survey in 2016.
+Young Singaporeans have consistently expressed a strong desire to get married and have children. The 2016 Marriage and Parenthood (M&P) Survey showed that 83 per cent of single Millennials (aged 21-35 in 2016) surveyed want to get married, and 92 per cent of married respondents surveyed want to have at least two children.
 
 ![Marriage and Parenthood Infographic](/images/Population-in-Brief-2021-Marriage-Parenthood-Infographic.jpg)
 
@@ -28,7 +29,7 @@ The [Marriage & Parenthood Package](https://www.go.gov.sg/mpbooklet) provides co
 
 In recent years, more efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amid the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Eligible Singaporean children born from 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. Together with the BSG, couples can receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent children.
 
-![Comprehensive-Support-Raising-Families](/images/Comprehensive-Support-Raising-Families.jpg)
+![Support Raising Families](/images/support-raising-families.jpg)
 
 More details on all the measures in the Package can be found at [go.gov.sg/mpbooklet](https://www.go.gov.sg/mpbooklet) and [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg). Parents may also use the Family Support Calculator in the LifeSG app, which can be downloaded at [life.gov.sg](https://life.gov.sg), to find out how much benefits they can receive.
 
