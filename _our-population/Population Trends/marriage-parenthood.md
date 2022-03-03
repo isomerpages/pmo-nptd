@@ -28,7 +28,7 @@ The [Marriage & Parenthood Package](https://www.go.gov.sg/mpbooklet) provides co
 
 In recent years, more efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amid the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Eligible Singaporean children born from 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. Together with the BSG, couples can receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent children.
 
-![Support Raising Families](/images/support-raising-families.jpg)
+![Comprehensive-Support-Raising-Families](/images/Comprehensive-Support-Raising-Families.jpg)
 
 More details on all the measures in the Package can be found at [go.gov.sg/mpbooklet](https://www.go.gov.sg/mpbooklet) and [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg). Parents may also use the Family Support Calculator in the LifeSG app, which can be downloaded at [life.gov.sg](https://life.gov.sg), to find out how much benefits they can receive.
 
