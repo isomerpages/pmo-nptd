@@ -2,7 +2,6 @@
 title: Overview
 permalink: /our-population/overview/
 ---
-
 ### Our Sustainable Population Objectives
 
 ![Public housing in Singapore, image by iStock](/images/stock-image-10.jpg)
@@ -33,11 +32,11 @@ For older Singaporeans, the Government has a range of measures to boost retireme
 
 An ageing population with low fertility rate means that larger groups of Singaporeans are entering their retirement years, while a smaller number is entering the workforce. It is important to ensure that there are sufficient working-age individuals to drive the economy and support an ageing population.
 
-To moderate the impact of ageing and low birth rates, and to keep the citizen population stable over the long term, we take in a carefully calibrated number of new citizens and Permanent Residents (PRs) each year. New citizenships are selectively granted to individuals who are committed to making Singapore their home. Permanent residence is an intermediate step by which individuals may take up citizenship in Singapore. Many new citizens share family ties with Singaporeans, or have studied, worked or lived here for some time. Singapore’s population also includes non-residents who are working, studying or living here. This includes the foreign workforce across all pass types, international students, and dependants. We will continue to welcome those who can contribute relevant skills that are in short supply here. We do this in a calibrated manner to complement the skills and capabilities of Singaporeans, which in turn helps to attract global investors and create quality jobs for locals.  The foreign workforce also augments the labour force in jobs that Singaporean workers may not be keen to take up.
+To moderate the impact of ageing and low birth rates, and to keep the citizen population from shrinking over the long term, we take in a carefully controlled number of new citizens and Permanent Residents (PRs) each year. New citizenships are selectively granted to individuals who are committed to making Singapore their home. Permanent residence is an intermediate step by which individuals may take up citizenship in Singapore. Many new citizens share family ties with Singaporeans, or have studied, worked or lived here for some time. Singapore’s population also includes non-residents who are working, studying or living here. This includes the foreign workforce across all pass types, international students, and dependants. We will continue to welcome those who can contribute relevant skills that are in short supply here. We do this in a calibrated manner to complement the skills and capabilities of Singaporeans, which in turn helps to attract global investors and create quality jobs for locals.  The foreign workforce also augments the labour force in jobs that Singaporean workers may not be keen to take up.
 
 **Deepening connections with Singaporeans all over the world**
 
 As more Singaporeans venture overseas to live, study or work, the [Singapore Global Network](https://singaporeglobalnetwork.gov.sg/) has been established to broaden and deepen networks with them. This helps Overseas Singaporeans to stay connected with developments and opportunities with Singapore and Singaporeans around the world. 
 
 
-_<sup>1</sup> Total Fertility Rate refers to the average number of live-births each female would have during her reproductive years if she were subject to the prevailing age-specific fertility rates in the population in the given year. The age-specific fertility rate is the number of live-births born to females of a specific age group, out of every thousand females in the same age group. For more information, please refer to the link [here](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate)._ 
+_<sup>1</sup> Total Fertility Rate refers to the average number of live-births each female would have during her reproductive years if she were subject to the prevailing age-specific fertility rates in the population in the given year. The age-specific fertility rate is the number of live-births born to females of a specific age group, out of every thousand females in the same age group. For more information, please refer to the link [here](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate)._
