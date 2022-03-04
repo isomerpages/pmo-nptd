@@ -7,10 +7,9 @@ third_nav_title: Population Trends
 
 **Marriage and Parenthood Trends**
 
-Similar to many advanced societies, Singapore’s resident Total Fertility Rate (TFR) has been declining over the past decades. It was 1.10 in 2020.
-Our low TFR is driven by rising singlehood, and later marriages and family formation. In the short term, birth rates can fluctuate due to external factors like economic uncertainty. In the long term, demographic trends, progress and development in education, work opportunities, and societal values and attitudes towards marriage and family play a bigger part. Ultimately, getting married and having children are personal decisions, which are influenced by changing social norms, competing personal priorities, and economic sentiments.
+Similar to many advanced societies, Singapore’s resident Total Fertility Rate (TFR) has been declining over the past decades. It was 1.10 in 2020. Our low TFR is largely due to the rising proportion of singles, later marriages, and married couples having fewer children. In the short term, birth rates can fluctuate due to external factors like economic uncertainty and the pandemic. In the long term, demographic trends, progress and development in education, changing employment landscape, and societal values and attitudes towards marriage and family play a bigger part. Ultimately, getting married and having children are personal decisions, which are influenced by changing social norms, competing personal priorities, and economic sentiments.
 
-Young Singaporeans have consistently expressed a strong desire to get married and have children. The 2016 Marriage and Parenthood (M&P) Survey showed that 83 per cent of single Millennials (aged 21-35 in 2016) surveyed want to get married, and 92 per cent of married respondents surveyed want to have at least two children.
+Young Singaporeans have consistently expressed a strong desire to get married and have children. From our 2021 Marriage & Parenthood survey, 8 in 10 young singles aspire to get married and have children, and over 9 in 10 married Singaporeans want at least 2 children. These sentiments have held firm since our last survey in 2016.
 
 ![Marriage and Parenthood Infographic](/images/Population-in-Brief-2021-Marriage-Parenthood-Infographic.jpg)
 
