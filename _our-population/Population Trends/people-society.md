@@ -13,7 +13,7 @@ The coexistence and intermixing of cultures continue today. About 1 in 6 citizen
 About a third of citizen marriages involved transnational<sup>2</sup> couples, with the proportion dipping slightly in 2020 and 2021 amidst COVID-19-related travel restrictions<sup>3</sup> (Chart 7)
 
 *Chart 6 – Inter-ethnic marriages as a proportion of citizen marriages, 2011 - 2021*
-![Chart 6](/images/Chart-6-Inter-Ethnic-Marriages-2011-2021.png)
+![Chart 6](/images/Chart-6-Inter-Ethnic-Marriages-2011-2021_2.png)
 *Source: Department of Statistics*  
 *The figures are based on the full calendar year (January to December).*
 
