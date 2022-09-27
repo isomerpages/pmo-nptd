@@ -65,4 +65,4 @@ There were 31,713 citizen births in 2021, similar to the 31,816 citizen births i
 
 The resident Total Fertility Rate (TFR) recovered slightly from the historic low of 1.10 in 2020, to 1.12 in 2021. However, this was still lower than the pre-COVID level of 1.14 in 2019. 
 
-These figures are from the annual [Population in Brief](/media-centre/publications/population-in-brief) publication, which provides key updates and trends on Singapore’s population.
+These figures are from the annual [Population in Brief](/media-centre/publications/population-in-brief) publication, which provides key updates and trends on Singapore’s population. 
