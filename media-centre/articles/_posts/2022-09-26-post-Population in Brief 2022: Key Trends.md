@@ -22,4 +22,4 @@ The Population in Brief (PIB) 2022 publication provides key updates on Singapore
 **3.	Citizen births**
 
 •	There were 31,713 citizen births in 2021, similar to the 31,816 citizen births in 2020. The resident total fertility rate recovered slightly from 1.10 in 2020 to 1.12 in 2021. However, this was still lower than the pre-COVID level of 1.14 in 2019. 
-PIB 2022 is available here.
+PIB 2022 is available [here](https://www.population.gov.sg/files/media-centre/publications/Population-in-Brief-2022.pdf)
