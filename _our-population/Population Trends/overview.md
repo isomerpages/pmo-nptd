@@ -46,9 +46,7 @@ In 2021, there were 23,433 citizen marriages, 20.6 per cent more than the 19,430
 There were 31,713 citizen births in 2021, similar to the 31,816 citizen births in 2020 (Chart 5). In the past five years (2017 to 2021), there were about 32,200 citizen births on average per year, fewer than the average of about 32,900 per year in the preceding five years (2012 to 2016). This was because of the slightly lower number of births in 2020 and 2021, which could be partly due to delays in marriage and childbearing plans given the uncertainties brought about by COVID-19. 
 
 *Chart 5 – Citizen births, 2011 - 2021*
-
 ![Chart 5](/images/population-trends/Chart-5-Citizen-Births-2011-2021.jpg)
-
 *Source: Immigration & Checkpoints Authority*
 
 *The figures are based on the full calendar year (January to December).*
