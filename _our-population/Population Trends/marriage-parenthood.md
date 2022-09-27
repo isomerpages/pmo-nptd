@@ -9,7 +9,7 @@ third_nav_title: Population Trends
 
 Similar to many advanced societies, Singapore’s resident Total Fertility Rate (TFR) has been declining over the past decades. It was 1.12 in 2021. Our low TFR is largely due to the rising proportion of singles, later marriages, and married couples having fewer children. In the short term, birth rates can fluctuate due to external factors like economic uncertainty and the COVID-19 pandemic. In the longer term, demographic trends, progress and development in education, changing employment landscape, and societal values and attitudes towards marriage and family play a bigger part. Ultimately, getting married and having children are personal decisions, influenced by changing social norms, personal priorities, and economic sentiments.
 
-Young Singaporeans have consistently expressed a strong desire to get married and have children. From our 2021 Marriage & Parenthood survey, 8 in 10 young singles aspire to get married and have children, and over 9 in 10 married Singaporeans want at least 2 children. These sentiments have held firm since our surveys in 2012 and 2016.
+Young Singaporeans have consistently expressed a strong desire to get married and have children. From our 2021 Marriage & Parenthood survey, 8 in 10 young singles aspire to get married and have children, and over 9 in 10 married Singaporeans want at least 2 children. These sentiments have held firm since our surveys in 2012 and 2016. 
 
 **Support for Marriage & Parenthood**
 
