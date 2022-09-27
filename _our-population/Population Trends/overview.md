@@ -11,7 +11,7 @@ Singapore’s total population stood at 5.64 million as at June 2022 (Diagram 1)
 
 ![Diagram 1](/images/population-trends/Total-Population-June-2022.jpg)
 
-*Source: Department of Statistics, Ministry of Manpower*  
+*Source: Department of Statistics, Ministry of Manpower* 
 *Numbers may not sum up due to rounding.*
 
 The citizen and PR populations increased by 1.6 per cent (3.50 million to 3.55 million) and 6.3 per cent (0.49 million to 0.52 million) respectively between June 2021 and June 2022 (Chart 1). The PR population was still slightly below the pre-COVID level of 0.53 million in June 2019. The changes to the citizen and PR populations were mainly due to the easing of travel restrictions related to COVID-19, as more citizens and PRs who previously remained overseas continuously for 12 months or more returned to Singapore. 
@@ -48,7 +48,6 @@ There were 31,713 citizen births in 2021, similar to the 31,816 citizen births i
 *Chart 5 – Citizen births, 2011 - 2021*
 ![Chart 5](/images/population-trends/Chart-5-Citizen-Births-2011-2021.jpg)
 *Source: Immigration & Checkpoints Authority*
-
 *The figures are based on the full calendar year (January to December).*
 
 The resident Total Fertility Rate (TFR) recovered slightly from the historic low of 1.10 in 2020, to 1.12 in 2021. However, this was still lower than the pre-COVID level of 1.14 in 2019. 
