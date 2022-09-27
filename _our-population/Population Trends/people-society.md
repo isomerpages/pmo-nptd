@@ -36,4 +36,4 @@ Integration is a two-way process. As the newcomers learn and adapt to local valu
 
 *<sup>2</sup> Transnational marriages refer to marriages involving a citizen and a non-citizen (i.e. permanent resident or non-resident).*
 
-*<sup>3</sup> From late-March 2020, all non-residents require entry approval to enter Singapore. Video link solemnisations were an option for couples from mid-May 2020 onwards, but both parties need to be physically in Singapore. Travel restrictions were gradually eased only from 4Q2021 onwards.*
+*<sup>3</sup> Starting from late-March 2020, all non-residents required entry approval to enter Singapore. Video link solemnisations were an option for couples from mid-May 2020 onwards, but both parties needed to be physically present in Singapore. Travel restrictions were gradually eased only from 4Q2021 onwards.*
