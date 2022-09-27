@@ -11,9 +11,7 @@ The Population in Brief (PIB) 2022 publication provides key updates on Singapore
 **1.	Overall population**
 
 •	Singapore’s total population stood at 5.64 million as at June 2022. The total population grew by 3.4% from June 2021 to June 2022, but remained slightly lower than the pre-COVID level of 5.70 million in June 2019.
-
 •	The Singapore Citizen (SC) population increased by 1.6% from 3.50 million in June 2021 to 3.55 million in June 2022. The citizen population continued to age, with 18.4% aged 65 and above in June 2022, compared to 17.6% in June 2021. The Permanent Resident (PR) population increased by 6.3% from 0.49 million in June 2021 to 0.52 million in June 2022, slightly below the pre-COVID level of 0.53 million in June 2019. The changes to the citizen and PR populations were mainly due to the easing of travel restrictions related to COVID-19, as more citizens and PRs living overseas returned to Singapore.
-
 •	The non-resident population increased by 6.6% from June 2021 to June 2022 to 1.56 million, but was still lower than the pre-COVID level of 1.68 million in June 2019. The bulk of the increase came from Work Permit Holders in the Construction, Marine Shipyard, and Process (CMP) sectors, as a result of the easing of travel restrictions related to COVID-19. 
 
 **2.	Citizen marriages**
