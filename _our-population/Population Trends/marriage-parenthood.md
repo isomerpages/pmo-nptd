@@ -14,7 +14,7 @@ Young Singaporeans have consistently expressed a strong desire to get married an
 **Support for Marriage & Parenthood**
 
 Supporting Singaporeans to fulfil their aspirations to get married and raise families continues to be our priority. Through close partnerships across Government agencies, and with community partners, employers, businesses and the broader society, a range of support is available to Singaporeans at every stage of their marriage and parenthood journey.
-The Marriage & Parenthood Package provides comprehensive support to help couples start and raise their families. Key measures in the Package include:
+The [Marriage & Parenthood Package](https://www.go.gov.sg/mpbooklet) provides comprehensive support to help couples start and raise their families. Key measures in the Package include:
 *	Schemes and grants to help couples own their first home
 *	Schemes to defray costs of assisted conception, maternity and newborn care. 
 *	Financial support through the Baby Bonus scheme, comprising a Cash Gift and Government co-matching contributions to the Child Development Account
