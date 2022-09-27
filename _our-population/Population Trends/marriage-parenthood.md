@@ -13,28 +13,19 @@ Young Singaporeans have consistently expressed a strong desire to get married an
 
 **Support for Marriage & Parenthood**
 
-Supporting Singaporeans in fulfilling their aspirations to get married and raise families is a national priority. Through close partnerships across Government agencies, and with community partners, employers, businesses and the broader society, a range of support is available to Singaporeans at every stage of their marriage and parenthood journey.
+Supporting Singaporeans to fulfil their aspirations to get married and raise families continues to be our priority. Through close partnerships across Government agencies, and with community partners, employers, businesses and the broader society, a range of support is available to Singaporeans at every stage of their marriage and parenthood journey.
+The Marriage & Parenthood Package provides comprehensive support to help couples start and raise their families. Key measures in the Package include:
+*	Schemes and grants to help couples own their first home
+*	Schemes to defray costs of assisted conception, maternity and newborn care. 
+*	Financial support through the Baby Bonus scheme, comprising a Cash Gift and Government co-matching contributions to the Child Development Account
+*	MediSave Grant for Newborns
+*	Government-paid parental leave schemes
+*	Subsidised infant care and childcare services 
 
-The [Marriage & Parenthood Package](https://www.go.gov.sg/mpbooklet) provides comprehensive support to help couples start and raise their families. Key measures in the Package include:
-* Schemes to help couples own their first home
-* Baby Bonus scheme, comprising a Cash Gift and the Child Development Account
-* Government-paid parental leave
-* Subsidised infant care and childcare
-* Subsidised healthcare for mothers and children, including free National Childhood Immunisation Schedule (NCIS) vaccinations and developmental screenings at Community Health Assist Scheme (CHAS) General Practitioner clinics and polyclinics
-* MediSave Grant for Newborns
-* Co-funding for Assisted Conception Procedures (ACP) treatments at public Assisted Reproduction (AR) centres
+More details on all the support measures can be found at [go.gov.sg/mpbooklet](go.gov.sg/mpbooklet)t and [madeforfamilies.gov.sg](madeforfamilies.gov.sg). Parents may also use the Family Support Calculator in the [LifeSG app](live.gov.sg), to find out how much benefits they can receive.
+For parents to better manage their work and family responsibilities, we are working to cultivate more family-friendly workplaces.  This is encouraged through ongoing efforts such as the Tripartite Standards on Work-Life Harmony, Unpaid Leave for Unexpected Care Needs, and Flexible Work Arrangements (FWAs) established in 2021, 2018 and 2017 respectively. The Government will strengthen provisions on FWAs by introducing a new set of Tripartite Guidelines on FWAs by 2024. The Guidelines will require employers to consider FWA requests from employees fairly and properly.
+Beyond these, we must all do our part to ensure that Singapore is a great place to start and raise families. The Made For Families initiative was launched in June 2020 to further assure families of support from the Government and the broader society, and to encourage more businesses and community groups to play a part in building a family-friendly ecosystem. Organisations can submit their request to adopt the Made for Families brand mark here, to identify themselves as entities promoting the value of family in our society.
 
-In recent years, more efforts have been made to increase the accessibility and affordability of preschool, housing, healthcare for children, and fertility treatments. To supplement the existing Marriage and Parenthood Package, and help reassure couples to proceed with their parenthood plans amid the COVID-19 pandemic, the [Baby Support Grant (BSG)](https://www.go.gov.sg/baby-support-grant) was introduced in October 2020. Eligible Singaporean children born from 1 October 2020 to 30 September 2022 will receive the BSG, a one-off $3,000 cash grant. Together with the BSG, couples can receive up to $21,000 in cash and cash-like benefits on the birth of their first child and up to $35,000 for their fifth and subsequent children.
-
-![Support Raising Families](/images/support-raising-families.jpg)
-
-More details on all the measures in the Package can be found at [go.gov.sg/mpbooklet](https://www.go.gov.sg/mpbooklet) and [madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg). Parents may also use the Family Support Calculator in the LifeSG app, which can be downloaded at [life.gov.sg](https://life.gov.sg), to find out how much benefits they can receive.
-
-With more companies adopting flexible work arrangements, parents may find it easier to better manage their work and family responsibilities. Employers and co-workers are also showing more support towards cultivating family-friendly workplaces. These are positive developments that we are encouraging through efforts such as the Tripartite Standards on Work-Life Harmony, Unpaid Leave for Unexpected Care Needs, and Flexible Work Arrangements established in 2021, 2018 and 2017 respectively.
-
-To further improve work-life harmony in Singapore, the Citizens’ Panel on Work-Life Harmony, comprising Singaporeans from various walks of life, was convened in 2019. Recommendations by the panel to promote FWAs and shape social norms are being implemented. Details can be found [here](https://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony). In February 2021, an Alliance for Action (AfA) on Work-Life Harmony (WLH) was also launched to build a community of stakeholders to develop and drive work-life initiatives and resources. The AfA on WLH conducted five communities of practice (CoP) sessions to discuss best work-life practices, and created resources such as self-diagnostic tools, guides and publicity materials to encourage and support the implementation of work-life harmony.
-
-![Citizens' Panel infographic](/images/CP-2019-infographic.jpg)
 
 The Made For Families initiative was launched in June 2020 to further assure families of support from the Government and the broader society, and to encourage more businesses and community groups to play a part in building a family-friendly ecosystem. Organisations can submit their request to adopt the [Made for Families](https://www.go.gov.sg/madeforfamilies) brand mark [here](https://www.madeforfamilies.gov.sg/MadeForFamilies), to identify themselves as entities promoting the value of family in our society.
 
