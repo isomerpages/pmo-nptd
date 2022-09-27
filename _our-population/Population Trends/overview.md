@@ -1,12 +1,11 @@
 ---
 title: Overview
-permalink: /our-population/population-trends/Overview
+permalink: /our-population/population-trends/Overview/
 third_nav_title: Population Trends
 ---
-
 ![Pedestrians aerial view](/images/stock-image-6.jpg)
 
-Singapore’s total population stood at 5.45 million as of June 2021 (Diagram 1). Amid the COVID-19 pandemic, the total population decreased by 4.1 per cent from June 2020 to June 2021. This was largely due to the decrease in the non-resident population. 
+Singapore’s total population stood at 5.64 million as at June 2022 (Diagram 1). The total population grew by 3.4% from June 2021 to June 2022, but remained slightly lower than the pre-COVID level of 5.70 million in June 2019.
 
 *Diagram 1: Total Population, as of June 2021*
 
@@ -68,6 +67,3 @@ There were 31,816 citizen births in 2020, fewer than the 32,844 citizen births i
 However, resident Total Fertility Rate remained below the replacement rate of 2.1 at 1.14 in 2019, which is the same as the year before. This is partly due to later marriages and childbearing. The median age of first-time mothers increased from 28.5 years in 2000, to 30.6 years in 2019.
 
 These figures are from the annual [Population in Brief](/media-centre/publications/population-in-brief) publication, which provides key updates and trends on Singapore’s population.
-
-
-
