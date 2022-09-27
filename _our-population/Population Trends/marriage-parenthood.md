@@ -29,3 +29,5 @@ Beyond these, we must all do our part to ensure that Singapore is a great place 
 ![Made For Families Brand Mark](/images/MFF-small.jpg)
 
 **Ageing Population**
+
+![Image 2](/images/population-trends/Ageing-Population.jpg)
