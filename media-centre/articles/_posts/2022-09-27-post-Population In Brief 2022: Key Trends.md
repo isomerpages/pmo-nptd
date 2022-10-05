@@ -6,10 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
 The Population in Brief (PIB) 2022 publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends: 
 
-**1.	Overall population**
+**1.	Overall population** 
 
 •	Singapore’s total population stood at 5.64 million as at June 2022. The total population grew by 3.4% from June 2021 to June 2022, but remained slightly lower than the pre-COVID level of 5.70 million in June 2019.
 
