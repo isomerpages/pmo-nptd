@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 
-The Population in Brief (PIB) 2022 publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends:
+The Population in Brief (PIB) 2022 publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends: 
 
 **1.	Overall population**
 
