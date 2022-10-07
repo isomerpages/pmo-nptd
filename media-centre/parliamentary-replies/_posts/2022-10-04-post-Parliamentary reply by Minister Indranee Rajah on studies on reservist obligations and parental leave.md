@@ -1,7 +1,6 @@
 ---
-title: Parliamentary Reply by Minister Indranee Rajah on Reservist Obligations
-  and Parental Leave
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-parental-leave/
+title: Parliamentary reply by Minister Indranee Rajah on studies on reservist obligations and parental leave”
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-studies-on-reservist-obligations-and-parental-leave/
 date: 2022-10-04
 layout: post
 description: ""
