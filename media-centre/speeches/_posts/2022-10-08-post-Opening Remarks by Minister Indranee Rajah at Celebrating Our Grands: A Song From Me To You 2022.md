@@ -7,11 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-Ms Sun Xueling, Minister of State for Social and Family Development 
+Ms Sun Xueling, Minister of State for Social and Family Development<br>
 Mr Ishak Ismail, Chairman of Families for Life Council 
-Mr Kho Choon Keng, President of the Singapore Chinese Chamber of Commerce & Industry (SCCCI)
-Distinguished Guests 
-Ladies and Gentlemen 
+Mr Kho Choon Keng, President of the Singapore Chinese Chamber of Commerce & Industry (SCCCI)<br>
+Distinguished Guests<br>
+Ladies and Gentlemen<br>
 
 It is a wonderful afternoon to be here with you all. When you are here at SCCCI, you really feel the weight of history. The Chamber was founded in 1906 and it has such a long history in association with Singapore. It is also closely linked to many of our families in Singapore.
 
