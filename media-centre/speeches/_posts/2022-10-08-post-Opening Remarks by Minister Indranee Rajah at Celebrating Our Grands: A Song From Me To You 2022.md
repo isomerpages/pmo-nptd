@@ -8,7 +8,7 @@ description: ""
 image: ""
 ---
 Ms Sun Xueling, Minister of State for Social and Family Development<br>
-Mr Ishak Ismail, Chairman of Families for Life Council 
+Mr Ishak Ismail, Chairman of Families for Life Council<br>
 Mr Kho Choon Keng, President of the Singapore Chinese Chamber of Commerce & Industry (SCCCI)<br>
 Distinguished Guests<br>
 Ladies and Gentlemen<br>
