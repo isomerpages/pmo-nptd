@@ -24,45 +24,43 @@ When asked about their ideal number of children, the vast majority (92%) of marr
 
 * **_In making parenthood decisions, key considerations include ability to manage costs of child-raising, as well as manage work and family commitments_**  
 
-Financial cost was the most common reason cited by married respondents who did not want to have (more) children. Other concerns included the stress of raising children, and difficulties in managing work and family demands (Annex B, Table 3).
+Financial cost was the most common reason cited by married respondents who did not want to have (more) children. Other concerns included the stress of raising children, and difficulties in managing work and family demands ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Table 3).
 
-For the married respondents who may have (more) children, financial security was the most important factor in determining whether or when to have a/another child. Another major factor was whether they would be able to cope with both work and family commitments (Annex B, Table 4).
+For the married respondents who may have (more) children, financial security was the most important factor in determining whether or when to have a/another child. Another major factor was whether they would be able to cope with both work and family commitments ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Table 4).
 
-For the single respondents, the majority (77%) of them want children. Those who were unsure or did not want children had similar concerns about the costs of child raising, a lack of time and energy to care for children, and balancing work and family commitments (Annex B, Table 5).
+For the single respondents, the majority (77%) of them want children. Those who were unsure or did not want children had similar concerns about the costs of child raising, a lack of time and energy to care for children, and balancing work and family commitments ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Table 5).
 
-·       **_Fathers equally important as caregivers, can play a greater role at home_**
+* **_Fathers equally important as caregivers, can play a greater role at home_**
 
-Almost all (99%) married respondents agreed that fathers and mothers were equally important as caregivers for children, and 95% agreed that both parents should share equal responsibilities at home (Annex B, Table 6).
+Almost all (99%) married respondents agreed that fathers and mothers were equally important as caregivers for children, and 95% agreed that both parents should share equal responsibilities at home ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Table 6).
 
 These sentiments reflect a shift in perceived gender roles. The proportion of those who felt that “ideally, the mother should take care of her children full-time” fell from 40% in 2016 to 24% in 2021 for single respondents, and from 56% in 2016 to 40% in 2021 for married respondents.       
 
 However, married women continued to do more at home compared to their husbands, primarily in the area of child-related care. On average, women spent about 6 hours on a normal weekday on childcare, and 10 hours on weekends. In contrast, men reported an average of 3.6 hours on weekdays and 7.7 hours on weekends. In general, women were less satisfied with the division of domestic labour compared to their male counterparts, with 59% of women saying they were happy with the division, compared to 72% of men.    
 
-Paternity leave encourages more shared parental responsibility. 97% of married respondents agreed that paternity leave allowed fathers to play a bigger role in their newborn’s life (Annex B, Table 6). Most (77%) married respondents felt that paternity leave would make/had made it easier for them to have children.
+Paternity leave encourages more shared parental responsibility. 97% of married respondents agreed that paternity leave allowed fathers to play a bigger role in their newborn’s life ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Table 6). Most (77%) married respondents felt that paternity leave would make/had made it easier for them to have children.
 
 * **_Many agree that flexible work arrangements make it easier for couples to start a family and have more children_**
 
 Both men and women prefer flexible work arrangements (FWAs), and this was especially important for those with young children (0-6 years). A large majority of married respondents agreed that the availability of FWAs would make/had made it easier for them to start a family (90%) and have more children (81%).
 
-FWAs also help companies to attract talent and foster stronger employee commitment. 92% of married respondents agreed that they were more likely to join an organisation that provided FWAs, while 94% agreed that they were more likely to stay in such an organisation (Annex B, Table 7).
-
-  
+FWAs also help companies to attract talent and foster stronger employee commitment. 92% of married respondents agreed that they were more likely to join an organisation that provided FWAs, while 94% agreed that they were more likely to stay in such an organisation ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Table 7).
 
 * **_Significant proportion of single respondents have never dated before, and are not proactive in dating_**
 
-Of the single respondents surveyed, 50% were not currently dating. 38% of those who were not currently dating had never dated before (Annex B, Chart 8).
+Of the single respondents surveyed, 50% were not currently dating. 38% of those who were not currently dating had never dated before ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Chart 8).
 
-Among those not currently dating, top reasons cited were having a limited social circle (58%), not having many opportunities to meet potential partners (57%), and their preference to leave dating to chance (48%) (Annex B, Chart 9).
+Among those not currently dating, top reasons cited were having a limited social circle (58%), not having many opportunities to meet potential partners (57%), and their preference to leave dating to chance (48%) ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Chart 9).
 
 * **_Growth in acceptance and use of online dating methods_**
 
-The use of dating websites and apps have become more prevalent. Among single respondents who were dating, 29% met their partner through online channels, a significant increase from 2016 (13%) and 2012 (7%) (Annex B, Chart 10).
+The use of dating websites and apps have become more prevalent. Among single respondents who were dating, 29% met their partner through online channels, a significant increase from 2016 (13%) and 2012 (7%) ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Chart 10).
 
-Around 58% were comfortable with meeting a partner through online dating websites or apps, compared to 43% in 2016, and 19% in 2012. That said, single respondents were still most comfortable meeting potential partners through more organic and face-to-face settings, including through social/recreational activities (90%), friends (88%), or through colleagues (82%) (Annex B, Chart 11).
+Around 58% were comfortable with meeting a partner through online dating websites or apps, compared to 43% in 2016, and 19% in 2012. That said, single respondents were still most comfortable meeting potential partners through more organic and face-to-face settings, including through social/recreational activities (90%), friends (88%), or through colleagues (82%) ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Chart 11).
 
 * **_Need to raise awareness on fertility health_**
 
-Many are not aware that reproduction technology cannot compensate for age-related decline in fertility. Over 70% of married and single respondents have the misconception that assisted reproductive technologies like IVF would have very high success rates for women above age 40 (Annex B, Table 12). 
+Many are not aware that reproduction technology cannot compensate for age-related decline in fertility. Over 70% of married and single respondents have the misconception that assisted reproductive technologies like IVF would have very high success rates for women above age 40 ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Table 12). 
 
 **Building a Singapore Made For Families**
 
