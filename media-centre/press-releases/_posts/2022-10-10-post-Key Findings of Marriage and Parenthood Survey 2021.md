@@ -22,7 +22,7 @@ A majority (80%) of young single respondents (aged 21-35) indicated that they in
 
 When asked about their ideal number of children, the vast majority (92%) of married respondents indicated preference to have two or more children, comparable to previous surveys. However, in practice, about half of married respondents (51%) had fewer than two children ([Annex B](/files/media-centre/press-releases/Annex%20B.pdf), Chart 2).
 
-·       **_In making parenthood decisions, key considerations include ability to manage costs of child-raising, as well as manage work and family commitments_**  
+* **_In making parenthood decisions, key considerations include ability to manage costs of child-raising, as well as manage work and family commitments_**  
 
 Financial cost was the most common reason cited by married respondents who did not want to have (more) children. Other concerns included the stress of raising children, and difficulties in managing work and family demands (Annex B, Table 3).
 
