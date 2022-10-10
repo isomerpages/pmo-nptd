@@ -27,5 +27,4 @@ To achieve this, we need everyone to come together and do their part. The Govern
 
 Parents too have a role to play – do not be too hard on yourselves or your children, find the right balance. We need the dads to step up as well, and more importantly, for workplaces to support them in doing so – currently our utilisation rate of paternity leave is only around 50%! In today’s newspaper, it was reported that SIA allows air stewardess to have ground crew jobs when they are pregnant, and the option of going back as air stewardess after giving birth. That is one example of what we can do to make things more family-friendly.
 
-The work on “A Singapore Made For Families” is on-going but by no means done. There is still much room for input, insights and ideas. We look forward to hearing from you. Thank you.	 
-
+The work on “A Singapore Made For Families” is on-going but by no means done. There is still much room for input, insights and ideas. We look forward to hearing from you. Thank you.
