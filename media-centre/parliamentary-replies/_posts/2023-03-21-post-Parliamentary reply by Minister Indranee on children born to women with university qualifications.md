@@ -7,10 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-**FOURTEENTH PARLIAMENT OF SINGAPORE**
-
-**WRITTEN REPLY**
-
+**FOURTEENTH PARLIAMENT OF SINGAPORE**  
+**WRITTEN REPLY**  
 **TUESDAY, 21 MARCH 2023**
 
 **Ms He Ting Ru:**
