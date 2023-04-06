@@ -4,7 +4,7 @@ title: "Building a Singapore Made For Families: Greater support for Singaporeans
 permalink: /media-centre/press-releases/budgetenhancements2023/
 date: 2023-02-14
 layout: post
-description: ""
+description: "Building a Singapore Made For Families: Greater support for Singaporeans in starting and raising families"
 image: ""
 ---
 As announced by Deputy Prime Minister and Minister for Finance Lawrence Wong in the 2023 Budget Statement, the Government will enhance financial and parental leave measures for parents, to provide more support in the child’s early years. This is part of the Government’s efforts to strengthen support for Singaporeans who aspire to have children and raise a family.
