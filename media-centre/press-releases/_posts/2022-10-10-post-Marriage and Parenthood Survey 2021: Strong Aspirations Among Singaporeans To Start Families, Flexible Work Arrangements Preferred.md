@@ -65,7 +65,7 @@ Many are not aware that reproduction technology cannot compensate for age-relate
 
 **Building a Singapore Made For Families**
 
-Marriage and parenthood are highly personal life goals that most Singaporeans aspire towards. The Government will continue to support Singaporeans in fulfilling their aspirations to marry and have children, managing work and family commitments, and sharing parental responsibilities. The views expressed through the Marriage & Parenthood Survey will be taken into consideration as the Government reviews and strengthens our suite of marriage and parenthood support measures. More details about our marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](http://www.madeforfamilies.gov.sg) and the Marriage & Parenthood booklet at [go.gov.sg/mpbooklet](https://my-sgdcs.sgnet.gov.sg/personal/PMOSGKMLA/Documents/go.gov.sg/mpbooklet).
+Marriage and parenthood are highly personal life goals that most Singaporeans aspire towards. The Government will continue to support Singaporeans in fulfilling their aspirations to marry and have children, managing work and family commitments, and sharing parental responsibilities. The views expressed through the Marriage & Parenthood Survey will be taken into consideration as the Government reviews and strengthens our suite of marriage and parenthood support measures. More details about our marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](http://www.madeforfamilies.gov.sg) and the Marriage & Parenthood booklet at [go.gov.sg/mpbooklet](https://go.gov.sg/mpbooklet).
 
 **About the Marriage & Parenthood Survey 2021**
 
