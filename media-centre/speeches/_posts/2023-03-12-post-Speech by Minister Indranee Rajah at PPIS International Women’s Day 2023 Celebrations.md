@@ -7,9 +7,9 @@ layout: post
 description: ""
 image: ""
 ---
-PPIS President, Mdm Hazlina Abdul Halim
+PPIS President, Mdm Hazlina Abdul Halim,
 
-PPIS Board Members and CEO, Mdm Tuminah Sapawi
+PPIS Board Members and CEO, Mdm Tuminah Sapawi,
 
 Distinguished Speakers,
 
