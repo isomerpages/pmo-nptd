@@ -63,4 +63,4 @@ Thank you.
 
 * * *
 
-[](#_ftnref1)3 Singapore is ranked 7th worldwide on the Gender Inequality Index (GII) in the UN HDR report, published in Sep 2022.
+[](#_ftnref1)1 Singapore is ranked 7th worldwide on the Gender Inequality Index (GII) in the UN HDR report, published in Sep 2022.
