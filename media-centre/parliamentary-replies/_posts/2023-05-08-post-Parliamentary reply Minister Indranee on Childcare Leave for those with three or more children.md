@@ -13,7 +13,7 @@ image: ""
 
 **MONDAY, 8 MAY 2023**
 
-**Mr Christopher de Souza**
+**Mr Christopher de Souza:**
 
 To ask the Prime Minister whether the number of days for childcare leave can be granted in proportion to the number of children such that parents with three or more children are given additional days.
 
