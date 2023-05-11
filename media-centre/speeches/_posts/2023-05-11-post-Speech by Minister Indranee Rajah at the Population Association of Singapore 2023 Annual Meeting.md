@@ -130,4 +130,3 @@ So in conclusion, let me say that in my speech today, I have covered some of the
 In the same vein, we are looking forward to hearing your views during this conference on how the public, private, and people sectors can come together to tackle our population challenge, and build a better future for Singapore.
 
 The Population Association of Singapore plays an important role in providing a platform for academics and other stakeholders to share research, discuss and exchange views on current and emerging population issues. We look forward to our continued partnership with your community, to build a Singapore where our people can continue to thrive. Researchers, like yourselves, should be a part of our journey in making Singapore a place that is Made For Families. I invite you to contribute your research, ideas, and solutions that businesses, the community and individuals can adopt, to build an environment that supports families and values family well-being.
-
