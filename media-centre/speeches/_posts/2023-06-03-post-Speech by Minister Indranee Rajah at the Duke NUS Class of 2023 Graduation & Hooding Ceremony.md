@@ -12,9 +12,9 @@ image: ""
 
 Professor Eugene Washington, Chancellor for Health Affairs, Duke University and President and CEO, Duke University Health System
 
-Professor Ivy Ng, Group CEO, SingHealth
+Professor Ivy Ng, Group CEO, SingHealth  
 
-Chairman and Members of the Duke-NUS Governing Board
+Chairman and Members of the Duke-NUS Governing Board  
 
 Professor Thomas Coffman, Dean, Duke-NUS Medical School
 
@@ -160,4 +160,4 @@ Thank you all very much.
 
 * * *
 
-[\[1\]](#_ftnref1)           [In social](https://www.duke-nus.edu.sg/allnews/white-coat-ceremony-2022) prescribing, the focus goes beyond treating patients when they are ill. This nascent area of family medicine seeks to encourage patients to live healthier lives by empowering them to manage their illnesses well and use the resources around them, such as Senior Activity Centres, to improve their overall wellbeing.
+[1] In social prescribing, the focus goes beyond treating patients when they are ill. This nascent area of family medicine seeks to encourage patients to live healthier lives by empowering them to manage their illnesses well and use the resources around them, such as Senior Activity Centres, to improve their overall wellbeing.
