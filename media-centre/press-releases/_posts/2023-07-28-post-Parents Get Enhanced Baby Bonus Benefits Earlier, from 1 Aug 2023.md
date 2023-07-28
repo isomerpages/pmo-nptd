@@ -14,7 +14,7 @@ Parents with eligible children who are born from 14 Feb 2023 are advised to take
 
 ![Baby Bonus disbursement schedule](/images/Press%20Release%20images/baby%20bonus%20disbursement%20schedule.png)
 
-For enquiries on the enhanced Baby Bonus Scheme, parents may call 1800 111 2222 (MSF Hotline) or visit the FAQs on Baby Bonus website at [www.babybonus.msf.gov.sg](www.babybonus.msf.gov.sg)
+For enquiries on the enhanced Baby Bonus Scheme, parents may call 1800 111 2222 (MSF Hotline) or visit the FAQs on Baby Bonus website at [www.babybonus.msf.gov.sg](https://www.babybonus.msf.gov.sg/Pages/Home.aspx)
 
 Issued by the Ministry of Social and Family Development and Strategy Group, Prime Minister’s Office
 
