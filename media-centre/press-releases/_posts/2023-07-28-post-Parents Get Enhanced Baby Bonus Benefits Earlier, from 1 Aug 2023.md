@@ -18,4 +18,5 @@ For enquiries on the enhanced Baby Bonus Scheme, parents may call 1800 111 2222 
 
 Issued by the Ministry of Social and Family Development and Strategy Group, Prime Minister’s Office
 
-Click here[here](https://go.gov.sg/bbs2023-enhanced) to view the updated payout schedule for parents.
+**Annex**  
+Click [here](https://go.gov.sg/bbs2023-enhanced) to view the updated payout schedule for parents.
