@@ -34,11 +34,11 @@ The proportion of our citizen population aged 65 years and above is rising, and 
 ![Chart 3](/images/population-trends/chart%203%20citizen%20population%20by%20broad%20age%20groups%20as%20at%20june%202023.png)
 *Source: Department of Statistics*
 
-*Chart 4: Citizen Population by broad age bands, as at June*
+*Chart 4: Citizen population by broad age bands, as at June**
 ![](/images/population-trends/chart%204%20citizen%20population%20by%20broad%20age%20bands%20as%20at%20june.png)
 
-*Source: Department of Statistics. Figures may not sum up due to rounding.
-Note: The 2030 numbers illustrate the possible change in the population that could occur if certain demographic assumptions prevail over the stated period. These assumptions may or may not be realised. This chart appears in Population in Brief 2023, and projections have been updated from Population in Brief 2022.*
+Source: Department of Statistics. Figures may not sum up due to rounding.  
+*Note: The 2030 numbers illustrate the possible change in the population that could occur if certain demographic assumptions prevail over the stated period. These assumptions may or may not be realised. This chart appears in Population in Brief 2023, and projections have been updated from Population in Brief 2022.*
 
 In 2022, there were 24,767 citizen marriages, 5.7 per cent more than the 23,433 citizen marriages in 2021 (Chart 5). The number of citizen marriages increased for the second consecutive year since 2020. The increase could have been contributed by couples resuming their marriage plans after disruptions caused by the COVID-19 pandemic. However, the annual average number of citizen marriages in the last five years (22,700) remained lower than that in the preceding five years (23,600). 
 
@@ -49,13 +49,11 @@ In 2022, there were 24,767 citizen marriages, 5.7 per cent more than the 23,433 
 
 There were 30,429 citizen births in 2022, 4 per cent fewer than the 31,713 citizen births in 2021 (Chart 6). The annual average number of births in the last five years (31,800) was also lower than that in the preceding five years (32,700).  
 
-*Chart 6 – Citizen births, 2011 - 2022*
+*Chart 6 – Citizen births, 2012 - 2022*
 ![](/images/population-trends/chart%206%20citizen%20births%202012%20to%202022.png)
 *Source: Immigration &amp; Checkpoints Authority*
 <br>*The figures are based on the full calendar year (January to December).*
 
 The resident Total Fertility Rate (TFR), which has generally been declining over the past few decades, reached a historic low of 1.04 in 2022. The decline in 2022 coincided with the year of the Tiger in the Lunar calendar, which is generally associated with lower births among the Chinese.  
 
-These figures are from the annual Population in Brief 2023 publication, which provides key updates and trends on Singapore’s population.
-
-These figures are from the annual [Population in Brief](/media-centre/publications/population-in-brief) publication, which provides key updates and trends on Singapore’s population.
+These figures are from the annual [Population in Brief 2023](/media-centre/publications/population-in-brief) publication, which provides key updates and trends on Singapore’s population.
