@@ -13,12 +13,12 @@ The coexistence and intermixing of cultures continue today. About 1 in 6 citizen
 About a third of citizen marriages involved transnational<sup>2</sup> couples in 2022, an increase from 29 per cent in 2021<sup>3</sup> (Chart 8). 
 
 *Chart 7 – Inter-ethnic marriages as a proportion of citizen marriages, 2012 - 2022*
-![Chart 6](/images/Chart-6-Inter-Ethnic-Marriages-2011-2021_2.png)
+![Chart 7](/images/population-trends/chart%207%20inter-ethnic%20marriages%20as%20a%20proportion%20of%20citizen%20marriages%202012%20-%202022.png)
 *Source: Department of Statistics*  
 *The figures are based on the full calendar year (January to December).*
 
 *Chart 8 – Transnational marriages as a proportion of citizen marriages, 2012 - 2022*
-![Chart 7](/images/Chart-7-Transnational-Marriages-2011-2021.png)
+![Chart 8](/images/population-trends/chart%208%20transnational%20marriages%20as%20a%20proportion%20of%20citizen%20marriages%202012%20-%202022.png)
 *Source: Department of Statistics*  
 *The figures are based on the full calendar year (January to December).*
 
