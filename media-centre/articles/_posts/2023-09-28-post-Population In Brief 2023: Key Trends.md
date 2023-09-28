@@ -18,7 +18,7 @@ The Population in Brief (PIB) 2023 publication provides key updates on Singapore
 
 **2\. Citizen marriages**
 
-·         In 2022, there were 24,767 citizen marriages, a record high. The number of citizen marriages increased for the second consecutive year since 2020, when the number of marriages dropped due to the COVID-19 pandemic. However, the annual average number of citizen marriages in 2018 - 2022 (22,700) remained lower than that of 2013 - 2017 (23,600).
+*  In 2022, there were 24,767 citizen marriages, a record high. The number of citizen marriages increased for the second consecutive year since 2020, when the number of marriages dropped due to the COVID-19 pandemic. However, the annual average number of citizen marriages in 2018 - 2022 (22,700) remained lower than that of 2013 - 2017 (23,600).
 
 **3\. Citizen births**
 
