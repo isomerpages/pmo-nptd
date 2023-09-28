@@ -41,7 +41,7 @@ Note: The 2030 numbers illustrate the possible change in the population that cou
 
 In 2022, there were 24,767 citizen marriages, 5.7 per cent more than the 23,433 citizen marriages in 2021 (Chart 5). The number of citizen marriages increased for the second consecutive year since 2020. The increase could have been contributed by couples resuming their marriage plans after disruptions caused by the COVID-19 pandemic. However, the annual average number of citizen marriages in the last five years (22,700) remained lower than that in the preceding five years (23,600). 
 
-*Chart 5 – Citizen marriages, 2011 - 2022*
+*Chart 5 – Citizen marriages, 2012 - 2022*
 ![Chart 4](/images/population-trends/Chart-4-Citizen-Marriages-2011-2021.jpg)
 *Source: Department of Statistics*
 <br>*The figures are based on the full calendar year (January to December).*
