@@ -24,4 +24,4 @@ The Population in Brief (PIB) 2023 publication provides key updates on Singapore
 
 * The resident total fertility rate (TFR) reached a historic low of 1.04 in 2022.There were 30,429 citizen births in 2022, 4.0% fewer than the 31,713 citizen births in 2021. The annual average number of births in 2018 - 2022 (31,800) was also lower than that in 2013-2017 (32,700).
 
-PIB 2023 is available [here](https://www.population.gov.sg/files/media-centre/publications/Population-in-brief-2023.pdf).
+PIB 2023 is available [here](/files/media-centre/publications/Population-in-brief-2023.pdf).
