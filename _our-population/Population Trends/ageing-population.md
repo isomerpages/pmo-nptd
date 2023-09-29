@@ -6,7 +6,7 @@ third_nav_title: Population Trends
 ![Photo credits: Ministry of Health](/images/stock-image-20.jpg)
 *Photo credits: Ministry of Health*
 
-With increasing life expectancy and low fertility rates, the proportion of Singapore’s citizen population aged 65 years and above is rising rapidly - with large cohorts of “baby boomers” entering the post-65 age range. It is important that we make Singapore a home for all to age with confidence and peace of mind.
+With increasing life expectancy and low fertility rates, the proportion of Singapore’s citizen population aged 65 years and above is rising rapidly - large cohorts of “baby boomers” have begun entering the post-65 age range. It is important that we make Singapore a home for all to age with confidence and peace of mind.
 
 The S$3 billion Action Plan for Successful Ageing, launched by the Ministerial Committee on Ageing in 2015, is the national blueprint to enable Singaporeans to age well and lead active lives, and to build a nation for all ages. It encompasses a range of initiatives, at the individual, community, and national levels. It is working towards creating more opportunities for seniors to be meaningfully engaged, be part of a caring and inclusive society, and live well in a city where they can age gracefully and confidently in place.
 
