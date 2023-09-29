@@ -34,7 +34,7 @@ The proportion of our citizen population aged 65 years and above is rising, and 
 ![Chart 3](/images/population-trends/chart%203%20citizen%20population%20by%20broad%20age%20groups%20as%20at%20june%202023.png)
 *Source: Department of Statistics*
 
-*Chart 4: Citizen population by broad age bands, as at June**
+Chart 4: Citizen population by broad age bands, as at June*
 ![](/images/population-trends/chart%204%20citizen%20population%20by%20broad%20age%20bands%20as%20at%20june.png)
 
 Source: Department of Statistics. Figures may not sum up due to rounding.  
