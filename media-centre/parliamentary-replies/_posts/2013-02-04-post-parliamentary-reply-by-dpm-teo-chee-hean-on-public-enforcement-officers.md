@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on public enforcement officers"
 date:   2013-02-04
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-4-feb-2013-1"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-4-feb-2013-1/
 ---
 
 **TWELFTH PARLIAMENT  

@@ -2,7 +2,7 @@
 layout: post
 title:  "How is the Total Fertility Rate calculated?"
 date:   2019-12-31
-permalink: "/media-centre/articles/how-is-the-tfr-calculated"
+permalink: /media-centre/articles/how-is-the-tfr-calculated/
 ---
 
 ![Baby and mother, image by iStock](/images/stock-image-8.JPG)

@@ -2,7 +2,7 @@
 layout: post
 title:  "DPM Wong Kan Seng’s speech at the Administrative Service Dinner and Promotion Ceremony 2011"
 date:   2011-03-28
-permalink: "/media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-administrative-service-dinner-2011"
+permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-at-the-administrative-service-dinner-2011/
 ---
 **28 MARCH 2011, 7:30PM**
 

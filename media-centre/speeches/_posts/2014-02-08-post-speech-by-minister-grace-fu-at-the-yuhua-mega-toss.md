@@ -2,7 +2,7 @@
 layout: post
 title:  "Speech by Minister Grace Fu at the Yuhua Mega Toss"
 date:   2014-02-08
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-yuhua-mega-toss"
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-yuhua-mega-toss/
 ---
 
 A very warm welcome to our _Guest-of-honor:_   

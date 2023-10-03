@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary Reply by DPM Teo Chee Hean on persons granted SC"
 date:   2012-05-14
-permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-persons-granted-sc
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-persons-granted-sc/
 ---
 
 **TWELFTH PARLIAMENT OF SINGAPORE  

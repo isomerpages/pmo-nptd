@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary Reply by DPM Te Chee Hean on immigration and TFR issues"
 date:   2012-10-15
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-immigration-and-tfr-issues"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-immigration-and-tfr-issues/
 ---
 
 **TWELFTH PARLIAMENT OF SINGAPORE  

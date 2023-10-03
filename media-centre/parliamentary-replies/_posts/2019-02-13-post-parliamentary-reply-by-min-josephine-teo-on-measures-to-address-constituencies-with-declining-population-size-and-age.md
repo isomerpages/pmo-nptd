@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by Min Josephine Teo on measures to address constituencies with declining population size and age"
 date:   2019-02-13
-permalink: "/media-centre/press-releases/parliamentary-reply-by-min-josephine-teo-on-measures-to-address-constituencies-with-declining-population-size-and-age"
+permalink: /media-centre/press-releases/parliamentary-reply-by-min-josephine-teo-on-measures-to-address-constituencies-with-declining-population-size-and-age/
 ---
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  

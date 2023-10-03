@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by Acting Minister Chan Chun Sing on disbursement of Community Integration Fund (CIF)"
 date:   2012-09-11
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-acting-minister-chan-chun-sing-on-11-sep-2012"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-acting-minister-chan-chun-sing-on-11-sep-2012/
 ---
 
 **TWELFTH PARLIAMENT OF SINGAPORE  

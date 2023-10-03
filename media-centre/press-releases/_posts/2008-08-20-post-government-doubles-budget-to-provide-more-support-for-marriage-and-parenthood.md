@@ -2,7 +2,7 @@
 layout: post
 title:  "Government doubles budget to provide more support for Marriage and Parenthood"
 date:   2008-08-20
-permalink: "/media-centre/press-releases/2008-08-20-government-doubles-budget-to-provide-more-support-for-marriage-and-parenthood"
+permalink: /media-centre/press-releases/2008-08-20-government-doubles-budget-to-provide-more-support-for-marriage-and-parenthood/
 ---
 
 Deputy Prime Minister Wong Kan Seng, Minister-In-Charge of Population Issues and Chairman of the National Population Committee (NPC), announced the details of the enhanced 2008 Marriage and Parenthood (M&P) Package today.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Why are Singapore's official population statistics different from those released by international organisations?"
 date:   2019-06-17
-permalink: "/media-centre/articles/why-are-Singapore-s-official-population-statistics-different-from-those-released-by-international-organisations"
+permalink: /media-centre/articles/why-are-singapore-s-official-population-statistics-different-from-those-released-by-international-organisations/
 ---
 
 Some people have noticed that the official statistics on Singapore’s population are different from those released by international organisations like the United Nations (UN).

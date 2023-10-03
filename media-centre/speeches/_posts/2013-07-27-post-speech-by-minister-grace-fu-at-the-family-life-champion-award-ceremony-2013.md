@@ -2,7 +2,7 @@
 layout: post
 title:  "Speech by Minister Grace Fu at the Family Life Champion Award Ceremony 2013"
 date:   2013-07-27
-permalink: "/media-centre/speeches/speech-by-minister-grace-fu-at-the-family-life-champion-award-ceremony-2013"
+permalink: /media-centre/speeches/speech-by-minister-grace-fu-at-the-family-life-champion-award-ceremony-2013/
 ---
 
 Fellow Advisers

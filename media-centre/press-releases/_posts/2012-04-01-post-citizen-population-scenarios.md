@@ -2,7 +2,7 @@
 layout: post
 title:  "Citizen Population Scenarios"
 date:   2012-04-01
-permalink: "/media-centre/press-releases/citizen-population-scenarios"
+permalink: /media-centre/press-releases/citizen-population-scenarios/
 ---
 
 **Highlight**  

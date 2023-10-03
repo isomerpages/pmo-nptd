@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on parents' sick leave entitlements for childcare"
 date:   2017-09-11
-permalink: "/media-centre/parliamentary-replies/parents-sick-leave-entitlement"
+permalink: /media-centre/parliamentary-replies/parents-sick-leave-entitlement/
 ---
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  

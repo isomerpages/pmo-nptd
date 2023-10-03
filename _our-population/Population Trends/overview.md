@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-population/population-trends/Overview/
+permalink: /our-population/population-trends/overview/
 third_nav_title: Population Trends
 ---
 ![Pedestrians aerial view](/images/stock-image-6.jpg)

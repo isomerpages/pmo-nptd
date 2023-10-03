@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on trend in number of permanent residences and Singapore citizenships granted"
 date:   2012-09-10
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-10-sep-2012"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-10-sep-2012/
 ---
 
 **TWELFTH PARLIAMENT OF SINGAPORE  

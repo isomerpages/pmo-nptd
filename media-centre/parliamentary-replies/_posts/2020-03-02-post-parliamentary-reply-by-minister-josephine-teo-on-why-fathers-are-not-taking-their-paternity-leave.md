@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by Minister Josephine Teo on why fathers are not taking their paternity leave"
 date:   2020-03-02
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Josephine-Teo-on-why-fathers-are-not-taking-their-paternity-leave"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-josephine-teo-on-why-fathers-are-not-taking-their-paternity-leave/
 ---
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  

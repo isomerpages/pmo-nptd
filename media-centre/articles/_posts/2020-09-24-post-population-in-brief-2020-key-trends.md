@@ -2,7 +2,7 @@
 layout: post
 title:  "Population in Brief 2020: Key Trends"
 date:   2020-09-24
-permalink: "/media-centre/articles/population-in-brief-2020-key-trends"
+permalink: /media-centre/articles/population-in-brief-2020-key-trends/
 ---
 
 The Population in Brief (PIB) 2020 provides key updates and trends on Singapore’s population. Here’s a snapshot of what the key trends are:  

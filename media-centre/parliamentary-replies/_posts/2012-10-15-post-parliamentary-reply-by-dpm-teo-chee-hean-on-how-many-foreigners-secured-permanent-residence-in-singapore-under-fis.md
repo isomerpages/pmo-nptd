@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on how many foreigners secured permanent residence in Singapore under FIS"
 date:   2012-10-15
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-15-oct-2012"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-15-oct-2012/
 ---
 
 **TWELFTH PARLIAMENT OF SINGAPORE  

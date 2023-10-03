@@ -2,7 +2,7 @@
 layout: post
 title:  "Does the Government have a population target, e.g. 10 million?"
 date:   2020-07-01
-permalink: "/media-centre/articles/does-the-Government-have-a-population-target-eg-10-million"
+permalink: /media-centre/articles/does-the-government-have-a-population-target-eg-10-million/
 ---
 
 The Government has not proposed, planned nor targeted for Singapore to increase its population to 10 million. The Government has explained its population policies in an earlier article [here](/media-centre/articles/what-is-the-aim-of-government-population-policies).
