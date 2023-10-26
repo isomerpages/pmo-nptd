@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on decline in Total Fertility Rate"
 date:   2018-11-19
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-decline-in-total-fertility-rate"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-decline-in-total-fertility-rate/
 ---
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  

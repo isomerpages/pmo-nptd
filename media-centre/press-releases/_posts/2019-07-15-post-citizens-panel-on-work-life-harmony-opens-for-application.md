@@ -2,7 +2,7 @@
 layout: post
 title:  "Citizens' Panel on Work-Life Harmony Opens for Application"
 date:   2019-07-15
-permalink: "/media-centre/press-releases/citizens-panel-on-work-life-harmony-opens-for-application"
+permalink: /media-centre/press-releases/citizens-panel-on-work-life-harmony-opens-for-application/
 ---
 
 _Bringing citizens together to co-create solutions in support of work-life harmony in Singapore_
@@ -27,5 +27,5 @@ Over the four sessions, participants will deliberate, discuss, and make informed
 	
 Interested citizens who wish to be part of the Panel can apply at [http://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony](http://www.ideas.gov.sg/public/CitizensPanel_WorkLifeHarmony) from 15 July to 31 July 2019, or call +65 6516 5603 (between 9am and 5pm, from Monday to Friday). Selected participants will be informed by early September 2019. Singaporeans can also share their views and ideas on strengthening support for marriage and parenthood through our online surveys and suggestion box at [heybaby.sg/PlayAPart](http://www.heybaby.sg/PlayAPart). 
 
-More information about the Panel can be found in **[Annex A](/files/media-centre/press-releases/Citizens'%20Panel%20-%20Annex%20A.pdf)**. 
+More information about the Panel can be found in **[Annex A](/files/media-centre/press-releases/citizens'%20panel%20-%20annex%20a.pdf)**. 
 

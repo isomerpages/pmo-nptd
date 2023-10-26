@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by SM Teo Chee Hean on transnational couples by monthly household income"
 date:   2020-04-06
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-SM-Teo-Chee-Hean-on-transnational-couples-by-monthly-household-income"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-sm-teo-chee-hean-on-transnational-couples-by-monthly-household-income/
 ---
 
 **THIRTEENTH PARLIAMENT OF SINGAPORE  

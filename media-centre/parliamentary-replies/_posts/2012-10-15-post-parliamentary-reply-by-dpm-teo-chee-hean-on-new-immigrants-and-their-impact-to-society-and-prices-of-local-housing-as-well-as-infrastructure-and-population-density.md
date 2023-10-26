@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Teo Chee Hean on new immigrants and their impact to society and prices of local housing; as well as infrastructure and population density"
 date:   2012-11-15
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-15-nov-2012"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-15-nov-2012/
 ---
 
 **TWELFTH PARLIAMENT OF SINGAPORE  

@@ -2,16 +2,16 @@
 layout: post
 title:  "How is the Total Fertility Rate calculated?"
 date:   2019-12-31
-permalink: "/media-centre/articles/how-is-the-tfr-calculated"
+permalink: /media-centre/articles/how-is-the-tfr-calculated/
 ---
 
-![Baby and mother, image by iStock](/images/stock-image-8.JPG)
+![Baby and mother, image by iStock](/images/stock-image-8.jpg)
 
 The Total Fertility Rate (TFR) is a standard demographic indicator used internationally to estimate the *average* number of children that a woman would have over her childbearing years (i.e. age 15-49), *based on current birth trends*.
 
 It is calculated by adding up the average number of births per woman across five-year age groups (i.e. age-specific fertility rates, or ASFR). The specific formula to calculate TFR is:
 
-![TFR calculation](/images/TFR-calculation.jpg)
+![TFR calculation](/images/tfr-calculation.jpg)
 
 More information on how TFR is calculated is available at the [Department of Statistics’ website](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate).
 

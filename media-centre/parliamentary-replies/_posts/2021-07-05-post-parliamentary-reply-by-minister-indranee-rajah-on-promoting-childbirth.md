@@ -2,7 +2,7 @@
 layout: post
 title: "Parliamentary reply by Minister Indranee Rajah on Promoting Childbirth"
 date: 2021-07-05
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-promoting-childbirth"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-promoting-childbirth/
 ---
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  

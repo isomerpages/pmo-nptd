@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Wong Kan Seng on on PRs' reactions to the measures taken to widen the gap between Singapore citizens and PRs."
 date:   2010-04-26
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-26-apr-2010"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-26-apr-2010/
 ---
 
 **Assoc Prof Paulin Tay Straughan:**

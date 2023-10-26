@@ -2,7 +2,7 @@
 layout: post
 title:  "Speech by Senior Minister of State Josephine Teo at the Family Life Champion Award Ceremony, 7 Sep 2016"
 date:   2016-09-07
-permalink: "/media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-family-life-champion-award-ceremony-7-sep-2016"
+permalink: /media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-family-life-champion-award-ceremony-7-sep-2016/
 ---
 
 Friends and colleagues  

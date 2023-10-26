@@ -2,7 +2,7 @@
 layout: post
 title:  "An occasional paper on Marriages Between Singapore Citizens and Non-Singapore Citizens, 1998 - 2008"
 date:   2009-06-01
-permalink: /media-centre/publications/an-occasional-paper-on-marriages-between-singapore-citizens-and-non-singapore-citizens-1998---2008
+permalink: /media-centre/publications/an-occasional-paper-on-marriages-between-singapore-citizens-and-non-singapore-citizens-1998---2008/
 ---
 
 This paper provides a statistical profile of the marriages between Singapore

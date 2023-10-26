@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by Minister Grace Fu on integration efforts."
 date:   2012-08-13
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-grace-fu-on-13-aug-2012"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-grace-fu-on-13-aug-2012/
 ---
 
 

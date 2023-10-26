@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by Minister Indranee Rajah on marriage and parenthood aspirations"
 date:   2021-05-10
-permalink: "/media-centre/parliamentary-replies/Parliamentary-reply-by-Minister-Indranee-Rajah-on-marriage-and-parenthood-aspirations"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-marriage-and-parenthood-aspirations/
 ---
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  

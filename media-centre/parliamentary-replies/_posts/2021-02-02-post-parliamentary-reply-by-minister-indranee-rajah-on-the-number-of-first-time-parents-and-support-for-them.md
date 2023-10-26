@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by Minister Indranee Rajah on the number of first-time parents and support for them"
 date:   2021-02-02
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-the-number-of-first-time-parents-and-support-for-them"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-minister-indranee-rajah-on-the-number-of-first-time-parents-and-support-for-them/
 ---
 
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  

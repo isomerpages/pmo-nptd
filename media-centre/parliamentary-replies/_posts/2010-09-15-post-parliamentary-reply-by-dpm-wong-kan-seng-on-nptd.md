@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliamentary reply by DPM Wong Kan Seng on NPTD"
 date:   2010-09-15
-permalink: "/media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-nptd"
+permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-wong-kan-seng-on-nptd/
 ---
 
 #### **PARLIAMENTARY QUESTIONS:**

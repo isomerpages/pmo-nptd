@@ -2,7 +2,7 @@
 layout: post
 title:  "National Day Rally 2008 Speech by Prime Minister"
 date:   2008-08-17
-permalink: "/media-centre/speeches/national-day-rally-2008-speech-by-prime-minister"
+permalink: /media-centre/speeches/national-day-rally-2008-speech-by-prime-minister/
 ---
 
 NDR 2008

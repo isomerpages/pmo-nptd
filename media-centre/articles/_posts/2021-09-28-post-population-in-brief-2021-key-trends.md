@@ -2,7 +2,7 @@
 layout: post
 title:  "Population in Brief 2021: Key Trends"
 date:   2021-09-28
-permalink: "/media-centre/articles/population-in-brief-2021-key-trends"
+permalink: /media-centre/articles/population-in-brief-2021-key-trends/
 ---
 
 The [Population in Brief (PIB) 2021](https://www.population.gov.sg/files/media-centre/publications/Population-in-brief-2021.pdf) publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends:

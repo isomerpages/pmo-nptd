@@ -2,7 +2,7 @@
 layout: post
 title:  "Speech by Minister Josephine Teo on Population at the Committee of Supply Debate 2020"
 date:   2020-02-28
-permalink: "/media-centre/speeches/speech-by-minister-josephine-teo-on-population-at-the-committee-of-supply-debate-2020"
+permalink: /media-centre/speeches/speech-by-minister-josephine-teo-on-population-at-the-committee-of-supply-debate-2020/
 ---
 
 ***Theme: Singaporeans at the Heart of Our Population Policies***

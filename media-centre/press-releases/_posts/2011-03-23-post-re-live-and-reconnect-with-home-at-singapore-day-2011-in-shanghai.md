@@ -2,7 +2,7 @@
 layout: post
 title:  "Re-live and reconnect with home at Singapore Day 2011 in Shanghai!"
 date:   2011-03-23
-permalink: "/media-centre/press-releases/re-live-and-reconnect-with-home-at-singapore-day-2011-in-shanghai!"
+permalink: /media-centre/press-releases/re-live-and-reconnect-with-home-at-singapore-day-2011-in-shanghai!/
 ---
 
 Overseas Singaporeans in China will enjoy a slice of home at Singapore Day 2011. To be held at Century Park, Pudong District, Shanghai on 16 April, Singapore Day will enable Overseas Singaporeans to “re-live” and “reconnect” with home through an exciting line-up of Singaporean hawker favourites, local entertainment and a showcase on the latest developments in Singapore.
