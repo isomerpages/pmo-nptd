@@ -68,6 +68,7 @@ NPTD also considered the proposals and suggestions submitted by various organisa
 
 In total, NPTD received more than 800 pieces of feedback on marriage and parenthood issues during the consultation period from 28 Jun to 31 Oct 2012. We would like to thank all contributors for their feedback and suggestions.
 
-For more information on the Marriage & Parenthood Package 2013, please visit [www.heybaby.sg.](https://www.heybaby.sg)
+For more information on the Marriage & Parenthood Package 
+2013, please visit [www.heybaby.sg.](https://www.heybaby.sg)
 
-[Annexes for the enhanced Marriage & Parenthood Package (111kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/20130121-media-release-2013-marriage-and-parenthood-package-annexesc362845b617a6d73a304ff0000443480.pdf)
+[Annexes for the enhanced Marriage & Parenthood Package (111kb, pdf)](/files/media-centre/press-releases/20130121_media_release_2013_marriage_and_parenthood_package_annexes.pdf)
