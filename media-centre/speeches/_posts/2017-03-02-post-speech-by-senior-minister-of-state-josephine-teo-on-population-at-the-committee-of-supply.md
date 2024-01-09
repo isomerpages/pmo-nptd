@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Speech by Senior Minister of State Josephine Teo on population at the Committee of Supply"
-date:   2017-03-02
+title: Speech by Senior Minister of State Josephine Teo on population at the
+  Committee of Supply
+date: 2017-03-02
 permalink: /media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-on-population/
+variant: markdown
 ---
-
 **Strengthening our Singapore Family**
 
 Madam Chair, I thank Members for their insightful suggestions and questions.
@@ -155,8 +156,6 @@ Thank you, Madam Chair.
 
 <sub><sup>2</sup> Examples of such courses include PA’s “Caregiving for Infants” and a confinement nanny training programme that is jointly conducted by KKH and WINGS. (WINGS is a non-profit organisation focused on promoting active ageing for women.)</sub>
 
-[Factsheet](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2017-factsheet.pdf)
+[Factsheet](/files/media-centre/Speeches/cos_2017_factsheet.pdf)
 
-[Infographic](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2017-infographic.pdf)
-
-
+[Infographic](/files/media-centre/Speeches/cos_2017_infographic.pdf)
