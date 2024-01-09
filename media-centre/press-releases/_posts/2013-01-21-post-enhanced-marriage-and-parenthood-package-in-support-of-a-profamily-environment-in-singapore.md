@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Enhanced Marriage & Parenthood package in support of a profamily environment in Singapore"
-date:   2013-01-21
+title: Enhanced Marriage & Parenthood package in support of a profamily
+  environment in Singapore
+date: 2013-01-21
 permalink: /media-centre/press-releases/enhanced-marriage-parenthood-package-in-support-of-a-profamily-environment-in-singapore/
+variant: markdown
 ---
-
 The Government recognises the importance of families in Singapore and is committed to helping Singaporeans achieve their marriage and parenthood aspirations. Deputy Prime Minister Teo Chee Hean, Coordinating Minister for National Security and Minister-in-charge of population issues, announced the enhanced Marriage & Parenthood Package today. The enhanced package aims to provide more comprehensive support for Singaporeans in getting married and starting their families.
 
 **Enhancements to the Marriage and Parenthood Package**
@@ -47,7 +48,7 @@ xi) Extended maternity protection period to cover the full term of pregnancy, fo
 
 xii) 1 week of Government-Paid Paternity Leave for fathers.
 
-xiii) 1 week of Government-Paid Shared Parental Leave to allow fathers to share 1 week of the working mother’s maternity leave entitlement. Please refer to [Annex A](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/20130121-media-release-2013-marriage-and-parenthood-package-annexes.pdf) for more details on the enhancements.  
+xiii) 1 week of Government-Paid Shared Parental Leave to allow fathers to share 1 week of the working mother’s maternity leave entitlement. Please refer to [Annex A](/files/media-centre/press-releases/20130121_media_release_2013_marriage_and_parenthood_package_annexes.pdf) for more details on the enhancements.  
 
 These enhancements complement existing Marriage & Parenthood measures, which include the Medisave Maternity Package, Child Development Account, Parenthood Tax Rebate, Qualifying Child Relief and others. The enhanced M&P package has a new budget of $2 billion a year, up from the previous $1.6 billion budget of the 2008 package. A summary of the enhanced Marriage & Parenthood Package can be found in Annex B.
 
@@ -70,5 +71,3 @@ In total, NPTD received more than 800 pieces of feedback on marriage and parenth
 For more information on the Marriage & Parenthood Package 2013, please visit [www.heybaby.sg.](https://www.heybaby.sg)
 
 [Annexes for the enhanced Marriage & Parenthood Package (111kb, pdf)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/20130121-media-release-2013-marriage-and-parenthood-package-annexesc362845b617a6d73a304ff0000443480.pdf)
-
-
