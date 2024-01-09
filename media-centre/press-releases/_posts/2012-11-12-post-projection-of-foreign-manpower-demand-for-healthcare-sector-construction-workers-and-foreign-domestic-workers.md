@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Projection of foreign manpower demand for healthcare sector construction workers and foreign domestic workers"
-date:   2012-11-12
+title: Projection of foreign manpower demand for healthcare sector construction
+  workers and foreign domestic workers
+date: 2012-11-12
 permalink: /media-centre/press-releases/projection-of-foreign-manpower-demand-for-healthcare-sector-construction-workers-and-foreign-domestic-workers/
+variant: markdown
 ---
-
 The National Population and Talent Division has released an Occasional Paper on the “Projection of Foreign Manpower Demand for Healthcare Sector, Construction Workers and Foreign Domestic Workers”. While our foreign workforce policies will continue to remain tight, a sustainable supply of manpower in the healthcare and built environment sectors as well as for foreign domestic workers is required to serve the needs of Singaporeans. Construction workers build our housing, transport and social infrastructure such as hospitals and educational institutes. Workers in the healthcare sector, particularly in Intermediate and Long-term Care, and foreign domestic workers, play a role in supporting the elderly, and families with children as our population ages. We will continue to work towards productivity improvements and where possible, train Singaporeans to enter these sectors.
 
 The Occasional Paper seeks to illustrate the growth and change in the demand for workers in the abovementioned sectors, based on certain assumptions drawn from demographic and demand trends.
@@ -21,8 +22,7 @@ Foreign Domestic Workers (FDWs) provide care-giving support for families with el
 
 The construction workload is expected to increase as the Government ramps up infrastructure development such as the expansion of our rail network, launching more Build-To-Order housing projects, creating more social and educational facilities, and building more nursing homes and hospitals to cater to the ageing population. The Government has introduced measures to promote productivity in the built environment sector through the Construction Productivity Roadmap. Manpower policies have also been tightened to encourage more reliance on productivity improvements. Even with these measures, we expect demand for construction workers to remain strong in the next 2-3 years, from 250,000 in 2011 to about 280,000 in the next 2-3 years. With the projected productivity improvements, demand for construction Work Permit holders should be within the range of 250,000 to 300,000 by 2030.
 
-The Occasional Paper on “Projection of Foreign Manpower Demand for Healthcare Sector, Construction Workers and Foreign Domestic Workers” is available for download [here](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/occasional-paper-projection-of-foreign-manpower-demand-healthcare-construction-foreign-domestic-workers.pdf).
-
+The Occasional Paper on “Projection of Foreign Manpower Demand for Healthcare Sector, Construction Workers and Foreign Domestic Workers” is available for download [here](/files/media-centre/press-releases/occasional_paper_projection_of_foreign_manpower_demand_healthcare_construction_foreign_domestic_workers.pdf). 
 – END –
 
 For media enquiries, please contact:
@@ -31,6 +31,4 @@ Teo Yea Shi
 Executive, Corporate Communications   
 National Population and Talent Division   
 Tel: 6325 0490   
-Email: teo_yea_shi@nptd.gov.sg  
-
-
+Email: teo_yea_shi@nptd.gov.sg
