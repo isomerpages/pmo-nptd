@@ -5,6 +5,7 @@ title: Speech by Senior Minister of State Josephine Teo at the 2nd Multipartite
   Southeast Asia, 10 Oct 2016
 date: 2016-10-10
 permalink: /media-centre/speeches/speech-by-senior-minister-of-state-josephine-teo-at-the-2nd-multipartite-regional-meeting-on-financial-security-of-older-women-in-the-east-and-southeast-asia-10-oct-2016/
+variant: markdown
 ---
 Partners from the Tsao Foundation and Citi Foundation,
 
@@ -78,14 +79,14 @@ I thank Tsao Foundation, Citi Foundation and the Regional Network partners from 
 
 Thank you.
 
-<sub><sup>1</sup> NPTD Population in Brief 2016, 2016. [https://raw.githubusercontent.com/isomerpages/isomerpages-stratgroup/master/images/PublicationImages/population-in-brief-2016.pdf](https://raw.githubusercontent.com/isomerpages/isomerpages-stratgroup/master/images/PublicationImages/population-in-brief-2016.pdf) </sub>
+<sub><sup>1</sup> [NPTD Population in Brief 2016, 2016.](/files/media-centre/publications/population-in-brief-2016.pdf)</sub>
 
 <sub><sup>2</sup> Population SG. Feng Zengkun. “Singapore’s Silver Age”, 3 August 2016. [https://web.archive.org/web/20201022003510/http://www.population.sg:80/Articles/singapores-silver-age](https://web.archive.org/web/20201022003510/http://www.population.sg:80/Articles/singapores-silver-age) </sub>
 
 <sub><sup>3</sup> Ministry of Manpower, 2016. “Time Series Table: Labour Force”. [http://stats.mom.gov.sg/Pages/LabourForceTimeSeries.aspx](http://stats.mom.gov.sg/Pages/LabourForceTimeSeries.aspx)</sub>
 
-<sub><sup>4</sup> UN Women, 2015. “Expert’s take: Old age – a double whammy for women?” <http://www.unwomen.org/en/news/stories/2015/9/experts-take-old-age-a-double-whammy-for-women>
-<http://progress.unwomen.org/en/2015/pdf/ch3.pdf> </sub>
+<sub><sup>4</sup> UN Women, 2015. “Expert’s take: Old age – a double whammy for women?” 
+ </sub>
 
 <sub><sup>5</sup> Central Provident Fund Board, 2014. “Analysis of Balances of CPF Members by Gender”. </sub>
 
