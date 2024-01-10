@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Infographic on Jubilee Marriage and Parenthood Package"
-date:   2015-08-25
+title: Infographic on Jubilee Marriage and Parenthood Package
+date: 2015-08-25
 permalink: /media-centre/press-releases/infographic-on-jubilee-marriage-and-parenthood-package/
+variant: markdown
 ---
-
-![Infographic Image](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/infographicFamilyPlan.jpg)
+![Infographic Image](/images/press%20release%20images/infographicfamilyplan.jpg)
