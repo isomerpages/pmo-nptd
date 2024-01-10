@@ -3,6 +3,7 @@ layout: post
 title: Speech by DPM Wong Kan Seng on population at the Committee of Supply
 date: 2007-03-02
 permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng-on-population-8july/
+variant: markdown
 ---
 #### **OVERVIEW**
 
@@ -150,4 +151,4 @@ I think we can do this through a more targeted effort in three areas – better 
 
 Mr Speaker, Sir. We have an enormous strategic challenge ahead of us. Our population challenge is not to be taken lightly. It is easy to be lulled into complacency; our economy is doing well, many Singaporeans are better off today than they were 10 years ago. We need to look forward, but only if we are able to keep going as a vibrant and productive community. We know what needs to be done. Three things. One, get married and have more babies. Two, welcome suitable immigrants and help them integrate into our society. And, three, keep our Overseas Singaporeans connected. I hope our people will work together with the Government to get the job done.
 
-[Statistics on Parenthood](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2007-statistics-on-marriage-and-parenthood.pdf)
+[Statistics on Parenthood](/files/media-centre/Speeches/cos_2007_statistics_on_marriage_and_parenthood.pdf)
