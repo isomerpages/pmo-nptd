@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Speech by DPM Wong Kan Seng on population at the Committee of Supply"
-date:   2010-03-04
+title: Speech by DPM Wong Kan Seng on population at the Committee of Supply
+date: 2010-03-04
 permalink: /media-centre/speeches/speech-by-dpm-wong-kan-seng's-speech-on-population/
+variant: markdown
 ---
-
 #### **PREAMBLE** 
 
 Mr Chairman, many Members have spoken passionately about the issues of immigration and population. They no doubt reflect concerns raised by segments of our public over the increased inflow of immigrants and its impact on our society. This is a very important subject, and it is also a highly complex subject. I want to thank the Members for giving me this opportunity to address it.
@@ -123,4 +123,4 @@ Singaporean’s concerns over our immigration policy are widely reported in the 
 
 这表示我们必须致力于吸纳素质良好的新公民，而不是光拥有一大批安于现 状、不打算成为本国公民的永久居民。政府已经通过区别公民与永久居民所享有的待 遇，提高永久居民申请成为公民的积极性。另一方面，政府也大力推动国民融合，让 新移民早日融入本地社会。有了新公民这批生力军，新加坡的人口结构才能有可持续 性，国家的前景才能得到一定的保障。我们都是移民的后代，有今天的成就，应该饮 水思源。今日的新移民在新加坡扎根，他们的子孙，也会成为未来的公民，继续为新 加坡奋斗。 
 
-[Charts](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/cos-2010-charts.pdf)
+[Charts](/files/media-centre/Speeches/cos_2010_charts.pdf)
