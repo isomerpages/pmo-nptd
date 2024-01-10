@@ -3,6 +3,7 @@ layout: post
 title: Public voting for Jubilee baby gift items begins today
 date: 2014-04-16
 permalink: /media-centre/press-releases/public-voting-for-the-jubilee-baby-gift-items/
+variant: markdown
 ---
 Singaporeans have given about 6,500 suggestions on possible items that can go into the Jubilee Baby Gift. These were collected from various platforms, namely The Jubilee BabyGift microsite, feedback booths, focus group sessions, and REACH’s online platforms from 1 – 15 April. Baby-related items as well as commemorative gifts comprised 70% of all suggestions. The breakdown of the types of suggestions received can be found in Annex A.
 
@@ -13,7 +14,7 @@ The shortlist of 15 items is as follows:
 **Table 1: Shortlist of Jubilee Baby Gift Items**
 
 <table class="table-h">
-  <tr>
+  <tbody><tr>
     <th>Items</th>
     <th>Care</th>
     <th>Celebration</th>
@@ -126,7 +127,7 @@ The shortlist of 15 items is as follows:
   </tr>
   
   
-</table>
+</tbody></table>
 
 
 <sub><sup>1 While the NPTD engages Singaporeans widely on their ideas for The Jubilee Baby Gift, our Advisory Panel will curate the Singaporeans’ suggestions arising from the public engagement, and will advise on the suitability of the items and the design of The Jubilee Baby Gift. 
@@ -144,4 +145,5 @@ The final set of items will be announced in the middle of the year following the
 
 The Jubilee Baby Gift is a community initiative led by the National Population and Talent Division, supported by REACH, the Ministry of Social and Family Development, Families for Life, NTUC U Family, and I Love Children. In conjunction with the SG50 celebrations to commemorate Singapore’s Golden Jubilee, the Gift will consist of a small set of meaningful items from all Singaporeans to welcome every Singaporean baby born in 2015. The Jubilee Baby Gift symbolises our best wishes, hopes and aspirations from this generation of Singaporeans to the next.
 
-![Jubilee-chart](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/public-voting-for-the-jubilee-baby-gift-begins-today.jpg)
+
+![Jubilee-chart](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/public-voting-for-the-jubilee-baby-gift-begins-today.jpg)</sub>

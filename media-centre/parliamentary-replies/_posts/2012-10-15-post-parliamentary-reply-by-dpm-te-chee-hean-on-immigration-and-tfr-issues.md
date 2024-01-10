@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Parliamentary Reply by DPM Te Chee Hean on immigration and TFR issues"
-date:   2012-10-15
+title: Parliamentary Reply by DPM Te Chee Hean on immigration and TFR issues
+date: 2012-10-15
 permalink: /media-centre/parliamentary-replies/parliamentary-reply-by-dpm-teo-chee-hean-on-immigration-and-tfr-issues/
+variant: markdown
 ---
-
 **TWELFTH PARLIAMENT OF SINGAPORE  
 WRITTEN ANSWER  
 MONDAY, 15 OCTOBER 2012**
@@ -21,8 +21,7 @@ Immigration delays the ageing and decline of our citizen population. The effects
 
 Table 1: Characteristics of Citizen Population under Various Scenarios
 
-![15Oct2012PqTable](https://github.com/isomerpages/isomerpages-stratgroup/raw/staging/images/parliamentary%20files/15%20oct%202012%20PQ%20table.PNG)
-
+![15Oct2012PqTable](/images/parliamentary%20files/15Oct2012PqTable.png)
 
 [Note: Please refer to NPTD Occasional Paper on Citizen Population Scenarios for more information]
 
@@ -32,3 +31,4 @@ While a calibrated pace of immigration can help to delay the decline and ageing 
   
 
 
+</sub></sub>
