@@ -1,0 +1,10 @@
+collections:
+  our-population:
+    output: true
+    order:
+      - overview.md
+      - Population Trends/.keep
+      - Population Trends/overview.md
+      - Population Trends/marriage-parenthood.md
+      - Population Trends/ageing-population.md
+      - Population Trends/people-society.md
