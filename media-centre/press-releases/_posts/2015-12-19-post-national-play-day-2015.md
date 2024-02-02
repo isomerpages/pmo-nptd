@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "National Play Day 2015"
-date:   2015-12-19
+title: National Play Day 2015
+date: 2015-12-19
 permalink: /media-centre/press-releases/2national-play-day-2015/
+variant: markdown
 ---
-
 **SINGAPORE BOOK OF RECORDS: NEW RECORD SET FOR "LARGEST MASS STROLLER WALK"**
 
 **19 December 2015 -** 1,500 walkers set a new record in the Singapore Book of Records for the “Largest Mass Stroller Walk” after completing a 1.5km route around the Singapore Sports Hub.
@@ -19,5 +19,4 @@ MP Tin Pei Ling, who took part as a Special Guest at the inaugural Stroller Walk
 
 **ANNEX A**. 
 
-![anneximage](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/annexImage.jpg)
-
+![](/images/press%20release%20images/NPD2015.jpg)
