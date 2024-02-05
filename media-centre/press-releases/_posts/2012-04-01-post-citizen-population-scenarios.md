@@ -101,11 +101,10 @@ _**At current birth rates and without immigration, our citizen population is pro
 Without immigration, and if our current low TFR and high life expectancy continue, the number of citizen deaths is projected to outstrip births by around 2025 (See Chart 4). At that point, our citizen population will start to decline (See Scenario B in Chart 5).
 
 Chart 4: Projected number of citizen births and deaths under the ‘no immigration’ scenario (‘000)
-
-![Projected-number-of-citizen-births-and-deaths-under-no-immigration-scenario](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/projected-number-of-citizen-births-and-deaths-under-'no-immigration'-scenario.png)
+![](/images/press%20release%20images/projected_number_of_citizen_births_and_deaths_under__no_immigration__scenario.png)
 
 Chart 5: Citizen population size (‘millions) 
-
+![](/images/press%20release%20images/citizen_population_size.png)
 ![citizen-population-size](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/citizen-population-size.png)
 
 Raising our TFR (See Scenario A in Chart 5) and immigration (See Scenarios C-E in Chart 5) will delay and slow down the rate at which our citizen population declines. An immigration inflow of between 20K and 25K new citizens each year will keep the citizen population size stable.
