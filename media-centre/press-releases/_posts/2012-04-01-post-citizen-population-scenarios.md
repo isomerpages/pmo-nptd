@@ -126,7 +126,6 @@ At current fertility and without immigration, our citizen population will age ra
 
 Chart 7: Median age of citizen population (yrs)
 ![](/images/press%20release%20images/median_age_of_citizen_population__yrs_.png)
-![Median-age-of-citizen-population-(yrs)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/median-age-of-citizen-population-(yrs).png)
 
 -**There will be fewer citizens at the working-ages to support the growing pool of elderly citizens**_ 
 
@@ -134,8 +133,7 @@ The shrinking working-age population and increasingly aged population will resul
 
 Chart 8: Citizen old-age support ratio<sup>6</sup>
 (persons aged 20-64 years per elderly citizen)
-
-![Citizen-old-age-support-ratio](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/citizen-old-age-support-ratio.png)
+![](/images/press%20release%20images/citizen_old_age_support_ratio.png)
 
 **Summary**
  
