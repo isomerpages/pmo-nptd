@@ -105,7 +105,6 @@ Chart 4: Projected number of citizen births and deaths under the ‘no immigrati
 
 Chart 5: Citizen population size (‘millions) 
 ![](/images/press%20release%20images/citizen_population_size.png)
-![citizen-population-size](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/citizen-population-size.png)
 
 Raising our TFR (See Scenario A in Chart 5) and immigration (See Scenarios C-E in Chart 5) will delay and slow down the rate at which our citizen population declines. An immigration inflow of between 20K and 25K new citizens each year will keep the citizen population size stable.
 **Working-Age Population Size**
@@ -117,8 +116,7 @@ Between now and 2030, Singapore will experience an unprecedented age shift, as o
 As more citizens retire and fewer enter the working-age band of 20-64 years, the number of citizens of working ages will start to shrink. At current TFR and without immigration,the size of our working-age citizen population will shrink drastically. (See Scenario B in Chart 6). This effect is mitigated by immigration. Immigration will slow down the decline of citizens in the working-age band. An inflow of 25K new citizens per year would keep the size of our working-age citizen population relatively stable (See Scenario E in Chart 6).
 
 Chart 6: Number of working-age citizens (20-64 years) (‘millions)
-
-![Number-of-working-age-citizens-(20-64-year)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/number-of-working-age-citizens-(20-64-year).png)
+![](/images/press%20release%20images/number_of_working_age_citizens__20_64_year_.png)
 
 **Citizen Population Age Structure**
 
@@ -127,6 +125,7 @@ _**Our citizen population will age, and age rapidly**_
 At current fertility and without immigration, our citizen population will age rapidly from a median age of 39 yrs in 2011 to 47 years in 2030 (See Scenario B in Chart 7). With immigration, the citizen population will still age, but at a slower rate (See Scenarios C-E in Chart 7). 
 
 Chart 7: Median age of citizen population (yrs)
+![](/images/press%20release%20images/median_age_of_citizen_population__yrs_.png)
 ![Median-age-of-citizen-population-(yrs)](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/median-age-of-citizen-population-(yrs).png)
 
 -**There will be fewer citizens at the working-ages to support the growing pool of elderly citizens**_ 
