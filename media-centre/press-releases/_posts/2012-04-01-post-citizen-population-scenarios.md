@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Citizen Population Scenarios"
-date:   2012-04-01
+title: Citizen Population Scenarios
+date: 2012-04-01
 permalink: /media-centre/press-releases/citizen-population-scenarios/
+variant: markdown
 ---
-
 **Highlight**  
 * Like most East Asian urbanised societies, Singapore’s Total Fertility Rate has been declining. At the same time, Singaporeans are living longer. Our life expectancy is currently one of the highest in the world.
 * At current birth rates and without immigration, our citizen population is projected to shrink by around 2025.
@@ -29,9 +29,7 @@ _**Singapore’s TFR has been declining**_
 Singapore faces the twin challenge of declining birth rates and an ageing population. First, our TFR has been below that needed to replace ourselves<sup>2</sup> since 1976. This is a common challenge faced by other East Asian urbanised societies such as Hong Kong, Taiwan, South Korea and Japan (See Chart 1)
 
 Chart 1: International comparison of TFR<sup>3</sup>
-
-![International-comparison-of-TFR](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/international-comparison-of-tfr.png)
-
+![](/images/press%20release%20images/international_comparison_of_tfr.png)
 
 The Government supports Singaporeans in getting married and having children. Our Marriage and Parenthood package was introduced in 2001 to provide a broad range of measures to help with child-raising costs, childcare support, and time spent with young children. The Marriage and Parenthood package was enhanced twice from $500 million in 2001, to $800 million in 2004 and doubled to $1.6 billion a year in 2008. The Government will continue to fine-tune its policies and measures to encourage Singaporean families to raise children.
 
@@ -56,7 +54,7 @@ This paper models the citizen population under various scenarios. Scenario A is 
 Table 1: Summary of scenarios  
 
 <table class="table-h">
-  <tr>
+  <tbody><tr>
    <th>Parameters</th>
     <th colspan="5">Scenarios</th>
   </tr>
@@ -92,7 +90,7 @@ granted(per yr)</td>
     <td>25,000</td>
   </tr>
  
-</table>
+</tbody></table>
 
 
 
@@ -150,5 +148,4 @@ Below-replacement fertility rates and longer life expectancy affect our citizen 
 <sub><sup>3</sup> Singapore: Singapore Department of Statistics (DOS), Taiwan: National Statistics , HK: Census and Statistics Department, Japan and Korea: OECD Family Database</sub>  
 <sub><sup>4</sup> Source: Singapore: Singapore Department of Statistics (DOS), others: World Health Organisation, 2009</sub>
 <sub><sup>5</sup> 29% of the citizen population as of June 2011</sub>  
-<sub><sup>6</sup> The old-age support ratio is generally computed as the ratio of persons aged 15-64 years to persons aged 65 years and over, following international practice and United Nations’ recommendations. However, with more persons aged 15-19 years remaining in school, this report computes the old-age support ratio as the ratio of persons aged 20-64 years to persons aged 65 years and over.</sub>  
-
+<sub><sup>6</sup> The old-age support ratio is generally computed as the ratio of persons aged 15-64 years to persons aged 65 years and over, following international practice and United Nations’ recommendations. However, with more persons aged 15-19 years remaining in school, this report computes the old-age support ratio as the ratio of persons aged 20-64 years to persons aged 65 years and over.</sub>
