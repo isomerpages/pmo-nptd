@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Marriage and Parenthood Trends in Singapore"
-date:   2012-06-01
+title: Marriage and Parenthood Trends in Singapore
+date: 2012-06-01
 permalink: /media-centre/press-releases/marriage-and-parenthood-trends-in-singapore/
+variant: markdown
 ---
-
 Introduction
 
 This paper discusses marriage and parenthood trends in Singapore and efforts to address our falling birth rates.<sup>1</sup>
@@ -18,7 +18,7 @@ Singapore’s total fertility rate (TFR)<sup>2</sup> has been on a general decli
 **Singapore’s total fertility rate has been declining**  
 Chart 1: Resident total fertility rate, 1975-2011
 
-![Resident-total-fertility-rate-1975-2011](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/resident-total-fertility-rate-1975-2011.png)
+![](/images/press%20release%20images/Resident_total_fertility_rate__1975_2011.png)
 
 The declining trend in TFR is a serious and complex issue, and can be attributed to the following key factors:
 a. More people are staying single or getting married later, and
@@ -29,13 +29,13 @@ The proportion of singles has increased across all age groups between 2000 and 2
 **More Singaporeans are staying single**    
 Chart 2: Proportion of citizen singles by age group and sex
 
-![Proportion-of-citizen-singles-by-age-group-and-sex](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-citizen-singles-by-age-group-and-sex.png)
+![](/images/press%20release%20images/Proportion_of_citizen_singles_by_age_group_and_sex.png)
 
 **Singaporeans are marrying and having their first child at a later age**  
 Table 3: Median age of citizens at first marriage, and median age of citizen mothers at first birth  
  
  <table class="table-h">
-  <tr>
+  <tbody><tr>
     <th> </th>
     <th>2000</th>
     <th>2010</th>
@@ -65,7 +65,7 @@ Table 3: Median age of citizens at first marriage, and median age of citizen mot
     <td>29.8</td>
     <td>29.8</td>
   </tr>
-</table>  
+</tbody></table>  
 
 
 Source: DOS, ICA
@@ -75,36 +75,36 @@ Later marriages lead to a delay in family formation and tend to result in famili
 **Women who marry later tend to have fewer children**    
 Chart 4: Average number of children born to ever-married citizen females among the 1965 - 1970 birth cohorts at age 40 years, by age at first marriage
 
-![Women-who-marry-later-tned-to-have-fewer-children](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/women-who-marry-later-tned-to-have-fewer-children.png)
+![](/images/press%20release%20images/Women_who_marry_later_tend_to_have_fewer_children.png)
 
 **Married couples are having fewer children**  
 Chart 5: Distribution of citizen ever-married females by age group and number of children born
 
-![married-couples-are-having-fewer-children](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/married-couples-are-having-fewer-children.png)
+![](/images/press%20release%20images/Married_couples_are_having_fewer_children.png)
 
 The decline in birth rates is observed across all ethnic groups. Chinese TFR has remained the lowest among the three main ethnic groups (see Chart 6).
 
 **Fertility rates have declined across all ethnic groups**    
 Chart 6: Resident TFR by ethnic group of mother
 
-![fertility-rates-have-declined-across-all-ethnic-groups](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/fertility-rates-have-declined-across-all-ethnic-groups.png)
+![](/images/press%20release%20images/Resident_TFR_by_ethnic_group_of_mother.png)
 
 In line with the increasingly globalised nature of Singapore society, a significant proportion of marriages are between citizens and non-citizens (see Chart 7). As a result, the share of citizen births to citizen/non-citizen parents has increased in recent years. In 2011, 31.1% of citizen births had a non-citizen parent at the time of birth, as compared to 24.8% in 2000 (see Chart 8).
 
 **More Singaporeans are marrying and starting families with non-Singaporeans**  
 Chart 7: Proportion of citizen/non-citizen marriages among marriages involving at least one citizen
 
-![Proportion-of-citizen-non-citizen-marriages-among-marriages-involving-at-least-one-citizen](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-citizen-non-citizen-marriages-among-marriages-involving-at-least-one-citizen.png)
+![](/images/press%20release%20images/Proportion_of_citizen_non_citizen_marriages_among_marriages_involving_at_least_one_citizen.png)
 
 Chart 8: Share of citizen births to citizen/non-citizen couples, as a percentage of total citizen births
 
-![share-of-citizen-births-to-citizen-non-citizen-couples,-as-a-percentage-of-total-citizen-births](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/share-of-citizen-births-to-citizen-non-citizen-couples--as-a-percentage-of-total-citizen-births.png)
+![](/images/press%20release%20images/Share_of_citizen_births_to_citizen_non_citizen_couples__as_a_percentage_of_total_citizen_births.png)
 
 **Measures to support Marriage and Parenthood**  
  
 Encouraging marriage and parenthood is a priority for the Government. The Government provides a broad range of measures to support Singaporeans’ aspirations of getting married and having children.
 1. To help singles find their life partner, the Social Development Network reaches out to around 100,000 singles each year to provide them with more social interaction opportunities.
-2. There are housing schemes to help couples set up home. The Housing & Development Board has significantly increased the supply of Build-to-Order (BTO) flats, and priority is given to first-time applicants in purchasing their flats. Young couples can also apply for CPF Housing Grants (such as the Family Grant and the Additional CPF Housing Grant) to help them finance the purchase of public housing.
+2. There are housing schemes to help couples set up home. The Housing &amp; Development Board has significantly increased the supply of Build-to-Order (BTO) flats, and priority is given to first-time applicants in purchasing their flats. Young couples can also apply for CPF Housing Grants (such as the Family Grant and the Additional CPF Housing Grant) to help them finance the purchase of public housing.
 3. To help parents defray the costs of raising children, there is the Baby Bonus Scheme, comprising a cash gift and the Child Development Account (CDA) with matching co-savings from the Government. Subsidised education and healthcare, as well as significant tax rebates and tax reliefs also help to ease child-raising costs.
 4. In the area of work-life support, mothers have maternity leave of 16 weeks. To facilitate shared parental responsibilities in looking after children, each parent has paid child care leave of 6 days per year for children up to age 7, and an additional 6 days of unpaid infant care leave per year for children up to age 2.
 5. To provide parents with child care options, the Government has focused on improving the quality, affordability and accessibility of child care services. Parents can qualify for child care subsidies and tap on the savings in their child’s CDA to pay child care fees. To improve the quality of child care, the Government funds scholarships and teaching awards to attract more teachers into the child care sector. Efforts have also been stepped up to build new centres in housing estates with high demand.
@@ -112,8 +112,7 @@ Since implementation in 2001, the families of some 350,000 children have benefit
 
 **Singapore’s Marriage and Parenthood Package**
 
-![Singapore’s-Marriage-and-Parenthood-Package](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/singapore-s-marriage-and-parenthood-package.png)
-
+![](/images/press%20release%20images/Singapore_s_Marriage_and_Parenthood_Package.png)
 
 **PART II**  
 **International Demographic Situation**
@@ -123,12 +122,12 @@ Most developed societies have TFRs below the replacement rate. Singapore has exp
 **Fertility rates in developed East Asian societies have been on the decline**
 Chart 9: TFR comparison of selected developed societies in East Asia and Singapore
 
-![TFR-comparison-of-selected-developed-societies-in-East-Asia-and-Singapore](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/tfr-comparison-of-selected-developed-societies-in-east-asia-and-singapore.png)
+![](/images/press%20release%20images/TFR_comparison_of_selected_developed_societies_in_East_Asia_and_Singapore.png)
 
 **A rising proportion in developed East Asian societies are staying single**
 Chart 10: Proportion of singles aged 30-34 by sex, selected East Asian developed societies<sup>4</sup>
 
-![Proportion-of-singles-aged-30-34-by-sex,-selected-East-Asian-developed-societies](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/proportion-of-singles-aged-30-34-by-sex--selected-east-asian-developed-societies.png)
+![](/images/press%20release%20images/Proportion_of_singles_aged_30_34_by_sex.png)
 
 While many developed countries continue to grapple with low birth rates, a few countries have seen an improvement in their fertility rates in recent years and have TFRs closer to the replacement rate (see Chart 11). For example, Sweden and Denmark have TFRs of 1.90 and 1.76 respectively. In these countries, a greater proportion of women have children, and have their first child at an earlier age (see Chart 12).
 
@@ -136,12 +135,12 @@ While many developed countries continue to grapple with low birth rates, a few c
 Chart 11: International TFR comparison of selected developed countries in Europe,
 US, and Australia
 
-![International-TFR-comparison-of-selected-developed-countries-in-Europe,-US,-and-Australia](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/international-tfr-comparison-of-selected-developed-countries-in-europe--us--and-australia.png)
+![](/images/press%20release%20images/International_TFR_comparison_of_selected_developed_countries_in_Europe__US__and_Australia.png)
 
 **Women have children at a younger age in countries with higher fertility rates**  
 Chart 12: Average age at first birth and TFR in selected countries<sup>6</sup>
 
-![Average-age-at-first-birth-and-TFR-in-selected-countries](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/average-age-at-first-birth-and-tfr-in-selected-countries.png)
+![](/images/press%20release%20images/Average_age_at_first_birth_and_TFR_in_selected_countries.png)
 
 This can be partly attributed to the social and cultural contexts in these countries. For instance, some provide substantial support for mothers with children, and their workplace culture tends to be more supportive of parenting needs. However, the main difference is that these societies have more children born outside of marriage, ranging from 30% to more than 50%, compared to 1.5%-2.0% in East Asian societies.<sup>7</sup> Out-of-wedlock births would be a significant departure from Singapore’s societal norms, and are likely to lead to major changes in the make-up of our society and give rise to other social issues.
 
@@ -177,14 +176,14 @@ other countries which have shown success. However, even if we apply the same
 practices, we may not get the same outcomes.
 We will need to develop an approach best suited to our circumstances, cultural norms and socio-economic conditions.
  
-The Government is reviewing policies and measures to support citizens in getting married and having children. As part of the public engagement leading to the White Paper on Population, we welcome suggestions on how to improve Singapore’s birth rate, and how different stakeholders can play a part in promoting marriage and parenthood and fostering a supportive environment for family life. (We welcome you to submit your suggestions through the REACH portal at: [https://www.reach.gov.sg/Feedback.aspx](https://www.reach.gov.sg/Feedback.aspx).
+The Government is reviewing policies and measures to support citizens in getting married and having children. As part of the public engagement leading to the White Paper on Population, we welcome suggestions on how to improve Singapore’s birth rate, and how different stakeholders can play a part in promoting marriage and parenthood and fostering a supportive environment for family life. (We welcome you to submit your suggestions through the REACH portal.)
 
-Download annex [here.](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/PDFs/ocassional-paper-marriage-and-parenthood-trends-annex.pdf)
+Download annex [here](/files/media-centre/press-releases/ocassional_paper_marriage_and_parenthood_trends_annex.pdf).
 
 <sub><sup>1</sup> Citizen data has been used for this Occasional Paper, except Total Fertility Rate (TFR), which is based on resident data for international comparison.</sub>  
 <sub><sup>2</sup> TFR is the average number of children that would be born to a hypothetical woman over her lifetime if she experiences the exact same age-specific fertility as current cohorts of women of child-bearing age (i.e. women aged 15 - 49). Age-specific fertility refers to the average number of children born to women of specific age groups, e.g. women aged 30 - 34.</sub>  
 <sub><sup>3</sup> Source: Asian demography: The flight from marriage (The Economist, 20 Aug 2011).</sub>  
-<sub><sup>4</sup> Data as of 2000 & 2005 for Japan and South Korea, as of 2001 & 2006 for Hong Kong, and as of 2000 & 2010 for Singapore.</sub>   
+<sub><sup>4</sup> Data as of 2000 &amp; 2005 for Japan and South Korea, as of 2001 &amp; 2006 for Hong Kong, and as of 2000 &amp; 2010 for Singapore.</sub>   
 <sub><sup>5</sup> Data as of 2011. Source: national statistical offices.</sub>  
 <sub><sup>6</sup> TFR data as of 2011 for France, Italy, Denmark, Sweden, Norway, Japan and Singapore, and as of 2010 for US, Germany, Finland and South Korea. </sub>  
 <sub><sup>7</sup> Data as at 2009. Source: OECD family database (2011).</sub>  
@@ -193,8 +192,7 @@ Download annex [here.](https://github.com/isomerpages/isomerpages-stratgroup/raw
 E.g. in Finland, there is no minimum age, while in the Netherlands and Ireland, access to child care services is provided to children aged 4 and above. For Sweden, access is provided for parents who are working or studying.
 Source: OECD report on Early Childhood Education and Care, “Starting Strong II” (2006).</sub>  
 <sub><sup>10</sup> Based on OECD methodology, full-wage equivalent leave refers to the number of weeks of leave available if leave were paid at 100%. E.g. 10 weeks of leave at 80% of wage would be 8 weeks of full-wage equivalent leave. Singapore provides 33 weeks of full-wage equivalent leave in total. (For comparability with OECD country data on leave provisions, 5 days of leave is taken as 1 week.) Source: OECD Family database – Key characteristics of parental leave systems.</sub>  
-<sub><sup>11</sup> Japan’s Ministry of Health, Labour and Welfare website, (2010). OECD “Babies & Bosses” (2007).</sub>  
+<sub><sup>11</sup> Japan’s Ministry of Health, Labour and Welfare website, (2010). OECD “Babies &amp; Bosses” (2007).</sub>  
 <sub><sup>12</sup> UK’s Advisory, Conciliation and Arbitration Service website (2011).</sub>  
 <sub><sup>13</sup> International Review of Leave Policies and Related Research (2011).OECD Family Database – Key Characteristics of parental leave (2007).</sub>  
-<sub><sup>14</sup> OECD Family Database–Family cash benefits (2011)</sub>  
-
+<sub><sup>14</sup> OECD Family Database–Family cash benefits (2011)</sub>

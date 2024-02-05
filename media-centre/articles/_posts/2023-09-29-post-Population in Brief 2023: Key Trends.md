@@ -3,8 +3,9 @@ title: "Population in Brief 2023: Key Trends"
 permalink: /media-centre/articles/population-in-brief-2023-key-trends/
 date: 2023-09-29
 layout: post
-description: ""
+description: "Population in Brief 2023: Key Trends"
 image: ""
+variant: tiptap
 ---
 The Population in Brief (PIB) 2023 publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends:
 
