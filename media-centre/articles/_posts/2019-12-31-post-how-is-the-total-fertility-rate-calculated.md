@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "How is the Total Fertility Rate calculated?"
-date:   2019-12-31
+title: How is the Total Fertility Rate calculated?
+date: 2019-12-31
 permalink: /media-centre/articles/how-is-the-tfr-calculated/
+variant: markdown
 ---
-
 ![Baby and mother, image by iStock](/images/stock-image-8.jpg)
 
 The Total Fertility Rate (TFR) is a standard demographic indicator used internationally to estimate the *average* number of children that a woman would have over her childbearing years (i.e. age 15-49), *based on current birth trends*.
@@ -13,7 +13,7 @@ It is calculated by adding up the average number of births per woman across five
 
 ![TFR calculation](/images/tfr-calculation.jpg)
 
-More information on how TFR is calculated is available at the [Department of Statistics’ website](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate).
+More information on how TFR is calculated is available at the Department of Statistics’ website.
 
 What this means is that there are two key components that affect TFR:
 * The number of births for each age group of women (in the numerator), and  
@@ -28,4 +28,4 @@ We observed this phenomenon in 2017-2019, where the number of Singapore Citizen 
 **Does the number of marriages or age at marriage/ birth affect TFR?**
 
 From the formula above, we can see that the number of marriages does **not** directly affect TFR, since it is not in the numerator or the denominator. 
-Similarly, TFR is **not** directly affected by the age at first marriage or age at first birth. What is more important is the number of births women have on average, regardless of the age at which they get married or have children. However, there may be indirect effects, as data in Singapore shows that women who get married and start having children earlier tend to have more children over their lifetime. 
+Similarly, TFR is **not** directly affected by the age at first marriage or age at first birth. What is more important is the number of births women have on average, regardless of the age at which they get married or have children. However, there may be indirect effects, as data in Singapore shows that women who get married and start having children earlier tend to have more children over their lifetime.
