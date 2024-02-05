@@ -42,10 +42,10 @@ decades from 72 years in 1980 to 82 years in 2010 (See Chart 2). Our life
 expectancy is close to that of Japan’s, and currently one of the highest in the world (See Chart 3).
 
 Chart 2: Life expectancy of Singapore residents at birth by gender (yrs)  
-![Life-expectancy-of-Singapore-residents-at-birth-by-gender](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/life-expectancy-of-singapore-residents-at-birth-by-gender.png)
+![](/images/press%20release%20images/life_expectancy_of_singapore_residents_at_birth_by_gender.png)
 
 Chart 3: International comparison of life expectancy at birth (yrs)<sup>4</sup>  
-![International-comparison-of-life-expectancy-at-birth](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Press%20Release%20images/international-comparison-of-life-expectancy-at-birth.png)
+![](/images/press%20release%20images/international_comparison_of_life_expectancy_at_birth.png)
 
 **Explanation of Scenarios**  
  
