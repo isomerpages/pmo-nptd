@@ -92,7 +92,7 @@ Thank you.
 
 <sub><sup>6</sup> Central Provident Fund Board, 2016. “CPF: Your Assurance in Retirement”</sub>
 
-<sub><sup>7</sup> Housing and Development Board, 2016. “Right-sizing with Silving Housing Bonus” [https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/for-our-seniors/monetising-your-flat-for-retirement/silver-housing-bonus](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/for-our-seniors/monetising-your-flat-for-retirement/silver-housing-bonus) </sub>
+<sub><sup>7</sup> Housing and Development Board, 2016. “Right-sizing with Silver Housing Bonus” [https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/for-our-seniors/monetising-your-flat-for-retirement/silver-housing-bonus](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/for-our-seniors/monetising-your-flat-for-retirement/silver-housing-bonus) </sub>
 
 <sub><sup>8</sup> Ministry of Health, 2015. “$3billion Action Plan to Enable Singaporeans to Age Successfully” [https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully](https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully) </sub>
 
