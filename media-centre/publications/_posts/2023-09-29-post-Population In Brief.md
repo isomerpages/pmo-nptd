@@ -3,7 +3,7 @@ layout: post
 title: Population In Brief
 date: 2023-09-29
 permalink: /media-centre/publications/population-in-brief/
-description: ""
+description: Population In Brief
 image: ""
 variant: tiptap
 ---
