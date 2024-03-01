@@ -31,5 +31,3 @@ old, and around 23% were from those 36 years old and above. Figures for
 Authority Report on the Registration on Births and Deaths, which contains
 key demographic statistics, including total live births by age of mother.
 The Report is available on ICA’s website.</p>
-<p></p>
-<p>respectively.</p>
