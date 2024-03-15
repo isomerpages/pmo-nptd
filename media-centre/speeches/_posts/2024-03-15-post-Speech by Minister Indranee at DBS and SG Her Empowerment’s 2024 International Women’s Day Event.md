@@ -23,8 +23,6 @@ many people who contribute to our success and achievements. In the context
 of IWD, I would like to take a quick fly through a woman’s life journey
 and offer a few thoughts on what we can do to help our women go higher.
 &nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>The early years</strong>
 </p>
 <p>Let me start with the early years. I know that you are great parents.
@@ -91,7 +89,6 @@ is fine if that is what you would like to do, go ahead and do it.</p>
 <p>Thus, I think one of the best things that we can do for our women, our
 children, especially when they're young, is to give them all these life
 skills, and help them to be the best that they can be.</p>
-<p>&nbsp;</p>
 <p><strong>The Working Years &nbsp;</strong>
 </p>
 <p>Entering the working world is a major change. It marks a new life chapter.
@@ -197,7 +194,6 @@ who are going for fertility treatments would be very helpful.</p>
 the organisation as well, in terms of your talent retention, employee morale,
 recruitment, all of these things. Thus, workplace culture, workplace norms
 make a difference.</p>
-<p>&nbsp;</p>
 <p><strong>Enabling greater shared parental responsibility</strong>
 </p>
 <p>Next, enabling greater shared parental responsibility. Another key area
@@ -226,7 +222,6 @@ to mandate the additional paternity leave as soon as possible. We are also
 actively exploring how to increase paid parental leave, and will work closely
 with Tripartite Partners to take into account the workplace adjustments
 that may be required to cover for employees’ extended absences.</p>
-<p>&nbsp;</p>
 <p><strong>Strengthening Workplace Flexibility</strong>
 </p>
 <p>In addition to leave, having Flexible Work Arrangements (FWAs) is a very
@@ -249,7 +244,6 @@ focusing on empowering women at work, by looking into how workplaces can
 better support working women and those intending to return to the workforce.
 This is particularly relevant as we roll out the Tripartite Guidelines
 on FWA Requests and Workplace Fairness Legislation this year.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>The Later Years&nbsp;</strong>
 </p>
 <p>Before I conclude, let me touch on the later years. Closely tied to women's
@@ -295,8 +289,6 @@ and the training allowance. SkillsFuture is for people in their 40s and
 beyond. After a certain age, you will have new chapters of your life. So
 please utilise the SkillsFuture to open up new opportunities, so that you
 can explore new chapters.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Conclusion</strong>
 </p>
 <p>We have made a lot of strides in women's development. We have still got
