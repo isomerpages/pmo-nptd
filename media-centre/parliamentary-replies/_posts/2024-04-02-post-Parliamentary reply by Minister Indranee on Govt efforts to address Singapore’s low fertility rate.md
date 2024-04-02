@@ -8,3 +8,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Singapore’s low fertility reflects a global phenomenon where individual
+priorities and societal norms have shifted. We will continue to work with
+stakeholders to build a conducive environment where Singaporeans feel supported
+along their marriage and parenthood journey. The Member may refer to my
+speech at the PMO Committee of Supply Debate on 28 February 2024, where
+our strategies have been outlined.</p>
+<p>&nbsp;</p>
