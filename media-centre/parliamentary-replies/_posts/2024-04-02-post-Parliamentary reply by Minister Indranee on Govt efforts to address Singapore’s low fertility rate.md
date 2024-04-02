@@ -8,7 +8,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong> 
+</p>
+<p><strong>WRITTEN REPLY</strong>&nbsp;</p>
+<p><strong>TUESDAY, 2 APRIL 2024</strong> 
+</p>
+<p><strong>Mr Shawn Huang Wei Zhong:</strong>
+</p>
 <p></p>
 <p>Singapore’s low fertility reflects a global phenomenon where individual
 priorities and societal norms have shifted. We will continue to work with
