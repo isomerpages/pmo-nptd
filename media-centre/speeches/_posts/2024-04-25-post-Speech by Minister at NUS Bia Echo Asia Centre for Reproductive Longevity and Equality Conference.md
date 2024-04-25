@@ -68,9 +68,9 @@ priorities, Singaporeans are now tending to marry and have children later.
 There has been a continuing trend towards later marriages and subsequently
 later births. The median age of a resident mother at first birth has also
 increased from 30.4 years a decade ago, in 2012, to 31.4 years in 2022.
-<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><u><sup>[2]</sup></u>
-</a><sup> </sup>Essentially, as far as the Millennials and the Gen Zs are
-concerned, marriage is something that comes after many other milestones.</p>
+<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><u><sup>[2]</sup></u> 
+</a>Essentially, as far as the Millennials and the Gen Zs are concerned, marriage
+is something that comes after many other milestones.</p>
 <p></p>
 <p>And this presents a challenge, because age affects fertility. Studies
 show that fertility declines with age for both men and women. Therefore,
