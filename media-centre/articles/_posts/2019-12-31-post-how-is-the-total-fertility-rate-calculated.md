@@ -5,7 +5,7 @@ date: 2019-12-31
 permalink: /media-centre/articles/how-is-the-tfr-calculated/
 variant: markdown
 ---
-![Baby and mother, image by iStock](/images/stock-image-8.jpg)
+![tfr](/images/iStock_1318883718.jpg)
 
 The Total Fertility Rate (TFR) is a standard demographic indicator used internationally to estimate the *average* number of children that a woman would have over her childbearing years (i.e. age 15-49), *based on current birth trends*.
 
