@@ -8,14 +8,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Pro Bono SG Chairman, Mr Gregory Vijayendran</p>
-<p>Distinguished Guests</p>
-<p>Ladies and Gentlemen</p>
-<p>
-<br>Good afternoon. It is wonderful to see efforts from the community to deliver
+<p>Pro Bono SG Chairman, Mr Gregory Vijayendran
+<br>Distinguished Guests
+<br>Ladies and Gentlemen</p>
+<p></p>
+<p>Good afternoon. It is wonderful to see efforts from the community to deliver
 care for families who might require assistance. I am glad Pro Bono SG and
 South Central Community Family Service Centre have launched the Transnational
-Family Care Programme, which will provide support for transnational families
+Family Care programme, which will provide support for transnational families
 and foreign spouses who are in need.</p>
 <p></p>
 <p>In recent years, about one-third of citizen marriages involved a Singapore
@@ -52,6 +52,7 @@ and Friendship Programme, provided by the Ministry of Social and Family
 Development’s partners to help foreign spouses adapt to Singapore, and
 importantly to ensure marriages are strong. Because if the marriages are
 strong, they will have less need for help and social assistance.</p>
+<p></p>
 <p>But there are some groups of foreign spouses who require more assistance.
 For instance, some foreign spouses undergoing divorce proceedings may not
 be able to afford their own lawyers. They may require legal assistance,
@@ -60,10 +61,10 @@ circumstances. When I was at Ministry of Law, I would speak to the judges
 and the judges will also tell me that they could deal with the legal parts,
 but they couldn’t deal with the social parts. You need to have a place
 where they can integrate and bring the different strands together. This
-Transnational Family Care Programme will fulfil that role.</p>
+Transnational Family Care programme will fulfil that role.</p>
 <p></p>
 <p>Community partners play an important role in supporting such groups in
-need. This new Transnational Family Care Programme is a good example of
+need. This new Transnational Family Care programme is a good example of
 how community partners can enrich our support ecosystem. Through their
 close ties with the community, they are agile in responding to emerging
 needs. They can pool expertise and resources, and guide their beneficiaries
