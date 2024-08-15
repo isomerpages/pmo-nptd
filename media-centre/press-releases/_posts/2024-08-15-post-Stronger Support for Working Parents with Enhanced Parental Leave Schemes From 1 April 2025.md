@@ -64,7 +64,7 @@ Employers can tap on existing grants and resources to strengthen HR and manpower
 
 <b>When the new SPL is fully implemented on 1 April 2026, parents will have a total of 30 weeks of paid leave<sup>3</sup> to spend with their infants.</b> In addition to these parental leave enhancements, to better support infant caregiving, the Government is conducting a pilot on infant childminding services, and will also be increasing centre-based infant care places. The Tripartite Guidelines on Flexible Work Arrangement (FWA) Requests will also take effect on 1 Dec 2024. Working parents who need greater flexibility to meet caregiving duties for their children may request for FWAs from their employers. These initiatives are part of our broader suite of measures to better support marriage and parenthood. Together with partners in the workplace and the community, our collective efforts seek to build a Singapore Made For Families.
 
-More details on the marriage and parenthood support measures can be found at [[www.madeforfamilies.gov.sg](http://www.madeforfamilies.gov.sg).\]( [https://www.madeforfamilies.gov.sg/](https://www.madeforfamilies.gov.sg/)).
+More details on the marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg/)
 
 ![Summary of Parental Leave Schemes](/images/Summary_of_Parental_Leave_Schemes.jpg)
 Click [here](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf) for a list of FAQs.
