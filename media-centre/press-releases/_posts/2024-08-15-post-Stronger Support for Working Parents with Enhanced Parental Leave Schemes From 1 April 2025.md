@@ -66,8 +66,7 @@ Employers can tap on existing grants and resources to strengthen HR and manpower
 
 More details on the marriage and parenthood support measures can be found at [www.madeforfamilies.gov.sg](https://www.madeforfamilies.gov.sg/)
 
-![Summary of Parental Leave Schemes](/images/Summary_of_Parental_Leave_Schemes.jpg)
-Click [here](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf) for a list of FAQs.
+![Summary of Parental Leave Schemes](/images/press%20release%20images/Summary_of_Parental_Leave_Schemes.jpg)Click [here](/files/FAQs_on_Parental_Leave_Enhancements_2024.pdf) for a list of FAQs.
 
 <sup>1</sup> _More details on the reimbursement process for the new SPB scheme will be released closer to the implementation date._
 
