@@ -28,9 +28,9 @@ NPTD will be working closely with community partners, as well as different group
 
 _4. Surveys_
 
-To gain further insights, we will also be rolling out a series of thematic polls on marriage- and parenthood-related topics, starting from 20 April 2019. Each survey will run for about a month on Heybaby.sg/PlayAPart. The survey results will also be published on that website.
+To gain further insights, we will also be rolling out a series of thematic polls on marriage- and parenthood-related topics, starting from 20 April 2019. Each survey will run for about a month on the Hey Baby SG website. The survey results will also be published on that website.
 
-Singaporeans can also directly give their views and suggestions on these topics at REACH Listening Points. Dates and location of the Listening Points will be published on Heybaby.sg/PlayAPart closer to date.
+Singaporeans can also directly give their views and suggestions on these topics at REACH Listening Points. Dates and location of the Listening Points will be published on the Hey Baby SG website closer to date.
 
 
 **Contact Persons** <br>
