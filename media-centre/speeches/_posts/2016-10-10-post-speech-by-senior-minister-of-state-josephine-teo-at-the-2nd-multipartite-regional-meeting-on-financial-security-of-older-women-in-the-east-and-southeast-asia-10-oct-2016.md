@@ -96,4 +96,4 @@ Thank you.
 
 <sub><sup>8</sup> Ministry of Health, 2015. “$3billion Action Plan to Enable Singaporeans to Age Successfully” [https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully](https://www.moh.gov.sg/news-highlights/details/3billion-action-plan-to-enable-singaporeans-to-age-successfully) </sub>
 
-<sub><sup>9</sup> The Straits Times with stats provided by Ministry of Manpower, 2016. “More in Singapore remaining in workforce past 65” [https://www.smu.edu.sg/sites/default/files/smu/news_room/smu_in_the_news/2016/Mar2016/Mar7/ST_20160307_2.pdf](https://www.smu.edu.sg/sites/default/files/smu/news_room/smu_in_the_news/2016/Mar2016/Mar7/ST_20160307_2.pdf) </sub>
+<sub><sup>9</sup> The Straits Times with stats provided by Ministry of Manpower, 2016. “More in Singapore remaining in workforce past 65”  </sub>
