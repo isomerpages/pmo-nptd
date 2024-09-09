@@ -23,12 +23,11 @@ trends.</p>
 <p>&nbsp;</p>
 <p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
 </p>
-<p><strong>&nbsp;</strong>The total number of resident deaths has increased
-from 18,200 in 2014 to 25,600 in 2023. The total number of citizen deaths
-has increased from 17,700 in 2014 to 24,700 in 2023.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based on current trends<sup>1</sup>,
-the number of citizen deaths could exceed the number of citizen births
-in the first half of the 2030s.</p>
+<p>The total number of resident deaths has increased from 18,200 in 2014
+to 25,600 in 2023. The total number of citizen deaths has increased from
+17,700 in 2014 to 24,700 in 2023.</p>
+<p>Based on current trends<sup>1</sup>, the number of citizen deaths could
+exceed the number of citizen births in the first half of the 2030s.</p>
 <p></p>
 <p></p>
 <p></p>
