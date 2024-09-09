@@ -20,7 +20,7 @@ can release the data on deaths of Singapore citizens over the last ten
 years, as distinct from resident deaths; and (b) what is the projected
 year in which citizen deaths will exceed citizen births based on current
 trends.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
 </p>
 <p>The total number of resident deaths has increased from 18,200 in 2014
@@ -28,8 +28,6 @@ to 25,600 in 2023. The total number of citizen deaths has increased from
 17,700 in 2014 to 24,700 in 2023.</p>
 <p>Based on current trends<sup>1</sup>, the number of citizen deaths could
 exceed the number of citizen births in the first half of the 2030s.</p>
-<p></p>
-<p></p>
 <p></p>
 <p><sup>1</sup>The projections are meant to illustrate the growth and change
 in population that could occur if certain demographic assumptions prevail
