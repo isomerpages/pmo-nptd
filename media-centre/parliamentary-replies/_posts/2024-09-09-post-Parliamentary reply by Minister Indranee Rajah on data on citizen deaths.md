@@ -13,7 +13,7 @@ variant: tiptap
 <p><strong>MONDAY, 9 SEPTEMBER 2024</strong>
 </p>
 <p></p>
-<p><strong>Ms Hazel Poa: </strong>
+<p><strong>Ms Hazel Poa:</strong>
 </p>
 <p>To ask the Prime Minister and Minister for Finance (a) whether the Ministry
 can release the data on deaths of Singapore citizens over the last ten
@@ -29,8 +29,9 @@ has increased from 17,700 in 2014 to 24,700 in 2023.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based on current trends<sup>1</sup>,
 the number of citizen deaths could exceed the number of citizen births
 in the first half of the 2030s.</p>
-<hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank"><u>[1]</u></a><u> </u>
-<a rel="noopener noreferrer nofollow" target="_blank"><u>The projections are meant to illustrate the growth and change in population that could occur if certain demographic assumptions prevail over the projection period. These </u>assumptions
-may or may not be realised.</a>
-</p>
+<p></p>
+<p></p>
+<p></p>
+<p><sup>1</sup>The projections are meant to illustrate the growth and change
+in population that could occur if certain demographic assumptions prevail
+over the projection period. These assumptions may or may not be realised.</p>
