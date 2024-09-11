@@ -8,6 +8,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong>
+</p>
+<p><strong>ORAL REPLY</strong>&nbsp;</p>
+<p><strong>TUESDAY, 10 SEPTEMBER 2024</strong>
+</p>
 <p></p>
 <p><strong>Ms Hany Soh:</strong>
 </p>
@@ -18,20 +23,14 @@ the Government will consider bringing forward the NSPL commencement date
 to 2024; and (c) if the commencement date cannot be brought forward, whether
 there are alternative support measures available to prospective parents
 who will otherwise miss out on the NSPL benefits.</p>
-<p><strong>FOURTEENTH PARLIAMENT OF SINGAPORE</strong>
-</p>
-<p><strong>WRITTEN REPLY</strong>&nbsp;</p>
-<p><strong>TUESDAY, 10 SEPTEMBER 2024</strong>
-</p>
-<p></p>
-<p><strong>Mr Desmond Choo: </strong>
+<p><strong>Mr Desmond Choo:</strong>
 </p>
 <p>To ask the Prime Minister and Minister for Finance what are the planned
 efforts with the Tripartite Partners to drive support for the new shared
 parental leave scheme, especially on the utilisation of paternity leave.</p>
-<p><strong>Ms Indranee Rajah (for the Prime Minister): </strong>
+<p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
 </p>
-<p>The new Shared Parental Leave or SPL scheme is a significant enhancement
+<p>The new Shared Parental Leave (SPL) scheme is a significant enhancement
 of our parental leave provisions, providing ten additional weeks of paid
 leave that can be shared between both parents to care for their infant.</p>
 <p>The implementation date of 1 April 2025 was set after extensive consultation
