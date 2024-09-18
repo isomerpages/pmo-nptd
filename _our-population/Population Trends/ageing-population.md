@@ -2,8 +2,9 @@
 title: Ageing Population
 permalink: /our-population/population-trends/ageing-population/
 third_nav_title: Population Trends
+variant: markdown
 ---
-![Photo credits: Ministry of Health](/images/stock-image-20.jpg)
+![Ageing Population](/images/stock-image-20.jpg)
 *Photo credits: Ministry of Health*
 
 With increasing life expectancy and low fertility rates, the proportion of Singapore’s citizen population aged 65 years and above is rising rapidly - large cohorts of “baby boomers” have begun entering the post-65 age range. It is important that we make Singapore a home for all to age with confidence and peace of mind.
