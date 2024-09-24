@@ -5,7 +5,7 @@ date: 2024-09-24
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p>The Population in Brief (PIB) 2024 publication provides key updates on
 Singapore’s population. Here’s a snapshot of the key trends:</p>
@@ -52,5 +52,5 @@ years (31,100) was lower than in the preceding five years (33,000). The
 resident total fertility rate (TFR) was 0.97 in 2023.</p>
 </li>
 </ul>
-<p>PIB 2024 is available <a href="https://www.population.gov.sg/files/media-centre/publications/population_in_brief_2024.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>PIB 2024 is available <a href="/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
