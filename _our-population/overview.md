@@ -1,42 +1,45 @@
 ---
 title: Overview
 permalink: /our-population/overview/
+variant: markdown
 ---
 ### Our Sustainable Population Objectives
 
 ![Public housing in Singapore, image by iStock](/images/stock-image-10.jpg)
 
-Like many other countries, Singapore faces the demographic challenges of an ageing population and low birth rates. It is important for us to find ways to achieve a sustainable population to ensure Singapore remains dynamic for generations of Singaporeans to come. 
+**Vision for Our Population**
 
-Our sustainable population objectives comprise three key pillars:
+Like many other countries, Singapore faces the demographic challenges of low birth rates and an ageing population. As a globalised city, we are also becoming more diverse and our social fabric continues to evolve. Amidst these changes and with the constraints we face as a small city-state, it is important that we continue to support the aspirations of Singaporeans, to achieve our vision of **a thriving people, a dynamic economy, an inclusive society and a resilient nation** for generations of Singaporeans to come.
 
-* **Building a strong and cohesive society**, with Singaporeans at the heart of our nation. We want to ensure that Singapore remains a place where people from different backgrounds can live together in harmony.
-* **Supporting a dynamic and vibrant economy** to provide good jobs and opportunities for all Singaporeans. Amid the changes in our domestic and global environment, we will continue to find ways to ensure that Singaporeans can continue to make a good living, and have opportunities to pursue their aspirations.
-* **Providing a high-quality living environment and home for all Singaporeans**. Our country must continue to be well managed and meet the needs of our population. We want to build a Singapore where Singaporeans feel a strong sense of national identity, and which they are proud to call home and feel assured in starting and raising their families here.
+Our population strategies seek to achieve this by: 
+* Strengthening **assurance** for Singaporeans in starting and raising families; 
+* Growing **opportunities** for Singaporeans, through a vibrant and resilient economy; 
+* Strengthening **solidarity** for a more inclusive and cohesive society; and 
+* **Planning ahead** for future generations. 
 
-To achieve our sustainable population objectives, we have put in place the following strategies:
+**Strengthening assurance for Singaporeans**
 
-**Building a Singapore Made For Families**
+**We aim to build a Singapore Made For Families**, where everyone – the Government, employers, businesses, community partners and individuals – can come together to support Singaporeans at every stage of their marriage and parenthood journey. **We will continue to strengthen assurance for Singaporeans and support them in realising their marriage and parenthood aspirations**, among other life goals. This includes enabling couples to secure a home when they are ready to marry, helping parents to balance their work and family commitments, and providing financial support to defray the costs of raising children. A whole-of-society effort is needed to foster norms that embrace children, encourage shared parental responsibility, and create a family-friendly culture at workplaces and in the community.  
 
-Singapore’s resident Total Fertility Rate<sup>1</sup> has remained below the replacement rate of 2.1 for many years. This trend reflects broad demographic and cultural shifts, with our people marrying later or not at all, and having fewer children.
+We also want to ensure that all Singaporeans can **age with grace and purpose, and view longevity as a blessing and opportunity**. We work on measures to enable Singaporeans to remain healthy for longer, boost their retirement adequacy, and provide for their long-term care needs. We also work with community partners to encourage older Singaporeans to maintain robust social networks, so they can continue to contribute to their communities and society at large in meaningful and fulfilling ways. 
 
-Raising the fertility rate is an important issue to address. We aim to build a strong society that celebrates and supports Singaporeans at every stage of their marriage and parenthood journey. This includes continually improving access to affordable and high-quality housing, preschool education and healthcare, as well as keeping the costs of raising a child affordable, and building family-friendly physical infrastructure. Partnerships with the private and people sectors are also essential, especially in areas such as promoting better work-life harmony and celebrating family life.
+**Growing opportunities for Singaporeans**
 
-**Enabling all Singaporeans to age with grace and purpose**
+Despite an uncertain global economic outlook, we work hard to **provide attractive opportunities for Singaporeans** and sustain economic growth. A vibrant economy brings opportunities and benefits to Singaporeans. Ideas, technological advances and a dynamic workforce help fuel economic growth. 
 
-Singapore must be a home for all ages, where every Singaporean can age with grace and purpose. Life expectancy in Singapore is on the rise, and is among the highest in the world. Our seniors are also increasingly healthy in their old age, and better educated.
+A key enabler for businesses to stay viable is having enough workers with the necessary skills to support their businesses and activities here. Core to this is **developing our local workforce**. This includes preparing our youth for jobs of the future by providing access to quality education and diversifying pathways in schools. We invest heavily in the upskilling of Singaporeans, to help them reach their full potential. During times of economic volatility and unemployment, we will support affected workers while they undergo training or look for new opportunities. 
 
-For older Singaporeans, the Government has a range of measures to boost retirement adequacy, provide healthcare and long-term care needs, and support those who wish to stay in their jobs for longer. We also work with community networks to allow our seniors to stay active and engaged, and further contribute to society.
+We also want to build a stronger pipeline of Singaporeans for leadership positions across different sectors of the economy. This includes **supporting Singaporeans who venture overseas to live, study or work**, gaining valuable experience that will help them contribute back to Singapore. The Singapore Global Network builds networks with these Overseas Singaporeans so they can stay connected with developments in Singapore and with Singaporeans around the world.
 
-**Maintaining a careful balance in our society**
+However, there are not enough Singaporeans to meet all our economic and social needs. **Foreign manpower can support innovation, help fill skills shortages in our labour market and overall boost the productive capacity of the economy**. We are committed to ensuring that the foreign workforce complements rather than displaces the local workforce. Singaporeans benefit in the long run from a more productive economy, better jobs and higher wages. 
 
-An ageing population with low fertility rate means that larger groups of Singaporeans are entering their retirement years, while a smaller number is entering the working ages. It is important to ensure that there are sufficient working-age individuals to drive the economy and support an ageing population.
+**Strengthening solidarity for a more inclusive and cohesive society**
 
-Singapore takes in a carefully controlled number of new citizens and Permanent Residents (PR) each year, to moderate the impact of low birth rates and ageing. New citizenships are selectively granted to individuals who are committed to making Singapore their home. Permanent residence is an intermediate step by which individuals may take up citizenship in Singapore. Many new citizens share family ties with Singaporeans, or have studied, worked or lived here for some time. Singapore’s population also includes non-residents who are working, studying or living here. This includes the foreign workforce across all pass types, international students, and dependants. We will continue to welcome those who can contribute relevant skills that are in short supply here. We do this in a calibrated manner to complement the skills and capabilities of Singaporeans, which in turn helps to attract global investors and create quality jobs for locals.  The foreign workforce also augments the labour force in jobs that Singaporean workers may not be keen to take up.
+The complexion of our society is changing. As more Singaporeans venture overseas for school, work and travel, they may meet and marry non-Singaporeans, and return home to start a family. Singapore is also an attractive place for skilled people who come here to work; over time, some want to make Singapore their home and form families here. **Immigrants add to the diversity and vibrancy of our population, and play an important role in moderating the impact of ageing and low birth rates in our population**. 
 
-**Deepening connections with Singaporeans all over the world**
+At the same time, newcomers must respect our values and norms and make efforts to adapt to our way of life. We work with partners within and outside of government to **help foreigners settle in and understand our local norms and culture**. This is a whole-of-society effort where different stakeholders including newcomers, Singaporeans, community groups and businesses have a role to play. Although we may all come from different backgrounds, we have in common our sense of belonging to Singapore. Building unity among ourselves is key to staying resilient amidst a more fractious world.
 
-As more Singaporeans venture overseas to live, study or work, the [Singapore Global Network](https://singaporeglobalnetwork.gov.sg/) has been established to broaden and deepen networks with them. This helps Overseas Singaporeans to stay connected with developments and opportunities with Singapore and Singaporeans around the world. 
+**Planning ahead for future generations**
 
+Our resources are finite, and we must steward them carefully for future generations so we can build **a greener, more liveable and more sustainable home for all**. We analyse demographic trends and consider how our needs and aspirations as a society may evolve. This allows us to plan for future infrastructure needs, and build better spaces for generations of Singaporeans to live, work and play. 
 
-_<sup>1</sup> Total Fertility Rate refers to the average number of live-births each female would have during her reproductive years if she were subject to the prevailing age-specific fertility rates in the population in the given year. The age-specific fertility rate is the number of live-births born to females of a specific age group, out of every thousand females in the same age group. Visit Singstat to learn more about the [Total Fertility Rate](https://www.google.com/url?client=internal-element-cse&amp;cx=006524738387304832746:dcudfh9pcou&amp;q=https://www.singstat.gov.sg/-/media/files/visualising_data/infographics/population/total-fertility-rate.pdf&amp;sa=U&amp;ved=2ahUKEwiqsr7t6ZT-AhVZtlYBHT24CpQQFnoECAMQAQ&amp;usg=AOvVaw0Tdm6G61yxHIEWDR3piFku)._
