@@ -31,7 +31,7 @@ sections:
         trends on Singapore's population. The latest PIB is available here.
       button: Read More
       alt: Population in Brief 2023
-      url: /files/media-centre/publications/population-in-brief-2024.pdf
+      url: https://cms.isomer.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf
   - infopic:
       image: /images/census-web-banner-for-pmo.png
       title: Census of Population 2020
