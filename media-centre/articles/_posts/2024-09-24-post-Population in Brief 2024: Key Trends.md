@@ -52,5 +52,5 @@ years (31,100) was lower than in the preceding five years (33,000). The
 resident total fertility rate (TFR) was 0.97 in 2023.</p>
 </li>
 </ul>
-<p>PIB 2024 is available&nbsp;<a href="https://www.population.gov.sg/files/media-centre/publications/population-in-brief-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>PIB 2024 is available <a href="https://www.population.gov.sg/files/media-centre/publications/population-in-brief-2024.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
