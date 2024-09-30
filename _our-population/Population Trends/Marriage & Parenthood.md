@@ -123,5 +123,7 @@ society.</p>
 <hr>
 <p>[1] Citizen marriages refer to marriages involving at least one citizen.</p>
 <p>[2] Citizen births refer to babies born to at least one citizen parent.</p>
-<p>[3] <em>Total fertility rate refers to the average number of live-births each female would have during her reproductive years (15-49 years old) if she were subject to the prevailing age-specific fertility rates in the population in the given year.</em>
-</p>
+<p>[3] Total fertility rate refers to the average number of live-births each
+female would have during her reproductive years (15-49 years old) if she
+were subject to the prevailing age-specific fertility rates in the population
+in the given year.</p>
