@@ -14,12 +14,12 @@ description: ""
 <br>
 <br>The proportion of our citizen population aged 65 years and above is rising,
 and at a faster pace compared to the last decade. Large cohorts of “baby
-boomers” have begun entering the post-65 age range (Chart 5).<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> In June 2024, 60.4
-per cent of citizens were aged 20-64 years. This proportion decreased from
-64.8 per cent in 2014. Conversely, the proportion of citizens aged 65 and
-above increased from 12.4 per cent in 2014 to 19.9 per cent in 2024. By
-2030, around 1 in 4 citizens (24.1 per cent) will be aged 65 and above
-(Chart 6).</p>
+boomers” have begun entering the post-65 age range (Chart 5)<sup>[1]</sup>.
+In June 2024, 60.4 per cent of citizens were aged 20-64 years. This proportion
+decreased from 64.8 per cent in 2014. Conversely, the proportion of citizens
+aged 65 and above increased from 12.4 per cent in 2014 to 19.9 per cent
+in 2024. By 2030, around 1 in 4 citizens (24.1 per cent) will be aged 65
+and above (Chart 6).</p>
 <p><em>Chart 5: Citizen population by broad age groups, as at June 2024</em>
 </p>
 <div class="isomer-image-wrapper">
@@ -27,7 +27,7 @@ above increased from 12.4 per cent in 2014 to 19.9 per cent in 2024. By
 </div>
 <p><em>Source: Department of Statistics</em>
 <br>
-<br>Chart 6: Citizen population by broad age bands, as at June<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
+<br>Chart 6: Citizen population by broad age bands, as at June<sup>[2]</sup>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_6_Citizen_Population_By_Broad_Age_Bands.png">
@@ -70,10 +70,7 @@ and to turn silver into gold.
 <br>Visit&nbsp;<a href="https://www.moh.gov.sg/ifeelyoungsg/home" rel="noopener nofollow" target="_blank">I Feel Young SG</a>&nbsp;for
 more information.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> “Baby
-boomers” are defined as those born from 1946 to 1964. As such, they would
-be aged between 50 and 68 in 2014, and 60 and 78 in 2024.</p>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[2]</a>  <em>The 2030 numbers illustrate the possible change in the population that could occur if certain demographic assumptions prevail over the stated period. These assumptions may or may not be realised.</em>
+<p>[1] “Baby boomers” are defined as those born from 1946 to 1964. As such,
+they would be aged between 50 and 68 in 2014, and 60 and 78 in 2024.</p>
+<p>[2] <em>The 2030 numbers illustrate the possible change in the population that could occur if certain demographic assumptions prevail over the stated period. These assumptions may or may not be realised.</em>
 </p>
-<p></p>
-<p>in 2014, and 60 and 78 in 2024.</p>
