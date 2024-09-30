@@ -31,7 +31,6 @@ marriages in 2023, similar to the pre-COVID proportion of 37% in 2019 (Chart
 <br><em>The figures are based on the full calendar year (January to December).</em>
 <br>
 <br><em>Chart 8: Transnational marriages as a proportion of citizen marriages, 2013 - 2023</em>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_8_Transnational_Marriages.jpg">
@@ -70,8 +69,16 @@ descent”)(Chart 10). The average number of new citizenships and permanent
 residencies granted per year over the last five years (22,400 citizenships
 and 32,600 permanent residencies) was slightly higher than over the preceding
 five years (21,600 citizenships and 31,100 permanent residencies).</p>
-<p></p>
-<p></p>
+<p><em>Chart 10: Number of citizenships and permanent residencies granted</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_10_Number_of_citizenships_and_permanent_residencies_granted.png">
+</div>
+<p><em>*This is a subset of the total citizenships granted each year. It refers to citizenships granted to children born overseas to Singaporean parents.</em>
+<br>
+<br><em>Source: Immigration &amp; Checkpoints Authority</em>
+<br><em>The figures are based on the full calendar year (January to December)</em>
+</p>
 <p>The exact number of new citizenships and permanent residencies granted
 each year depends on several factors such as the number and quality of
 applications received. Each application for citizenship and permanent residency
@@ -80,9 +87,22 @@ and integrate in Singapore, and their commitment to sinking roots here.
 Various markers of integration are considered, such as family ties to Singaporeans,
 length of residency, and whether they have studied in our national schools
 or completed National Service. Other factors considered include the applicant’s
-economic contributions, qualifications and age.
-<br>
-</p>
+economic contributions, qualifications and age.</p>
+<p>Newcomers should make the effort to adapt to local norms. To help them
+along, the&nbsp;<a href="https://www.mccy.gov.sg/sector/initiatives/national-integration-council" rel="noopener nofollow" target="_blank">National Integration Council (NIC)</a>&nbsp;supports
+initiatives such as the&nbsp;<a href="https://www.sgjourney.gov.sg/" rel="noopener nofollow" target="_blank">Singapore Citizenship Journey (SCJ)</a>,
+a collaboration between the&nbsp;<a href="https://www.mccy.gov.sg/" rel="noopener nofollow" target="_blank">Ministry of Culture, Community and Youth (MCCY)</a>,
+the&nbsp;<a href="https://www.pa.gov.sg/" rel="noopener nofollow" target="_blank">People's Association (PA)</a>&nbsp;and
+the&nbsp;<a href="https://www.ica.gov.sg/" rel="noopener nofollow" target="_blank">Immigrations &amp; Checkpoints Authority (ICA)</a>.
+All naturalised citizens go through the SCJ to enrich their understanding
+of Singapore’s history, norms and values, and build stronger ties with
+the community. Singaporeans were invited to join the&nbsp;<a href="https://www.mccy.gov.sg/sector/initiatives/citizens-workgroup-for-singapore-citizenship-journey" rel="noopener nofollow" target="_blank">Citizen's Workshop for SCJ</a>&nbsp;to
+explore, discuss and create content that is being used to update the SCJ.</p>
+<p>Our integration efforts seek to create acceptance, mutual understanding
+and mutual respect between locals and foreigners. Fostering social integration
+and cohesion is a whole-of-society effort; as the newcomers learn and adapt
+to local values and norms, we can play our part by reaching out and helping
+them understand our local culture and way of life.</p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Inter-ethnic
 marriages refer to marriages between persons of different CMIO groups.</p>
