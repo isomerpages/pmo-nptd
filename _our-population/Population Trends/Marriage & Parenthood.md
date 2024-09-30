@@ -11,8 +11,8 @@ description: ""
 <p><strong>Marriage and Parenthood Trends</strong>
 </p>
 <p>In 2023, there were 24,355 citizen marriages, 1.7 per cent fewer than
-the record high of 24,767 citizen marriages in 2022 (Chart 3)<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>, but higher than
-the 22,165 citizen marriages in 2019 (pre-COVID).</p>
+the record high of 24,767 citizen marriages in 2022 (Chart 3)<sup>[1]</sup>,
+but higher than the 22,165 citizen marriages in 2019 (pre-COVID).</p>
 <p>The average number of citizen marriages per year in the last five years
 (22,800) was lower than in the preceding five years (24,000). The median
 age at first marriage for citizen grooms and brides was 30.7 and 29.0 years
@@ -26,8 +26,9 @@ in 2023, up from 30.1 and 27.8 years respectively in 2013.</p>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 <br>
 <br>There were 28,877 citizen births in 2023, 5.1 per cent fewer than the
-30,429 citizen births in 2022 (Chart 4)<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[2]</a> The average number of births per year in the last
-five years (31,100) was also lower than in the preceding five years (33,000).</p>
+30,429 citizen births in 2022 (Chart 4)<sup>[2]</sup>. The average number
+of births per year in the last five years (31,100) was also lower than
+in the preceding five years (33,000).</p>
 <p><em>Chart 4: Citizen births, 2013 – 2023</em>
 </p>
 <div class="isomer-image-wrapper">
@@ -37,13 +38,13 @@ five years (31,100) was also lower than in the preceding five years (33,000).</p
 <br><em>The figures are based on the full calendar year (January to December).</em>
 </p>
 <p>The resident total fertility rate (TFR), which has generally been declining
-over the past few decades, was 0.97 in 2023.<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[3]</a> The decline may have been exacerbated by the COVID-19
-pandemic, which resulted in economic uncertainty and disrupted marriage
-and parenthood plans for some Singaporean couples. The decline in TFR is
-also happening in other advanced societies, where more people are postponing
-family formation and having fewer children, due to reasons such as the
-prioritisation of careers, shifting attitudes towards marriage and parenthood,
-and concerns about child-raising costs.</p>
+over the past few decades, was 0.97 in 2023<sup>[3]</sup>. The decline
+may have been exacerbated by the COVID-19 pandemic, which resulted in economic
+uncertainty and disrupted marriage and parenthood plans for some Singaporean
+couples. The decline in TFR is also happening in other advanced societies,
+where more people are postponing family formation and having fewer children,
+due to reasons such as the prioritisation of careers, shifting attitudes
+towards marriage and parenthood, and concerns about child-raising costs.</p>
 <p>Ultimately, getting married and having children are personal decisions,
 influenced by changing social norms, personal priorities, and economic
 sentiments. Young Singaporeans have consistently expressed a strong desire
@@ -120,9 +121,7 @@ society.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Made_for_Families_logo.jpg">
 </div>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Citizen
-marriages refer to marriages involving at least one citizen.</p>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Citizen
-births refer to babies born to at least one citizen parent.</p>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[3]</a>  <em>Total fertility rate refers to the average number of live-births each female would have during her reproductive years (15-49 years old) if she were subject to the prevailing age-specific fertility rates in the population in the given year.</em>
+<p>[1] Citizen marriages refer to marriages involving at least one citizen.</p>
+<p>[2] Citizen births refer to babies born to at least one citizen parent.</p>
+<p>[3] <em>Total fertility rate refers to the average number of live-births each female would have during her reproductive years (15-49 years old) if she were subject to the prevailing age-specific fertility rates in the population in the given year.</em>
 </p>
