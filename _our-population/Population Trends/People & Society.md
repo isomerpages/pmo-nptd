@@ -15,14 +15,13 @@ Singapore has a rich history of welcoming people of different cultures
 and backgrounds; many Singaporeans can trace their ancestry beyond the
 country’s shores.</p>
 <p>The coexistence and intermixing of cultures continue today. About 1 in
-6 citizen marriages last year were inter-ethnic<sup> </sup>(Chart 7)
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>. This proportion has remained largely stable in the last ten years.
-In the past decade, more than one-third of citizen marriages every year
-were transnational marriages. The proportion of transnational marriages
-dipped in 2020 and 2021, likely due to COVID-related travel restrictions,
-but has since increased. Transnational marriages made up 36% of citizen
-marriages in 2023, similar to the pre-COVID proportion of 37% in 2019 (Chart
-8)<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>.</p>
+6 citizen marriages last year were inter-ethnic<sup> </sup>(Chart 7)<sup>[1]</sup>.
+This proportion has remained largely stable in the last ten years. In the
+past decade, more than one-third of citizen marriages every year were transnational
+marriages. The proportion of transnational marriages dipped in 2020 and
+2021, likely due to COVID-related travel restrictions, but has since increased.
+Transnational marriages made up 36% of citizen marriages in 2023, similar
+to the pre-COVID proportion of 37% in 2019 (Chart 8)<sup>[2]</sup>.</p>
 <p><em>Chart 7: Inter-ethnic marriages as a proportion of citizen marriages, 2013 – 2023</em>
 </p>
 <div class="isomer-image-wrapper">
@@ -105,8 +104,7 @@ and cohesion is a whole-of-society effort; as the newcomers learn and adapt
 to local values and norms, we can play our part by reaching out and helping
 them understand our local culture and way of life.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Inter-ethnic
-marriages refer to marriages between persons of different CMIO groups.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Transnational
-marriages refer to marriages involving a citizen and a non-citizen (i.e.
-permanent resident or non-resident).</p>
+<p>[1] Inter-ethnic marriages refer to marriages between persons of different
+CMIO groups.</p>
+<p>[2] Transnational marriages refer to marriages involving a citizen and
+a non-citizen (i.e. permanent resident or non-resident).</p>
