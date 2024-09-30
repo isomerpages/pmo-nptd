@@ -72,5 +72,6 @@ more information.</p>
 <hr>
 <p>[1] “Baby boomers” are defined as those born from 1946 to 1964. As such,
 they would be aged between 50 and 68 in 2014, and 60 and 78 in 2024.</p>
-<p>[2] <em>The 2030 numbers illustrate the possible change in the population that could occur if certain demographic assumptions prevail over the stated period. These assumptions may or may not be realised.</em>
-</p>
+<p>[2] The 2030 numbers illustrate the possible change in the population
+that could occur if certain demographic assumptions prevail over the stated
+period. These assumptions may or may not be realised.</p>
