@@ -5,57 +5,73 @@ third_nav_title: Population Trends
 variant: tiptap
 description: ""
 ---
-![Pedestrians aerial view](/images/stock-image-6.jpg)
-
-Singapore’s total population stood at 5.92 million as at June 2023 (Diagram 1), a 5.0 per cent increase from June 2022. Taking into account the decline in total population in 2020 and 2021 amidst the COVID-19 pandemic, the average total population growth rate over the past five years was comparable to the preceding five-year period.
-
-*Diagram 1: Total Population, as at June 2023*
-
-![Diagram 1](/images/population-trends/diagram%201%20total%20population%20as%20at%20june%202023.png)
-
-*Source: Department of Statistics, Ministry of Manpower* 
-<br>*Numbers may not sum up due to rounding.*
-
-The citizen and Permanent Resident (PR)  populations increased by 1.6 per cent (3.55 million to 3.61 million) and 3.7 per cent (0.52 million to 0.54 million) respectively between June 2022 and June 2023 (Chart 1). With the easing of travel restrictions related to COVID-19, more citizens and PRs living overseas returned to Singapore, and this was the largest contributing factor to the increases in the citizen and PR populations.
-
-*Chart 1: Total Population by residency status, as of June 2023*
-![Chart 1](/images/population-trends/chart%201%20total%20population%20by%20residency%20status%20as%20of%20june%202023.png)
-
-*Source: Department of Statistics*
-<br>*Numbers may not sum up due to rounding.*
-
-As at June 2023, the non-resident population stood at 1.77 million, an increase of 13.1 per cent from June 2022. The increase in the non-resident population was mainly due to foreign employment growth in Singapore from June 2022 to June 2023 (Chart 2). The increase was seen across all pass types, and the largest increase came from Work Permit Holders in the Construction, Marine Shipyard, and Process sectors, as contractors hired more workers to catch up on projects that were delayed by COVID-19. The remaining increases in foreign employment were spread across sectors as firms backfilled positions vacated by non-residents during the pandemic. 
-
-*Chart 2: Foreign Employment Growth, as at June 2023*
-![Chart 2](/images/population-trends/chart%202%20foreign%20employment%20growth%20as%20at%20june%202023.png)
-*Source: Ministry of Manpower*
-
-The proportion of our citizen population aged 65 years and above is rising, and at a faster pace compared to the last decade. Large cohorts of “baby boomers” have begun entering the post-65 age range (Chart 3). Currently, 61.0 per cent of citizens are aged 20-64 years. This proportion has decreased from 64.9 per cent in 2013. Conversely, the proportion of citizens aged 65 and above has increased from 11.7 per cent in 2013 to 19.1 per cent in 2023. By 2030, around 1 in 4 citizens (24.1 per cent) will be aged 65 &amp; above (Chart 4). 
-
-*Chart 3: Citizen population by broad age groups, as at June 2023*
-![Chart 3](/images/population-trends/chart%203%20citizen%20population%20by%20broad%20age%20groups%20as%20at%20june%202023.png)
-*Source: Department of Statistics*
-
-Chart 4: Citizen population by broad age bands, as at June*
-![](/images/population-trends/chart%204%20citizen%20population%20by%20broad%20age%20bands%20as%20at%20june.png)
-
-Source: Department of Statistics. Figures may not sum up due to rounding.  
-*Note: The 2030 numbers illustrate the possible change in the population that could occur if certain demographic assumptions prevail over the stated period. These assumptions may or may not be realised. This chart appears in Population in Brief 2023, and projections have been updated from Population in Brief 2022.*
-
-In 2022, there were 24,767 citizen marriages, 5.7 per cent more than the 23,433 citizen marriages in 2021 (Chart 5). The number of citizen marriages increased for the second consecutive year since 2020. The increase could have been contributed by couples resuming their marriage plans after disruptions caused by the COVID-19 pandemic. However, the annual average number of citizen marriages in the last five years (22,700) remained lower than that in the preceding five years (23,600). 
-
-*Chart 5: Citizen marriages, 2012 - 2022*
-![Chart 5](/images/population-trends/chart%205%20citizen%20marriages%202012%20to%202022.png)
-*Source: Department of Statistics*
-<br>*The figures are based on the full calendar year (January to December).*
-
-There were 30,429 citizen births in 2022, 4 per cent fewer than the 31,713 citizen births in 2021 (Chart 6). The annual average number of births in the last five years (31,800) was also lower than that in the preceding five years (32,700).  
-
-*Chart 6: Citizen births, 2012 - 2022*
-![](/images/population-trends/chart%206%20citizen%20births%202012%20to%202022.png)
-*Source: Immigration &amp; Checkpoints Authority*
-<br>*The figures are based on the full calendar year (January to December).*
-
-The resident Total Fertility Rate (TFR), which has generally been declining over the past few decades, reached a historic low of 1.04 in 2022. The decline in 2022 coincided with the year of the Tiger in the Lunar calendar, which is generally associated with lower births among the Chinese.  
-
-These figures are from the annual [Population in Brief 2023](/media-centre/publications/population-in-brief) publication, which provides key updates and trends on Singapore’s population.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pedestrians aerial view" src="/images/stock-image-6.jpg">
+</div>
+<p>Singapore’s total population stood at 6.04 million as at June 2024 (Diagram
+1), a 2.0 per cent increase from June 2023. This increase was mainly due
+to the growth in the non-resident population. The annualised population
+growth rate of 1.1 per cent over the last five years was slightly higher
+than the 0.8 per cent over the preceding five-year period.</p>
+<p>This was mostly due to post-COVID growth in the number of Work Permit
+Holders in the Construction, Marine Shipyard and Process (CMP) sectors
+as companies set about catching up on projects that were delayed by the
+COVID-19 pandemic.</p>
+<p><em>Diagram 1: Total Population, as at June 2024</em><strong><em><a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a></em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Diagram_1_Total_Population.png">
+</div>
+<p><em>Source: Department of Statistics, Ministry of Manpower</em>
+<br><em>Figures may not sum up due to rounding.</em>
+</p>
+<p>The citizen and Permanent Resident (PR) populations increased by 0.7%
+(3.61 million to 3.64 million) and 1.2% (538,600 to 544,900) respectively
+between June 2023 and June 2024 (Chart 1).<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
+<br>
+<br><em>Chart 1: Total Population by residency status, as of June 2024</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_1_Total_Population.png">
+</div>
+<p>
+<br><em>Source: Department of Statistics</em>
+<br><em>Figures may not sum up due to rounding.</em>
+</p>
+<p>As at June 2024, the Non-Resident (NR) population stood at 1.86 million,
+an increase of 5.0% from June 2023. The increase was seen across most pass
+types, with Work Permit Holders contributing most to the increase, followed
+by Migrant Domestic Workers. Overall, the increase in the NR population
+was mainly due to foreign employment growth in Singapore from June 2023
+to June 2024 (Chart 2). The NR population is diverse, and its size and
+composition fluctuate depending on our economic and social needs. Today,
+the foreign workforce makes up about two-thirds of the NR population, while
+the remaining one-third comprises mainly migrant domestic workers, dependants,
+and students. As Singapore is fundamentally labour constrained, the foreign
+workforce complements our local workforce and allows companies to access
+a broader range of skills from the global labour pool.&nbsp;</p>
+<p><em>Chart 2: Foreign Employment Growth, as at June 2024</em><strong><em><a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[3]</a></em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_2_Foreign_Employment_Growth.png">
+</div>
+<p><em>Source: Ministry of Manpower</em>
+</p>
+<p>These figures are from the <a href="https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2024</a>&nbsp;publication,
+which provides key updates and trends on Singapore’s population.</p>
+<hr>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>  <em><u>Singapore residents</u> comprise citizens and PRs.</em>
+</p>
+<p><em><u>Work Permit Holders</u> are semi-skilled non-professionals, managers, executives and technicians (non-PMET) workers from approved source countries. Some work in Construction, Marine Shipyard and Process (CMP) sectors (e.g. construction workers), and others work in non-CMP sectors (e.g. Services, Manufacturing).</em>
+</p>
+<p><em><u>S Pass Holders</u> are skilled workers at the associate professionals and technicians (APT) level who earn a salary that is comparable to the top one third of the local APT salaries by age. The minimum qualifying salary starts a $3,150 a month (or $3,650 in the Financial Services sector).</em>
+</p>
+<p><em><u>Employment Pass Holders</u> are foreign PMETs who earn a salary that is comparable to the top one-third of the local PMET salaries by age. The minimum qualifying salary starts at $5,000 a month (or $5,500 in the Financial Services sector). The EP holders are also subject to the Complementarity Assessment (COMPASS) framework when applying for/renewing their passes.</em>
+</p>
+<p><em><u>Long-Term Visit Pass Holders and Dependant’s Pass Holders</u> are mostly dependants of citizens, PRs, and Work Pass Holders.</em>
+<br>
+<br><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[2]</a>  <em>The basic count and profile of the population are based on a person’s place of usual residence i.e. de jure concept. Therefore, citizens or PRs who have a registered foreign address or have been overseas continuously for 12 months or more prior to the reference date (i.e. June each year) are not counted as part of our citizen and PR population.</em>
+<br>
+<br><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[3]</a>  <em>To provide a clearer picture of foreign workforce growth related to economic sectors, Migrant Domestic Workers (MDWs) are excluded from the figures due to the distinct nature of their employment. Unlike other sectors where foreign workers contribute directly to industries such as Construction, Manufacturing and Services, MDWs work in households, performing domestic tasks.</em>
+</p>
+<p></p>
