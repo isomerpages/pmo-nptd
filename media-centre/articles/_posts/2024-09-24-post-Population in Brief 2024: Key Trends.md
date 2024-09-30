@@ -26,7 +26,7 @@ by 1.2% from 538,600 in June 2023 to 544,900 in June 2024.</p>
 </li>
 <li>
 <p>The non-resident&nbsp;population increased by 5.0% from 1.77 million in
-June 2023 to 1.86 million in June 2023. The increase was seen across most
+June 2023 to 1.86 million in June 2024. The increase was seen across most
 pass types, with Work Permit Holders contributing most to the increase,
 followed by Migrant Domestic Workers.</p>
 </li>
