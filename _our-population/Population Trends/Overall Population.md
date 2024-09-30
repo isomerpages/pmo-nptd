@@ -17,7 +17,7 @@ than the 0.8 per cent over the preceding five-year period.</p>
 Holders in the Construction, Marine Shipyard and Process (CMP) sectors
 as companies set about catching up on projects that were delayed by the
 COVID-19 pandemic.</p>
-<p><em>Diagram 1: Total Population, as at June 2024</em><strong><em><a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a></em></strong>
+<p><em>Diagram 1: Total Population, as at June 2024<sup>[1]</sup></em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Diagram_1_Total_Population.png">
@@ -27,7 +27,7 @@ COVID-19 pandemic.</p>
 </p>
 <p>The citizen and Permanent Resident (PR) populations increased by 0.7%
 (3.61 million to 3.64 million) and 1.2% (538,600 to 544,900) respectively
-between June 2023 and June 2024 (Chart 1).<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
+between June 2023 and June 2024 (Chart 1)<sup>[2]</sup>.
 <br>
 <br><em>Chart 1: Total Population by residency status, as of June 2024</em>
 </p>
@@ -50,7 +50,7 @@ the remaining one-third comprises mainly migrant domestic workers, dependants,
 and students. As Singapore is fundamentally labour constrained, the foreign
 workforce complements our local workforce and allows companies to access
 a broader range of skills from the global labour pool.&nbsp;</p>
-<p><em>Chart 2: Foreign Employment Growth, as at June 2024</em><strong><em><a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[3]</a></em></strong>
+<p><em>Chart 2: Foreign Employment Growth, as at June 2024<sup>[3]</sup></em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_2_Foreign_Employment_Growth.png">
@@ -60,7 +60,7 @@ a broader range of skills from the global labour pool.&nbsp;</p>
 <p>These figures are from the <a href="https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2024</a>&nbsp;publication,
 which provides key updates and trends on Singapore’s population.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>  <em><u>Singapore residents</u> comprise citizens and PRs.</em>
+<p><em>[1] <u>Singapore residents</u> comprise citizens and PRs.</em>
 </p>
 <p><em><u>Work Permit Holders</u> are semi-skilled non-professionals, managers, executives and technicians (non-PMET) workers from approved source countries. Some work in Construction, Marine Shipyard and Process (CMP) sectors (e.g. construction workers), and others work in non-CMP sectors (e.g. Services, Manufacturing).</em>
 </p>
@@ -70,8 +70,8 @@ which provides key updates and trends on Singapore’s population.</p>
 </p>
 <p><em><u>Long-Term Visit Pass Holders and Dependant’s Pass Holders</u> are mostly dependants of citizens, PRs, and Work Pass Holders.</em>
 <br>
-<br><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[2]</a>  <em>The basic count and profile of the population are based on a person’s place of usual residence i.e. de jure concept. Therefore, citizens or PRs who have a registered foreign address or have been overseas continuously for 12 months or more prior to the reference date (i.e. June each year) are not counted as part of our citizen and PR population.</em>
+<br><em>[2] The basic count and profile of the population are based on a person’s place of usual residence i.e. de jure concept. Therefore, citizens or PRs who have a registered foreign address or have been overseas continuously for 12 months or more prior to the reference date (i.e. June each year) are not counted as part of our citizen and PR population.</em>
 <br>
-<br><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[3]</a>  <em>To provide a clearer picture of foreign workforce growth related to economic sectors, Migrant Domestic Workers (MDWs) are excluded from the figures due to the distinct nature of their employment. Unlike other sectors where foreign workers contribute directly to industries such as Construction, Manufacturing and Services, MDWs work in households, performing domestic tasks.</em>
+<br><em>[3] To provide a clearer picture of foreign workforce growth related to economic sectors, Migrant Domestic Workers (MDWs) are excluded from the figures due to the distinct nature of their employment. Unlike other sectors where foreign workers contribute directly to industries such as Construction, Manufacturing and Services, MDWs work in households, performing domestic tasks.</em>
 </p>
 <p></p>
