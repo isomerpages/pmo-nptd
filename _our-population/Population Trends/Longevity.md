@@ -10,9 +10,7 @@ description: ""
 </div>
 <p><em>Photo credits: Ministry of Health</em>
 </p>
-<p><strong>Longevity</strong>
-<br>
-<br>The proportion of our citizen population aged 65 years and above is rising,
+<p>The proportion of our citizen population aged 65 years and above is rising,
 and at a faster pace compared to the last decade. Large cohorts of “baby
 boomers” have begun entering the post-65 age range (Chart 5)<sup>[1]</sup>.
 In June 2024, 60.4 per cent of citizens were aged 20-64 years. This proportion
