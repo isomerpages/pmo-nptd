@@ -2,6 +2,7 @@
 title: Overview
 permalink: /our-population/overview/
 variant: markdown
+description: our population overview
 ---
 ### Our Sustainable Population Objectives
 
@@ -41,5 +42,4 @@ At the same time, newcomers must respect our values and norms and make efforts t
 
 **Planning ahead for future generations**
 
-Our resources are finite, and we must steward them carefully for future generations so we can build **a greener, more liveable and more sustainable home for all**. We analyse demographic trends and consider how our needs and aspirations as a society may evolve. This allows us to plan for future infrastructure needs, and build better spaces for generations of Singaporeans to live, work and play. 
-
+Our resources are finite, and we must steward them carefully for future generations so we can build **a greener, more liveable and more sustainable home for all**. We analyse demographic trends and consider how our needs and aspirations as a society may evolve. This allows us to plan for future infrastructure needs, and build better spaces for generations of Singaporeans to live, work and play.

@@ -4,8 +4,10 @@ title: "Speech by Minister Indranee Rajah at Tsao Foundation’s 30th Anniversar
 permalink: /media-centre/speeches/permalink/speech-by-minister-indranee-at-comsa-symposium/
 date: 2023-08-16
 layout: post
-description: ""
+description: "Speech by Minister Indranee Rajah at Tsao Foundation’s 30th
+  Anniversary Celebration: ComSA Symposium"
 image: ""
+variant: tiptap
 ---
 Dr Mary Ann Tsao, Chairperson of Tsao Foundation,   
 

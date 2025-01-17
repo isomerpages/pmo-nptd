@@ -4,7 +4,8 @@ title: Speech by Minister Indranee Rajah at the Population Association of
 permalink: /speech-by-indranee-rajah-minister-in-the-prime-minister-s-office-at-the-pas-conference-2024/
 date: 2024-05-16
 layout: post
-description: ""
+description: Speech by Minister Indranee Rajah at the Population Association of
+  Singapore Conference 2024
 image: ""
 variant: tiptap
 ---

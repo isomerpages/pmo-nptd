@@ -3,7 +3,7 @@ title: People & Society
 permalink: /our-population/population-trends/people-and-society/
 third_nav_title: Population Trends
 variant: tiptap
-description: ""
+description: People & Society population trend
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image by MCCY" src="/images/stock-image-21.jpg">

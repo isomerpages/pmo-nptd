@@ -2,7 +2,7 @@ collections:
   our-population:
     output: true
     order:
-      - overview.md
+      - Overview.md
       - Population Trends/.keep
       - Population Trends/Overall Population.md
       - Population Trends/Marriage & Parenthood.md

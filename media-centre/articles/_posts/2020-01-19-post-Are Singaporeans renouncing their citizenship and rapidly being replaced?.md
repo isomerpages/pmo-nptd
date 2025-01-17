@@ -4,6 +4,8 @@ title: Are Singaporeans renouncing their citizenship and rapidly being replaced?
 date: 2020-01-19
 permalink: /media-centre/articles/are-singaporeans-renouncing-their-citizenship-and-rapidly-being-replaced/
 variant: markdown
+description: Are Singaporeans renouncing their citizenship and rapidly being replaced?
+image: ""
 ---
 No, Singaporeans are not renouncing their citizenship in large numbers.  The Government [said in Parliament in 2016](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-3252) that the number of Singapore Citizenship (SC) renunciations between 2005 to 2015 was, on average, around 1,200 annually. This is less than 0.1% of the total citizen population each year. Recent figures are similar.
 

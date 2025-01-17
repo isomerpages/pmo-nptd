@@ -4,7 +4,8 @@ title: Speech by Minister Indranee Rajah at Focus on the Family Singapore’s 22
 permalink: /speech-by-minister-indranee-rajah-at-focus-on-the-family-singapore-s-22nd-anniversary-dinner/
 date: 2024-05-20
 layout: post
-description: ""
+description: Speech by Minister Indranee Rajah at Focus on the Family
+  Singapore’s 22nd Anniversary Dinner
 image: ""
 variant: tiptap
 ---

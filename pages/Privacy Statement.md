@@ -1,8 +1,9 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: tiptap
+description: privacy statement
 ---
-
 ### **Government Agency Privacy Statement**
 
 1. This is a Government of Singapore website.
@@ -22,4 +23,4 @@ c.  For your convenience, we may also display to you data you had previously sup
 
 7. Please contact sg_feedback@pmo.gov.sg if you:  
   a.  have any enquires or feedback on our data protection policies and procedures,  
-  b.  need more information on or access to data which you have provided to us in the past.  
+  b.  need more information on or access to data which you have provided to us in the past.

@@ -3,8 +3,9 @@ title: "Population in Brief 2022: Key Trends"
 permalink: /media-centre/articles/permalink/
 date: 2022-09-27
 layout: post
-description: ""
+description: "Population in Brief 2022: Key Trends"
 image: ""
+variant: tiptap
 ---
 The Population in Brief (PIB) 2022 publication provides key updates on Singapore’s population. Here’s a snapshot of the key trends: 
 

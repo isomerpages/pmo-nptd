@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Population in Brief 2020: Key Trends"
-date:   2020-09-24
+title: "Population in Brief 2020: Key Trends"
+date: 2020-09-24
 permalink: /media-centre/articles/population-in-brief-2020-key-trends/
+description: "Population in Brief 2020: Key Trends"
+image: ""
+variant: tiptap
 ---
-
 The Population in Brief (PIB) 2020 provides key updates and trends on Singapore’s population. Here’s a snapshot of what the key trends are:  
 
 1. **Citizen marriages**
@@ -16,4 +18,4 @@ The Population in Brief (PIB) 2020 provides key updates and trends on Singapore�
   * The non-resident population decreased by 2.1 per cent, to reach 1.64 million as of June 2020. This was largely due to a reduction in foreign employment in Services, from June 2019 to June 2020. By pass type, Work Permit Holders saw the largest decrease. 
   * Overall, Singapore’s total population stands at 5.69 million as of June 2020. The total population decreased slightly by 0.3 per cent from June 2019 to June 2020. This was largely due to the decrease in the non-resident population.
 
-PIB 2020 is available [here](/media-centre/publications/population-in-brief). 
+PIB 2020 is available [here](/media-centre/publications/population-in-brief).

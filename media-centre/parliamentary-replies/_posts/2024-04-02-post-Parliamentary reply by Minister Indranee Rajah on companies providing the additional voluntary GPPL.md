@@ -4,7 +4,8 @@ title: Parliamentary reply by Minister Indranee Rajah on companies providing the
 permalink: /test/
 date: 2024-04-02
 layout: post
-description: ""
+description: Parliamentary reply by Minister Indranee Rajah on companies
+  providing the additional voluntary GPPL
 image: ""
 variant: tiptap
 ---

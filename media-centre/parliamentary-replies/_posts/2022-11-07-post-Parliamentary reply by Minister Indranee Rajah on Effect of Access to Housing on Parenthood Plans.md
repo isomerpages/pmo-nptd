@@ -4,8 +4,10 @@ title: Parliamentary reply by Minister Indranee Rajah on Effect of Access to
 permalink: /media-centre/parliamentary-replies/minister-indranee-on-effect-of-housing-on-parenthood-plans/
 date: 2022-11-07
 layout: post
-description: ""
+description: Parliamentary reply by Minister Indranee Rajah on Effect of Access
+  to Housing on Parenthood Plans
 image: ""
+variant: tiptap
 ---
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN REPLY**  

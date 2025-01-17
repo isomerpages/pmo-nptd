@@ -4,7 +4,8 @@ title: Parliamentary reply by Minister Indranee Rajah on raising the age ceiling
 permalink: /parliamentary-reply-by-minister-indranee-rajah-on-raising-age-ceiling-for-childcare-leave/
 date: 2024-09-09
 layout: post
-description: ""
+description: Parliamentary reply by Minister Indranee Rajah on raising the age
+  ceiling for Childcare Leave
 image: ""
 variant: tiptap
 ---

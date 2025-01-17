@@ -4,7 +4,8 @@ title: Parliamentary Reply by Minister Indranee on addressing the needs of an
 permalink: /parliamentary-reply-by-minister-indranee-on-addressing-the-needs-of-an-ageing-population/
 date: 2024-11-12
 layout: post
-description: ""
+description: Parliamentary Reply by Minister Indranee on addressing the needs of
+  an Ageing Population
 image: ""
 variant: tiptap
 ---

@@ -4,7 +4,7 @@ title: What is the aim of Government population policies?
 date: 2024-10-10
 permalink: /media-centre/articles/what-is-the-aim-of-government-population-policies/
 variant: tiptap
-description: ""
+description: What is the aim of Government population policies?
 image: ""
 ---
 <p>Our population size is affected by many factors, including birth rates,

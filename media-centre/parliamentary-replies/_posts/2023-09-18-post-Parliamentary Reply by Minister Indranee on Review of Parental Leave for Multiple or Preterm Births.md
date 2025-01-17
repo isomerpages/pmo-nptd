@@ -4,8 +4,10 @@ title: Parliamentary Reply by Minister Indranee on Review of Parental Leave for
 permalink: /media-centre/parliamentary-replies/min-indranee-on-review-of-pl-for-multiple-or-preterm-births/
 date: 2023-09-18
 layout: post
-description: ""
+description: Parliamentary Reply by Minister Indranee on Review of Parental
+  Leave for Multiple or Preterm Births
 image: ""
+variant: tiptap
 ---
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN REPLY**  
@@ -28,4 +30,4 @@ As announced at Budget earlier this year, we will double the Government-Paid Pat
 
 Beyond legislated leave provisions, it is more important and sustainable for employers to provide a family-friendly work environment, and show
 understanding towards parents who may require more time to care for their children after birth. The Government will continue to work closely with the
-Tripartite Partners to promote family-friendly workplace practices. 
+Tripartite Partners to promote family-friendly workplace practices.

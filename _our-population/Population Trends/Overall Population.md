@@ -3,7 +3,7 @@ title: Overall Population
 permalink: /our-population/population-trends/overall-population/
 third_nav_title: Population Trends
 variant: tiptap
-description: ""
+description: Overall Population
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pedestrians aerial view" src="/images/stock-image-6.jpg">

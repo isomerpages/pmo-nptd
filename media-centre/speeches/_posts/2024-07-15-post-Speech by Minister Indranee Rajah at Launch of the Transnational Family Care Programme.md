@@ -4,7 +4,8 @@ title: Speech by Minister Indranee Rajah at Launch of the Transnational Family
 permalink: /speech-by-minister-indranee-rajah-at-launch-of-the-transnational-family-care-programme/
 date: 2024-07-15
 layout: post
-description: ""
+description: Speech by Minister Indranee Rajah at Launch of the Transnational
+  Family Care Programme
 image: ""
 variant: tiptap
 ---

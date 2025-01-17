@@ -4,8 +4,10 @@ title: Parliamentary reply by Minister Indranee Rajah on population trajectory
 permalink: /media-centre/parliamentary-replies/minister-indranee-on-population-trajectory-in-next-three-years/
 date: 2022-11-07
 layout: post
-description: ""
+description: Parliamentary reply by Minister Indranee Rajah on population
+  trajectory in the next three years
 image: ""
+variant: tiptap
 ---
 **FOURTEENTH PARLIAMENT OF SINGAPORE**  
 **WRITTEN REPLY**  

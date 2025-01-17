@@ -4,6 +4,8 @@ title: How is the Total Fertility Rate calculated?
 date: 2019-12-31
 permalink: /media-centre/articles/how-is-the-tfr-calculated/
 variant: markdown
+description: How is the Total Fertility Rate calculated?
+image: ""
 ---
 ![tfr](/images/iStock_1318883718.jpg)
 

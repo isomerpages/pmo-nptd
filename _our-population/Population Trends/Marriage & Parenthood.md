@@ -3,7 +3,7 @@ title: Marriage & Parenthood
 permalink: /our-population/population-trends/marriage-and-parenthood/
 third_nav_title: Population Trends
 variant: tiptap
-description: ""
+description: Marriage & Parenthood
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Family collage" src="/images/stock-image-19.jpg">

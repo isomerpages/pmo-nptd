@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Census of Population 2020"
-date:   2021-06-17
+title: Census of Population 2020
+date: 2021-06-17
 permalink: /media-centre/publications/census-of-population-2020/
+description: Census of Population 2020
+image: ""
+variant: tiptap
 ---
-
 ### Census of Population 2020 - Population
 ![Census of Population 2020 - Population](/images/census2020-population.jpg "Census of Population 2020 - Population")  
 *Source: Singapore Department of Statistics*  

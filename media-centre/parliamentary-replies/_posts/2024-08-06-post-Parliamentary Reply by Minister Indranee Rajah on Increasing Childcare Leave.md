@@ -3,7 +3,7 @@ title: Parliamentary Reply by Minister Indranee Rajah on Increasing Childcare Le
 permalink: /parliamentary-reply-by-minister-indranee-rajah-on-increasing-childcare-leave/
 date: 2024-08-06
 layout: post
-description: ""
+description: Parliamentary Reply by Minister Indranee Rajah on Increasing Childcare Leave
 image: ""
 variant: tiptap
 ---

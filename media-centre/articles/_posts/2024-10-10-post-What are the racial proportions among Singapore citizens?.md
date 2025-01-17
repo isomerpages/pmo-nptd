@@ -4,7 +4,7 @@ title: What are the racial proportions among Singapore citizens?
 date: 2024-10-10
 permalink: /media-centre/articles/what-are-the-racial-proportions-among-singapore-citizens/
 variant: markdown
-description: ""
+description: What are the racial proportions among Singapore citizens?
 image: ""
 ---
 The proportions of each race in Singapore’s citizen population have remained stable. These numbers are published annually in the Government’s Population in Brief report, which can be accessed [here](/media-centre/publications/population-in-brief).

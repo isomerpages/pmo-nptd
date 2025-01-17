@@ -4,8 +4,10 @@ title: Remarks by Minister Indranee Rajah at the Dialogue with Social Workers on
 permalink: /media-centre/speeches/remarks-by-minister-indranee-rajah-dialogue-session-10-october/
 date: 2022-10-10
 layout: post
-description: ""
+description: Remarks by Minister Indranee Rajah at the Dialogue with Social
+  Workers on 10 October 2022
 image: ""
+variant: tiptap
 ---
 As DPM said, Forward SG is about refreshing our social compact.  
 
