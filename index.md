@@ -9,7 +9,7 @@ sections:
   - hero:
       title: <font size="8">National Population and Talent Division</font>
       background: /images/stock-image-13.jpg
-      button: Read More
+      button: Who We Are
       url: /who-we-are/
       key_highlights:
         - title: Population Trends
@@ -29,7 +29,7 @@ sections:
       title: Population in Brief
       description: The annual Population in Brief (PIB) provides key updates and
         trends on Singapore's population. The latest PIB is available here.
-      button: Read More
+      button: Population In Brief
       alt: Population in Brief 2024
       url: /files/media-centre/publications/Population_in_Brief_2024.pdf
   - infopic:
@@ -40,7 +40,7 @@ sections:
         and households, and provides benchmark data for other demographic,
         economic and social statistics. Census 2020 data is now available on
         DOS’s website.
-      button: Read More
+      button: Census 2020
       alt: Census of Population 2020
       url: https://www.singstat.gov.sg/whats-new/visualising-data
   - infopic:
@@ -48,7 +48,7 @@ sections:
       description: Join us to build a Singapore that is Made For Families. Click on
         the link below to find out more and learn about the Government schemes
         available to support marriage and parenthood!
-      button: Read More
+      button: Made For Families
       alt: Made For Families
       url: https://www.madeforfamilies.gov.sg
       image: /images/made-for-families.jpg
