@@ -124,7 +124,7 @@ As part of Budget 2025, the Government will also provide the following
 support measures, <strong>to help all families with children manage their child-raising costs</strong>:​</p>
 <p></p>
 <p>a) <strong>$500 in one-off Child LifeSG Credits (CLC) for each SC child aged 0 to 12</strong> (born
-from 1 January 2013 to 31 December 2025), regardless of birth order<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>.<strong> </strong>Similar
+from 1 January 2013 to 31 December 2025), regardless of birth order<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>.<strong> </strong>Similar
 to the LFLC, families can use the CLC<strong> </strong>at a wide range
 of merchants to defray their household expenses. The CLC will be disbursed
 in July 2025 for those aged 1 to 12 this year, and in April 2026 for those
@@ -146,13 +146,10 @@ Details about our M&amp;P Package can be found at <a rel="noopener noreferrer no
 </p>
 <p></p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Families
-who are eligible for the LFS will also receive the one-off CLC and/or Edusave/PSEA
-top-ups.</p>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>  <em>Families who are eligible for the LFS will also receive the one-off CLC and/or Edusave/PSEA top-ups.</em>
+</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The
-MGN will be increased from $4,000 to $5,000 for babies born from 1 April
-2025.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Eligibility
-will be determined as of 1 March each year, and the LFLC will be subsequently
-disbursed in April of the same year.</p>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[2]</a>  <em>The MGN will be increased from $4,000 to $5,000 for babies born from 1 April 2025.</em>
+</p>
+<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[3]</a><em> Eligibility will be determined as of 1 March each year, and the LFLC will be subsequently disbursed in April of the same year.</em>
+</p>
