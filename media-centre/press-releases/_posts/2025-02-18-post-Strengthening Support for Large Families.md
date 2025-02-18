@@ -10,11 +10,12 @@ variant: tiptap
 <p><em>Parents will receive up to $16,000 of additional support for each third and subsequent Singaporean child</em>
 </p>
 <p></p>
-<p>1. Prime Minister and Minister for Finance Lawrence Wong announced in
-the Budget 2025 Statement that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;Prime Minister and Minister for Finance Lawrence Wong announced in
+the Budget 2025 Statement that that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
 provide more support for couples with three or more children. This initiative
 builds on the Government’s commitment in the 2023 Forward Singapore report
-to support Singaporeans in fulfilling their parenthood aspirations, and
+to support Singaporeans in fulfilling their parenthood aspirations and
 create a conducive environment for families to thrive.</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
