@@ -10,8 +10,8 @@ variant: tiptap
 <p><em>Parents will receive up to $16,000 of additional support for each third and subsequent Singaporean child</em>
 </p>
 <p></p>
-<p>Prime Minister and Minister for Finance Lawrence Wong announced in the
-Budget 2025 Statement that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
+<p>1. Prime Minister and Minister for Finance Lawrence Wong announced in
+the Budget 2025 Statement that the Government will introduce a <strong>Large Families Scheme (LFS)</strong> to
 provide more support for couples with three or more children. This initiative
 builds on the Government’s commitment in the 2023 Forward Singapore report
 to support Singaporeans in fulfilling their parenthood aspirations, and
@@ -88,7 +88,7 @@ invite more merchants to come onboard.</p>
 A summary of the various LFS support measures and disbursement timelines
 can be found in <a href="/files/media-centre/press-releases/ANNEX_B___Eligibility_Criteria_and_Disbursement_Timeline.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex B</u></a>.
 A list of Frequently Asked Questions (FAQs) can be found in <a href="/files/media-centre/press-releases/ANNEX_C___FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Annex C</u>.</a> More
-details on the LFS can be found at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/LFS</a>.</p>
+details on the LFS can be found at <a href="https://www.life.gov.sg/family-parenting/benefits-support/large-families-scheme" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/LFS</a>.</p>
 <p></p>
 <p><em><u>Comprehensive support for Singaporeans’ marriage and parenthood aspirations</u></em>
 </p>
@@ -141,8 +141,7 @@ top-ups will be disbursed in July 2025.</p>
 The Government is committed to helping families grow and thrive. We will
 continue to review our policies to better support parents, and work with
 the community, businesses and employers to build a Singapore Made For Families.
-Details about our M&amp;P Package can be found at <a rel="noopener noreferrer nofollow" target="_blank">www.madeforfamilies.gov.sg</a>
-<a href="http://www.madeforfamilies.gov.sg." rel="noopener noreferrer nofollow" target="_blank">.</a>
+Details about our M&amp;P Package can be found at <a href="https://www.madeforfamilies.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.madeforfamilies.gov.sg.</a>
 </p>
 <p></p>
 <hr>
