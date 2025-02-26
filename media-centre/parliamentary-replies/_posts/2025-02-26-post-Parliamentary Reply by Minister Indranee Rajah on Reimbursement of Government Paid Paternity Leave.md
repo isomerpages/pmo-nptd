@@ -37,6 +37,3 @@ food and housing allowances that are meant to cover specific expenses associated
 with work done. For this reason, there is no need to compute the working
 parent’s gross monthly salary based on his compensation over the preceding
 months before the commencement of parental leave.</p>
-<p>
-<br>
-</p>
