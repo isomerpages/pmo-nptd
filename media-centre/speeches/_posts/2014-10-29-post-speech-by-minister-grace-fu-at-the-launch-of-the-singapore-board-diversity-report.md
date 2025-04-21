@@ -180,7 +180,7 @@ all of you as we work towards this important goal. Thank you.</p>
 </p>
 <p><sup><sub>5</sub></sup><sub> Data as at 2013, from MOE.</sub>
 </p>
-<p><sup><sub>6</sub></sup><sub> Data as at 2014, from Straits Times forum writer who analysed boards from 36 VWOs in Singapore. http://www.straitstimes.com/premium/forum-letters/story/women-more-drawn-boards-non-profitgroups-20140930 </sub>
+<p><sup><sub>6</sub></sup><sub> Data as at 2014, from Straits Times forum writer who analysed boards from 36 VWOs in Singapore.</sub>
 </p>
 <p><sup><sub>7</sub></sup><sub> Data from Parliament, as at 2014.</sub>
 </p>
