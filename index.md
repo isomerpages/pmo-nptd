@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Population Trends
           description: Find out more about population trends in Singapore!
-          url: /our-population/overview/
+          url: /our-population/population-trends/overall-population/
         - title: Marriage and Parenthood
           description: Building a Singapore that is Made For Families
           url: /our-population/population-trends/marriage-and-parenthood/
