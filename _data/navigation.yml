@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/nptd.png
-
 links:
   - title: Who We Are
     url: /who-we-are/
