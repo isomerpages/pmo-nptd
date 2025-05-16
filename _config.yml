@@ -57,3 +57,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 shareicon: /images/nptd-logo.jpg
+facebook-pixel: ""
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
