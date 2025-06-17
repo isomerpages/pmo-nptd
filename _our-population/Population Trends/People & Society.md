@@ -89,7 +89,7 @@ length of residency, and whether they have studied in our national schools
 or completed National Service. Other factors considered include the applicant’s
 economic contributions, qualifications and age.</p>
 <p>Newcomers should make the effort to adapt to local norms. To help them
-along, the&nbsp;<a href="https://www.mccy.gov.sg/sector/initiatives/national-integration-council" rel="noopener nofollow" target="_blank">National Integration Council (NIC)</a>&nbsp;supports
+along, the&nbsp;<a href="https://www.mccy.gov.sg/sectors/resilience-and-engagement/national-integration-council" rel="noopener nofollow" target="_blank">National Integration Council (NIC)</a>&nbsp;supports
 initiatives such as the&nbsp;<a href="https://www.sgjourney.gov.sg/" rel="noopener nofollow" target="_blank">Singapore Citizenship Journey (SCJ)</a>,
 a collaboration between the&nbsp;<a href="https://www.mccy.gov.sg/" rel="noopener nofollow" target="_blank">Ministry of Culture, Community and Youth (MCCY)</a>,
 the&nbsp;<a href="https://www.pa.gov.sg/" rel="noopener nofollow" target="_blank">People's Association (PA)</a>&nbsp;and
