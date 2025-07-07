@@ -9,9 +9,7 @@ variant: tiptap
 ---
 <p>President of United Women Singapore, Ms Tan Ching Ne</p>
 <p>Board Members of United Women Singapore</p>
-<p>Ladies and Gentlemen
-<br>
-</p>
+<p>Ladies and Gentlemen</p>
 <p>Good afternoon, everyone. It is great to be here with you today.&nbsp;
 I was just listening to Ms Georgette Tan (Immediate Past President of the
 United Women Singapore) tell me that the sign-ups for today is 930, which
@@ -27,11 +25,8 @@ encouraging women to develop talents in the fields of Science, Technology,
 Engineering, and Mathematics, it is also about empowering women to optimise
 their full potential and uplifting them to become future leaders in their
 chosen fields. about empowering women to optimise their full potential
-and uplifting them to become future leaders in their chosen fields.
-<br>
-</p>
+and uplifting them to become future leaders in their chosen fields.</p>
 <p><strong>Dream. Discover. Disrupt.</strong>
-<br>
 </p>
 <p>The theme of the festival today is “Dream. Discover. Disrupt”. It is apt,
 and it could not be more timely, because&nbsp; creativity and entrepreneurship
@@ -147,11 +142,11 @@ from them.</p>
 <p>
 <br>I am also very heartened to hear that over 60% of men surveyed as part
 of United Women Singapore’s latest research believed that they have a role
-to play in supporting women in STEM. Let’s give them a big hand. This is
-encouraging, as meaningful change can only accelerate with male allyship.
-In this regard, I am pleased to see so many men in this room, offering
-your support as mentors and volunteers. This will help reinforce aspirations
-and build pathways for women keen to pursue STEM careers.</p>
+to play in supporting women in STEM<sup>1</sup>. Let’s give them a big
+hand. This is encouraging, as meaningful change can only accelerate with
+male allyship. In this regard, I am pleased to see so many men in this
+room, offering your support as mentors and volunteers. This will help reinforce
+aspirations and build pathways for women keen to pursue STEM careers.</p>
 <p>
 <br>Lastly, we must recognise the role parents, as well as the broader society,
 play in shaping young women’s aspirations. United Women Singapore’s research
@@ -165,9 +160,7 @@ the answer to both questions are positive, I could just go ahead. So that
 was the basis of giving me confidence and the ability to make my own choices.
 The choices were not made for me and it allowed me to know that I could
 still fulfil my responsibilities at work, without feeling somehow I was
-not doing what my parents wanted me to do.
-<br>
-</p>
+not doing what my parents wanted me to do.</p>
 <p><strong>Making Big Waves, One Step At A Time</strong>
 </p>
 <p></p>
@@ -185,4 +178,8 @@ as a beacon of what you can achieve. Dream BIG, Discover BIG, and Disrupt
 BIG.&nbsp;</p>
 <p>
 <br>Thank you all very much, and I wish you all a fruitful day at the festival!</p>
+<p></p>
+<p></p>
+<p><em>&nbsp;<sup>1</sup>Women in STEM: The Power of Allyship, April 2025 (<a href="http://www.uws.org.sg/research" rel="noopener noreferrer nofollow" target="_blank">www.uws.org.sg/research</a>)</em>
+</p>
 <p></p>
