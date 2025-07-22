@@ -16,9 +16,9 @@ very special occasion – the official launch of the YWCA’s Hopemaker Movement
 and Women’s Business Accelerator Programme, in commemoration of YWCA’s
 150<sup>th</sup> year of empowering women in Singapore. That’s amazing –
 150 years of empowering women. Give yourselves a big hand!</p>
-<p>&nbsp;To reach 150 is truly a remarkable milestone. For generations, YWCA
-has pioneered various initiatives to support women in Singapore. These
-150 years speak of the legacy that YWCA has left. A legacy of love, service
+<p>To reach 150 is truly a remarkable milestone. For generations, YWCA has
+pioneered various initiatives to support women in Singapore. These 150
+years speak of the legacy that YWCA has left. A legacy of love, service
 and community – of women helping women, and uplifting families.</p>
 <p></p>
 <p>We know that women often juggle multiple roles in their lives – as mothers,
