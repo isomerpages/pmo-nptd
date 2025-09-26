@@ -13,13 +13,12 @@ variant: tiptap
 <p><strong>WRITTEN REPLY</strong>&nbsp;</p>
 <p><strong>FRIDAY, 26 SEPTEMBER 2025</strong>
 </p>
-<p></p>
 <p><strong>Mr Lee Hong Chuang</strong>:</p>
 <p>To ask the Prime Minister and Minister for Finance whether the Government
 will consider enhancing the annual disbursement of LifeSG credits under
 the Large Families Scheme to eligible children in large families aged seven
 to 12.</p>
-<p></p>
+<p><strong>Ms Indranee Rajah (for the Prime Minister)</strong>:</p>
 <p>The Large Families Scheme (LFS) was designed based on NPTD’s research
 and feedback from parents that they needed more financial support for children
 aged 0 to six years old. Accordingly, under the LFS, parents will receive
