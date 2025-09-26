@@ -19,7 +19,7 @@ variant: tiptap
 response to Singapore’s recent drop in ranking in the International Institute
 for Management Development’s World Talent Ranking 2025, which assesses
 the three pillars of investment and development, appeal and readiness.</p>
-<p><strong>Ms Indranee Rajah (for the Prime Minister): </strong>
+<p><strong>Ms Indranee Rajah (for the Prime Minister):</strong>
 </p>
 <p>The International Institute for Management Development (IMD) World Talent
 Ranking measures how economies perform in (a) developing home-grown talent,
