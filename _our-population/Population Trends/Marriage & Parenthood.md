@@ -57,6 +57,16 @@ descent (Chart 5) [4].</p>
 </p>
 <p><strong>Support for Marriage &amp; Parenthood</strong>
 </p>
+<p>Marriage and parenthood are ultimately personal decisions, influenced
+by a variety of factors including changing social norms and personal priorities.
+Our approach has been to foster an environment where Singaporeans continue
+to aspire towards marriage and parenthood, and are supported to start,
+raise and grow their families.</p>
+<p>Young Singaporeans have consistently expressed a strong desire to get
+married and have children. From our 2021 Marriage &amp; Parenthood survey,
+8 in 10 young singles aspire to get married and have children, and over
+9 in 10 married Singaporeans want at least two children. These sentiments
+have remained relatively stable since our surveys in 2012 and 2016.</p>
 <p>Supporting Singaporeans to fulfil their aspirations to marry and have
 children continues to be our priority. Through close partnerships across
 Government agencies, and with community partners, employers, businesses
