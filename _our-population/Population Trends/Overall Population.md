@@ -27,9 +27,9 @@ projects such as Changi Terminal 5 and the ramping up of housing supply.</p>
 </p>
 <p>The citizen population increased by 0.7% (from 3.64 million to 3.66 million),
 while the Permanent Resident (PR) population remained stable at 0.54 million
-in June 2025 (Chart 1)<sup>[2]</sup>.
+in June 2025 (Chart 1).
 <br>
-<br><em>Chart 1: Total population by residency status, as at June</em>
+<br><em>Chart 1: Total population by residency status, as at June<sup>[2]</sup></em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
