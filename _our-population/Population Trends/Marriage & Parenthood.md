@@ -12,39 +12,34 @@ description: Marriage & Parenthood
 </p>
 <p>There were 22,955 citizen marriages in 2024, 5.7% lower than the 24,355
 citizen marriages in 2023, but higher than the 22,165 citizen marriages
-in 2019 (pre-COVID) (Chart 3)<sup>[1]</sup>.</p>
+in 2019 (pre-COVID) (Chart 3)[1].</p>
 <p>The average number of citizen marriages per year in the last five years
 (23,000) was slightly lower than that of the preceding five years (23,600).
 The median age at first marriage for citizen grooms and brides was 30.8
 and 29.1 years in 2024, up from 30.1 and 27.9 years respectively in 2014.</p>
 <p><em>Chart 3: Citizen marriages</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_3_Citizen_Marriages.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chart_3.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 <br>
-<br>There were 28,877 citizen births in 2023, 5.1 per cent fewer than the
-30,429 citizen births in 2022 (Chart 4)<sup>[2]</sup>. The average number
-of births per year in the last five years (31,100) was also lower than
-in the preceding five years (33,000).</p>
-<p><em>Chart 4: Citizen births, 2013 – 2023</em>
+<br>There were 29,237 citizen births in 2024, 1.2% more than the 28,877 citizen
+births in 2023 (Chart 4)[2]. The average number of births per year in the
+last five years (30,400) was lower than in the preceding five years (32,900).</p>
+<p><em>Chart 4: Citizen births</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_4_Citizen_Births.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chart_4.png">
 </div>
 <p><em>Source: Immigration &amp; Checkpoints Authority</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 </p>
-<p>The resident total fertility rate (TFR), which has generally been declining
-over the past few decades, was 0.97 in 2023<sup>[3]</sup>. The decline
-may have been exacerbated by the COVID-19 pandemic, which resulted in economic
-uncertainty and disrupted marriage and parenthood plans for some Singaporean
-couples. The decline in TFR is also happening in other advanced societies,
-where more people are postponing family formation and having fewer children,
-due to reasons such as the prioritisation of careers, shifting attitudes
-towards marriage and parenthood, and concerns about child-raising costs.</p>
+<p>The resident total fertility rate (TFR), which has been declining over
+the past few decades, was 0.97 in 2024.</p>
 <p>Ultimately, getting married and having children are personal decisions,
 influenced by changing social norms, personal priorities, and economic
 sentiments. Young Singaporeans have consistently expressed a strong desire
