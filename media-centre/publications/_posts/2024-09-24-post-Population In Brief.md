@@ -12,6 +12,10 @@ and trends on Singapore's population landscape.</p>
 <p>Download:</p>
 <ul>
 <li>
+<p><a href="/files/media-centre/publications/Population_in_Brief_2025.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2025 (1mb, pdf)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2024 (1mb, pdf)</a>
 </p>
 </li>

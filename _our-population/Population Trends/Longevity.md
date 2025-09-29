@@ -12,23 +12,25 @@ description: population trend longevity
 </p>
 <p>The proportion of our citizen population aged 65 years and above is rising,
 and at a faster pace compared to the last decade. Large cohorts of “baby
-boomers” have begun entering the post-65 age range (Chart 5)<sup>[1]</sup>.
-In June 2024, 60.4 per cent of citizens were aged 20-64 years. This proportion
-decreased from 64.8 per cent in 2014. Conversely, the proportion of citizens
-aged 65 and above increased from 12.4 per cent in 2014 to 19.9 per cent
-in 2024. By 2030, around 1 in 4 citizens (24.1 per cent) will be aged 65
-and above (Chart 6).</p>
-<p><em>Chart 5: Citizen population by broad age groups, as at June 2024</em>
+boomers” have begun entering the post-65 age range (Chart 6)<sup>[1,2]</sup>.</p>
+<p></p>
+<p><em>Chart 6: Age profile of citizen population, as at June</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_5_Citizen_Population_By_Broad_Age_Groups.png">
+<img style="width: 100%" height="auto" width="100%" alt="Chart 6: Age profile of citizen population, as at June" src="/images/Longevity_1.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br>
-<br>Chart 6: Citizen population by broad age bands, as at June<sup>[2]</sup>
+<br>In June 2025, 59.8% of citizens were aged 20 to 64 years. This proportion
+decreased from 64.5% in 2015. Conversely, the proportion of citizens aged
+65 and above increased from 13.1% in 2015 to 20.7% in 2025. By 2030, around
+1 in 4 citizens (23.9%) will be aged 65 and above (Chart 7).</p>
+<p>Chart 7: Citizen population by broad age bands, as at June<sup>[3]</sup>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_6_Citizen_Population_By_Broad_Age_Bands.png">
+<img style="width: 100%" height="auto" width="100%" alt="Chart 7: Citizen population by broad age bands, as at June[3]" src="/images/Longevity_2.png">
 </div>
 <p><em>Source: Department of Statistics. Figures may not sum up due to rounding.</em>
 <br>
@@ -58,9 +60,8 @@ well connected with their loved ones.</p>
 <p>To support healthy longevity in homes and communities, Age Well SG was
 launched in 2023. This programme aims to tackle social isolation as one
 of the key determinants of frailty and support seniors to age actively,
-stay socially connected, and be cared for within their communities.
-<br>
-<br>Ageing must continue to be redefined as a positive force, so that Singapore
+stay socially connected, and be cared for within their communities.</p>
+<p>Ageing must continue to be redefined as a positive force, so that Singapore
 remains a place where Singaporeans can age well in. Everyone can play a
 part, to build an inclusive society that celebrates seniors in Singapore,
 and to turn silver into gold.
@@ -68,8 +69,11 @@ and to turn silver into gold.
 <br>Visit&nbsp;<a href="https://www.moh.gov.sg/others/resources-and-statistics/action-plan-for-successful-ageing" rel="noopener nofollow" target="_blank">I Feel Young SG</a>&nbsp;for
 more information.</p>
 <hr>
-<p>[1] “Baby boomers” are defined as those born from 1946 to 1964. As such,
-they would be aged between 50 and 68 in 2014, and 60 and 78 in 2024.</p>
-<p>[2] The 2030 numbers illustrate the possible change in the population
+<p>[1] The benchmark of 65 years is aligned with international statistical
+definitions.</p>
+<p>[2] “Baby boomers” are defined as those born from 1946 to 1964. As such,
+they would be aged between 51 and 69 in 2015, and 61 and 79 in 2025.</p>
+<p>[3] The 2030 numbers illustrate the possible change in the population
 that could occur if certain demographic assumptions prevail over the stated
-period. These assumptions may or may not be realised.</p>
+period. These assumptions may or may not be realised. Projections have
+been updated from Population in Brief 2024.</p>
