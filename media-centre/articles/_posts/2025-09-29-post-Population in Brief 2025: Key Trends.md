@@ -38,8 +38,8 @@ Migrant Domestic Workers.</p>
 <p>There were 22,955 citizen marriages in 2024, 5.7% lower than the 24,355
 citizen marriages in 2023, but higher than the 22,165 citizen marriages
 in 2019 (pre-COVID). The average number of citizen marriages per year in
-the last five years (23,000) was slightly lower than that of the preceding
-five years (23,600).</p>
+the last five years (23,000) was lower than that of the preceding five
+years (23,600).</p>
 </li>
 </ul>
 <p><strong>3. Citizen births</strong>
