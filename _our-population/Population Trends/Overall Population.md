@@ -39,18 +39,18 @@ in June 2025 (Chart 1).
 <br><em>Source: Department of Statistics</em>
 <br><em>Figures may not sum up due to rounding.</em>
 </p>
-<p>As at June 2024, the Non-Resident (NR) population stood at 1.86 million,
-an increase of 5.0% from June 2023. The increase was seen across most pass
-types, with Work Permit Holders contributing most to the increase, followed
-by Migrant Domestic Workers. Overall, the increase in the NR population
-was mainly due to foreign employment growth in Singapore from June 2023
-to June 2024 (Chart 2). The NR population is diverse, and its size and
-composition fluctuate depending on our economic and social needs. Today,
-the foreign workforce makes up about two-thirds of the NR population, while
-the remaining one-third comprises mainly migrant domestic workers, dependants,
-and students. As Singapore is fundamentally labour constrained, the foreign
-workforce complements our local workforce and allows companies to access
-a broader range of skills from the global labour pool.&nbsp;</p>
+<p>As at June 2025, the NR population stood at 1.86 million, an increase
+of 5.0% from June 2023. The increase was seen across most pass types, with
+Work Permit Holders contributing most to the increase, followed by Migrant
+Domestic Workers. Overall, the increase in the NR population was mainly
+due to foreign employment growth in Singapore from June 2023 to June 2024
+(Chart 2). The NR population is diverse, and its size and composition fluctuate
+depending on our economic and social needs. Today, the foreign workforce
+makes up about two-thirds of the NR population, while the remaining one-third
+comprises mainly migrant domestic workers, dependants, and students. As
+Singapore is fundamentally labour constrained, the foreign workforce complements
+our local workforce and allows companies to access a broader range of skills
+from the global labour pool.&nbsp;</p>
 <p><em>Chart 2: Foreign Employment Growth, as at June 2024<sup>[3]</sup></em>
 </p>
 <div class="isomer-image-wrapper">
