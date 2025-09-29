@@ -14,9 +14,9 @@ description: Marriage & Parenthood
 citizen marriages in 2023, but higher than the 22,165 citizen marriages
 in 2019 (pre-COVID) (Chart 3)<sup>[1]</sup>.</p>
 <p>The average number of citizen marriages per year in the last five years
-(23,000) was slightly lower than that of the preceding five years (23,600).
-The median age at first marriage for citizen grooms and brides was 30.8
-and 29.1 years in 2024, up from 30.1 and 27.9 years respectively in 2014.</p>
+(23,000) was lower than that of the preceding five years (23,600). The
+median age at first marriage for citizen grooms and brides was 30.8 and
+29.1 years in 2024, up from 30.1 and 27.9 years respectively in 2014.</p>
 <p><em>Chart 3: Citizen marriages</em>
 </p>
 <p></p>
@@ -50,8 +50,9 @@ overseas to at least one Singaporean parents were granted citizenship by
 descent (Chart 5)<sup>[4]</sup>.</p>
 <p><em>Chart 5: Number of children granted citizenships by descent</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_5_new.png">
 </div>
 <p><em>Source: Immigration &amp; Checkpoints Authority</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
