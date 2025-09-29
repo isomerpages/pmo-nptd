@@ -21,7 +21,7 @@ and 29.1 years in 2024, up from 30.1 and 27.9 years respectively in 2014.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chart_3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_3_new.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
