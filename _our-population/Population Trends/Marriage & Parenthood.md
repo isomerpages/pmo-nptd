@@ -104,25 +104,28 @@ Leave, Shared Parental Leave and Childcare Leave</p>
 </ul>
 <p>The Government continually reviews and enhances our marriage and parenthood
 support in response to feedback gleaned through our surveys and engagements.</p>
-<p>Government-Paid Paternity Leave (GPPL) doubled from 2 to 4 weeks, on a
-voluntary basis, and Unpaid Infant Care Leave has also doubled from 6 to
-12 days per parent per year, starting from 1 January 2024. During the 2024
-National Day Rally, Prime Minister Lawrence Wong has also announced that
-the two weeks of voluntary Government-Paid Paternity Leave (GPPL) will
-be made mandatory from 1 April 2025. A new Shared Parental Leave (SPL)
-Scheme will also be implemented in two phases from 1 April 2025, starting
-with 6 weeks of parental leave to be shared between both parents from 1
-April 2025. This will increase to 10 weeks to be shared between both parents
-from 1 April 2026.</p>
-<p>In addition, measures are in place to help parents manage their work and
-family commitments. For example, the Tripartite Guidelines on FWA Requests
-will come into effect on 1 December 2024 to require employers to properly
-consider employees’ formal FWA requests, and encourage both sides to have
-constructive discussions to work out FWAs that are mutually beneficial.
-The Tripartite Standards on Work-Life Harmony and Unpaid Leave for Unexpected
-Care Needs were also established in 2021 and 2018 respectively, to highlight
-good employment practices that all employers are recommended to implement
-at their workplace.</p>
+<p>For example, to help parents manage the costs of child-raising, the Baby
+Bonus Scheme has been progressively enhanced over the years, and most recently
+at Budget 2023.</p>
+<p>In addition, we have strengthened measures to help parents manage their
+work and family commitments. Since 1 January 2024, Unpaid Infant Care Leave
+was doubled from 6 to 12 days per parent per year. Since 1 April 2025,
+to encourage greater shared parental responsibility, mandatory Government-Paid
+Paternity Leave (GPPL) was increased to four weeks, and the new Shared
+Parental Leave (SPL) Scheme was also introduced, on top of parents’ maternity
+and paternity leave entitlements. The new SPL will be implemented in two
+phases, starting with 6 weeks of paid parental leave to be shared between
+both parents, for parents of babies born from 1 April 2025, and increasing
+to 10 weeks for parents of babies born from 1 April 2026.</p>
+<p>Apart from legislated leave provisions, the Tripartite Guidelines on Flexible
+Work Arrangement Requests (TG-FWAR), which came into effect on 1 December
+2024, requires employers to properly consider employees’ formal Flexible
+Work Arrangement (FWA) requests, and encourage both sides to have constructive
+discussions to work out FWAs that are mutually beneficial. The Tripartite
+Standards on Work-Life Harmony and Unpaid Leave for Unexpected Care Needs
+were also established in 2021 and 2018 respectively, to highlight good
+employment practices that all employers are recommended to implement at
+their workplace.</p>
 <p>More details on all the support measures can be found at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mpbooklet</a>&nbsp;and&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">madeforfamilies.gov.sg</a>. Parents may also use the Family Support Calculator
 in the LifeSG app, to find out how much benefits they can receive.</p>
