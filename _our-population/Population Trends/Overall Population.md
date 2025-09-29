@@ -57,7 +57,7 @@ to June 2023 to June 2024 (Chart 2).</p>
 </div>
 <p><em>Source: Ministry of Manpower</em>
 </p>
-<p>These figures are from the <a href="https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2025</a>&nbsp;publication,
+<p>These figures are from the <a href="https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2025.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2025</a>&nbsp;publication,
 which provides key updates and trends on Singapore’s population.</p>
 <hr>
 <p><em>[1] <u>Singapore residents</u> comprise SCs and PRs.</em>
