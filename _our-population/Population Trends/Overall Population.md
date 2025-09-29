@@ -60,7 +60,7 @@ to June 2023 to June 2024 (Chart 2).</p>
 <p>These figures are from the <a href="https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2025</a>&nbsp;publication,
 which provides key updates and trends on Singapore’s population.</p>
 <hr>
-<p><em>[1] <u>Singapore residents</u> comprise citizens and PRs.</em>
+<p><em>[1] <u>Singapore residents</u> comprise SCs and PRs.</em>
 </p>
 <p><em><u>Work Permit Holders</u> are semi-skilled non-professionals, managers, executives and technicians (non-PMET) workers from approved source countries. Some work in Construction, Marine Shipyard and Process (CMP) sectors (e.g. construction workers), and others work in non-CMP sectors (e.g. Services, Manufacturing).</em>
 </p>
