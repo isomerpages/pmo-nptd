@@ -52,5 +52,5 @@ years (30,400) was lower than in the preceding five years (32,900). The
 resident total fertility rate was 0.97 in 2024, unchanged from 2023.</p>
 </li>
 </ul>
-<p>PIB 2025 is available <a href="/files/media-centre/publications/Population_in_Brief_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>PIB 2025 is available <a href="/files/Population_in_Brief_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
