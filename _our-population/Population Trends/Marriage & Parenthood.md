@@ -12,7 +12,7 @@ description: Marriage & Parenthood
 </p>
 <p>There were 22,955 citizen marriages in 2024, 5.7% lower than the 24,355
 citizen marriages in 2023, but higher than the 22,165 citizen marriages
-in 2019 (pre-COVID) (Chart 3)[1].</p>
+in 2019 (pre-COVID) (Chart 3) [1].</p>
 <p>The average number of citizen marriages per year in the last five years
 (23,000) was slightly lower than that of the preceding five years (23,600).
 The median age at first marriage for citizen grooms and brides was 30.8
@@ -39,14 +39,17 @@ last five years (30,400) was lower than in the preceding five years (32,900).</p
 <br><em>The figures are based on the full calendar year (January to December).</em>
 </p>
 <p>The resident total fertility rate (TFR), which has been declining over
-the past few decades, was 0.97 in 2024.</p>
-<p>Ultimately, getting married and having children are personal decisions,
-influenced by changing social norms, personal priorities, and economic
-sentiments. Young Singaporeans have consistently expressed a strong desire
-to get married and have children. From our 2021 Marriage &amp; Parenthood
-survey, 8 in 10 young singles aspire to get married and have children,
-and over 9 in 10 married Singaporeans want at least 2 children. These sentiments
-have held firm since our surveys in 2012 and 2016.</p>
+the past few decades, was 0.97 in 2024, unchanged from 2023 [3]. Many other
+advanced societies are also experiencing falling birth rates, as more people
+are postponing family formation and having fewer children, as they prioritise
+other life goals.</p>
+<p>In addition to citizen births in Singapore, there are also children born
+overseas to at least one Singaporean parents. In 2024, 1,409 children born
+overseas to at least one Singaporean parents were granted citizenship by
+descent (Chart 5) [4].</p>
+<p><em>Chart 5: Number of children granted citizenships by descent</em>
+</p>
+<p></p>
 <p><strong>Support for Marriage &amp; Parenthood</strong>
 </p>
 <p>Supporting Singaporeans to fulfil their aspirations to marry and have
