@@ -9,15 +9,14 @@ description: Overall Population
 <img style="width: 100%" height="auto" width="100%" alt="Pedestrians aerial view" src="/images/stock-image-6.jpg">
 </div>
 <p>Singapore’s total population stood at 6.11 million as at June 2025 (Diagram
-1), a 1.2% increase from June 2023. This increase was mainly due to the
+1), a 1.2% increase from June 2024. This increase was mainly due to the
 growth in the non-resident population. The annualised population growth
-rate of 1.1 per cent over the last five years was slightly higher than
-the 0.8 per cent over the preceding five-year period.</p>
-<p>This was mostly due to post-COVID growth in the number of Work Permit
-Holders in the Construction, Marine Shipyard and Process (CMP) sectors
-as companies set about catching up on projects that were delayed by the
-COVID-19 pandemic.</p>
-<p><em>Diagram 1: Total Population, as at June 2024<sup>[1]</sup></em>
+rate over the past five years (2020-2025) was higher than the preceding
+five-year period (2015-2020), mostly due to an increase in the number of
+Work Permit Holders in the Construction sector to support key infrastructure
+projects such as Changi Terminal 5 and the ramping up of housing supply.</p>
+<p></p>
+<p><em>Diagram 1: Total population, as at June 2025<sup>[1]</sup></em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Diagram_1_Total_Population.png">
