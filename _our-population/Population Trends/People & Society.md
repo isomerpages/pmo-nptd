@@ -14,97 +14,96 @@ description: People & Society population trend
 Singapore has a rich history of welcoming people of different cultures
 and backgrounds; many Singaporeans can trace their ancestry beyond the
 country’s shores.</p>
-<p>The coexistence and intermixing of cultures continue today. About 1 in
-6 citizen marriages last year were inter-ethnic<sup> </sup>(Chart 7)<sup>[1]</sup>.
-This proportion has remained largely stable in the last ten years. In the
-past decade, more than one-third of citizen marriages every year were transnational
-marriages. The proportion of transnational marriages dipped in 2020 and
-2021, likely due to COVID-related travel restrictions, but has since increased.
-Transnational marriages made up 36% of citizen marriages in 2023, similar
-to the pre-COVID proportion of 37% in 2019 (Chart 8)<sup>[2]</sup>.</p>
-<p><em>Chart 7: Inter-ethnic marriages as a proportion of citizen marriages, 2013 – 2023</em>
+<p>The coexistence and intermixing of cultures continue today. 19% of citizen
+marriages last year were inter-ethnic (Chart 8)[1]. This proportion has
+remained largely stable over the last ten years. Transnational marriages
+made up 37% of citizen marriages in 2024 (Chart 9). This proportion has
+remained largely stable over the last ten years, barring dips in the COVID
+years of 2020 and 2021 [2].</p>
+<p><em>Chart 8: Inter-ethnic marriages as a proportion of citizen marriages</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_7_Interethnic_Marriages.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chart 8: Inter-ethnic marriages as a proportion of citizen marriages" src="/images/Ppl_and_Soc_1.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 <br>
-<br><em>Chart 8: Transnational marriages as a proportion of citizen marriages, 2013 - 2023</em>
+<br><em>Chart 9: Transnational marriages as a proportion of citizen marriages</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_8_Transnational_Marriages.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ppl_and_Soc_2.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 </p>
 <p>Immigration helps to moderate the impact of ageing and low birth rates
-on our citizen population, and keeps it from shrinking over the longer
-term. Singapore takes in a carefully controlled number of Permanent Residents
-(PRs) and new citizens each year. New citizenships are granted to individuals
-who can integrate and contribute to Singapore, and are committed to making
-Singapore their home. New citizens either share family ties with Singaporeans
-(for example, through marriage), or have studied, worked or lived in Singapore
-for some time. The total number of citizenships granted each year also
-includes those granted to children born overseas to Singaporean parents
-(“citizens by descent”).</p>
+on our citizen population, and keeps the citizen population from shrinking
+over the long term. Our PRs and new citizens also add to the vibrancy of
+Singapore’s society and economy.</p>
+<p>Singapore takes in a carefully controlled number of PRs and new citizens
+each year. We are careful to grant citizenships and PRs to individuals
+who can contribute to Singapore, integrate well, and are committed to making
+Singapore their home. Many of our new citizens and PRs either share family
+ties with Singaporeans (for example, through marriage), or have studied,
+worked or lived in Singapore for some time.</p>
 <p>All new adult citizens come from our pool of PRs, as individuals have
 to obtain permanent residency before they may apply for citizenship in
-Singapore. The small group of new citizens who were not PRs prior to obtaining
-citizenship were minors who were either (i) children of citizens, including
-citizens by descent, or (ii) children of PRs who were included as dependants
-in their parents’ citizenship application. Singapore has kept the PR population
-size stable at around half a million, and the majority of our PRs are aged
-between 25 and 59 years (Chart 9).</p>
-<p><em>Chart 9: Age pyramid of resident population, as at June 2024</em>
+Singapore [3]. Our PR population size remains stable at around half a million,
+with the majority of our PRs aged between 25 and 59 years (Chart 10).</p>
+<p><em>Chart 10: Age pyramid of resident population, as at June 2025</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_9_Age_Pyramid.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chart 10: Age pyramid of resident population, as at June 2025" src="/images/Ppl_and_Soc_3.png">
 </div>
-<p>The pace of immigration continues to be measured and stable. In 2023,
-23,472 individuals were granted citizenship and 34,491 individuals were
-granted permanent residency. About 5.7% of the new citizens, or 1,332 of
-them, were children born overseas to Singaporean parents (“citizens by
-descent”)(Chart 10). The average number of new citizenships and permanent
-residencies granted per year over the last five years (22,400 citizenships
-and 32,600 permanent residencies) was slightly higher than over the preceding
-five years (21,600 citizenships and 31,100 permanent residencies).</p>
-<p><em>Chart 10: Number of citizenships and permanent residencies granted</em>
+<p>Source: Department of Statistics</p>
+<p>We continue to maintain a measured pace of immigration. In 2024, 22,766
+individuals were granted citizenship and 35,264 individuals were granted
+permanent residency. The average number of citizenships and permanent residencies
+granted per year over the last five years (21,300 citizenships and 33,000
+permanent residencies) was slightly higher than over the preceding five
+years (20,500 citizenships and 31,700 permanent residencies) (Chart 11).</p>
+<p><em>Chart 11: Number of Citizenships and Permanent Residencies granted</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_10_Number_of_citizenships_and_permanent_residencies_granted.png">
+<img style="width: 100%" height="auto" width="100%" alt="Chart 11: Number of Citizenships and Permanent Residencies granted" src="/images/Ppl_and_Soc_4.png">
 </div>
-<p><em>*This is a subset of the total citizenships granted each year. It refers to citizenships granted to children born overseas to Singaporean parents.</em>
-<br>
-<br><em>Source: Immigration &amp; Checkpoints Authority</em>
-<br><em>The figures are based on the full calendar year (January to December)</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chart 11: Number of Citizenships and Permanent Residencies granted" src="/images/Ppl_and_Soc_5.png">
+</div>
+<p><em>Source: Immigration &amp; Checkpoints Authority</em>
+<br><em>The figures are based on the full calendar year (January to December).</em>
+<br><em>Note: From 2025, to more accurately reflect immigration inflows and birth statistics, the figures for total number of citizenships granted exclude the category of citizenships by descent. This category is instead included under the <a href="https://www.population.gov.sg/our-population/population-trends/marriage-and-parenthood/" rel="noopener noreferrer nofollow" target="_blank">Marriage &amp; Parenthood section</a>. Citizenship by descent is based on a constitutional entitlement to citizenship for children born overseas to at least one Singaporean parent, akin to how children born in Singapore to at least one Singaporean parent are constitutionally entitled to citizenship by birth.</em>
 </p>
-<p>The exact number of new citizenships and permanent residencies granted
-each year depends on several factors such as the number and quality of
-applications received. Each application for citizenship and permanent residency
-is evaluated holistically to assess the applicant’s ability to contribute
-and integrate in Singapore, and their commitment to sinking roots here.
-Various markers of integration are considered, such as family ties to Singaporeans,
-length of residency, and whether they have studied in our national schools
-or completed National Service. Other factors considered include the applicant’s
-economic contributions, qualifications and age.</p>
-<p>Newcomers should make the effort to adapt to local norms. To help them
-along, the&nbsp;<a href="https://www.mccy.gov.sg/sectors/resilience-and-engagement/national-integration-council" rel="noopener nofollow" target="_blank">National Integration Council (NIC)</a>&nbsp;supports
-initiatives such as the&nbsp;<a href="https://www.sgjourney.gov.sg/" rel="noopener nofollow" target="_blank">Singapore Citizenship Journey (SCJ)</a>,
-a collaboration between the&nbsp;<a href="https://www.mccy.gov.sg/" rel="noopener nofollow" target="_blank">Ministry of Culture, Community and Youth (MCCY)</a>,
-the&nbsp;<a href="https://www.pa.gov.sg/" rel="noopener nofollow" target="_blank">People's Association (PA)</a>&nbsp;and
-the&nbsp;<a href="https://www.ica.gov.sg/" rel="noopener nofollow" target="_blank">Immigrations &amp; Checkpoints Authority (ICA)</a>.
+<p>The exact number of PRs and citizenships granted each year depends on
+several factors, including the number and quality of applications received
+and our changing needs. Various markers of integration are considered,
+such as family ties to Singaporeans, length of residency, and whether they
+have studied in our national schools or completed National Service. Other
+factors considered include the applicant’s economic contributions, qualifications
+and age.</p>
+<p>It is important for new citizens and PRs to be integrated into our communities.
+To help them along, the&nbsp;<a href="https://www.mccy.gov.sg/sectors/resilience-and-engagement/national-integration-council" rel="noopener noreferrer nofollow" target="_blank">National Integration Council (NIC)</a>&nbsp;supports
+initiatives such as the&nbsp;<a href="https://www.sgjourney.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Citizenship Journey (SCJ)</a>,
+a collaboration between the&nbsp;<a href="https://www.mccy.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Culture, Community and Youth (MCCY)</a>,
+the&nbsp;<a href="https://www.pa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">People's Association (PA)</a>&nbsp;and
+the&nbsp;<a href="https://www.ica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Immigrations &amp; Checkpoints Authority (ICA)</a>.
 All naturalised citizens go through the SCJ to enrich their understanding
 of Singapore’s history, norms and values, and build stronger ties with
-the community. Singaporeans were invited to join the&nbsp;<a href="https://www.mccy.gov.sg/sector/initiatives/citizens-workgroup-for-singapore-citizenship-journey" rel="noopener nofollow" target="_blank">Citizen's Workshop for SCJ</a>&nbsp;to
-explore, discuss and create content that is being used to update the SCJ.</p>
+the local community. &nbsp;A nation-wide grassroots network of more than
+1,500 Integration and Naturalisation Champions (INCs) also helps drive
+integration efforts within their local communities.</p>
 <p>Our integration efforts seek to create acceptance, mutual understanding
 and mutual respect between locals and foreigners. Fostering social integration
 and cohesion is a whole-of-society effort; as the newcomers learn and adapt
 to local values and norms, we can play our part by reaching out and helping
 them understand our local culture and way of life.</p>
+<p></p>
 <hr>
 <p>[1] Inter-ethnic marriages refer to marriages between persons of different
-CMIO groups.</p>
-<p>[2] Transnational marriages refer to marriages involving a citizen and
-a non-citizen (i.e. permanent resident or non-resident).</p>
+ethnic groups, namely Chinese, Malay, Indian and Others.</p>
+<p>[2] Transnational marriages refer to marriages between a citizen and a
+non-citizen (i.e. PR or NR).</p>
+<p>[3] The small group of new citizens who were not PRs prior to obtaining
+citizenship were minors who were either (i) children of citizens, or (ii)
+children of PRs who were included as dependants in their parents’ citizenship
+application.</p>
