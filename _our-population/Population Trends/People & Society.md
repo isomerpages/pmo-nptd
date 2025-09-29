@@ -19,7 +19,7 @@ marriages last year were inter-ethnic (Chart 8)<sup>[1]</sup>. This proportion
 has remained largely stable over the last ten years. Transnational marriages
 made up 37% of citizen marriages in 2024 (Chart 9). This proportion has
 remained largely stable over the last ten years, barring dips in the COVID
-years of 2020 and 2021 <sup>[2]</sup>.</p>
+years of 2020 and 2021<sup>[2]</sup>.</p>
 <p><em>Chart 8: Inter-ethnic marriages as a proportion of citizen marriages</em>
 </p>
 <div class="isomer-image-wrapper">
@@ -48,7 +48,7 @@ ties with Singaporeans (for example, through marriage), or have studied,
 worked or lived in Singapore for some time.</p>
 <p>All new adult citizens come from our pool of PRs, as individuals have
 to obtain permanent residency before they may apply for citizenship in
-Singapore <sup>[3]</sup>. Our PR population size remains stable at around
+Singapore<sup>[3]</sup>. Our PR population size remains stable at around
 half a million, with the majority of our PRs aged between 25 and 59 years
 (Chart 10).</p>
 <p><em>Chart 10: Age pyramid of resident population, as at June 2025</em>
