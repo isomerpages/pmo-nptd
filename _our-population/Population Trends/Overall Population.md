@@ -51,12 +51,13 @@ growth in Singapore remained stable from June 2024 to June 2025, compared
 to June 2023 to June 2024 (Chart 2).</p>
 <p><em>Chart 2: Change in foreign employment, as at June<sup>[3]</sup></em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_2_Foreign_Employment_Growth.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chart_2.png">
 </div>
 <p><em>Source: Ministry of Manpower</em>
 </p>
-<p>These figures are from the <a href="https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2024</a>&nbsp;publication,
+<p>These figures are from the <a href="https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2024.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2025</a>&nbsp;publication,
 which provides key updates and trends on Singapore’s population.</p>
 <hr>
 <p><em>[1] <u>Singapore residents</u> comprise citizens and PRs.</em>
