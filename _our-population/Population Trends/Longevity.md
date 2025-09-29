@@ -12,7 +12,7 @@ description: population trend longevity
 </p>
 <p>The proportion of our citizen population aged 65 years and above is rising,
 and at a faster pace compared to the last decade. Large cohorts of “baby
-boomers” have begun entering the post-65 age range (Chart 6)[1,2].</p>
+boomers” have begun entering the post-65 age range (Chart 6)<sup>[1,2]</sup>.</p>
 <p></p>
 <p><em>Chart 6: Age profile of citizen population, as at June</em>
 </p>
@@ -26,7 +26,8 @@ boomers” have begun entering the post-65 age range (Chart 6)[1,2].</p>
 decreased from 64.5% in 2015. Conversely, the proportion of citizens aged
 65 and above increased from 13.1% in 2015 to 20.7% in 2025. By 2030, around
 1 in 4 citizens (23.9%) will be aged 65 &amp; above (Chart 7).</p>
-<p>Chart 7: Citizen population by broad age bands, as at June[3]</p>
+<p>Chart 7: Citizen population by broad age bands, as at June<sup>[3]</sup>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chart 7: Citizen population by broad age bands, as at June[3]" src="/images/Longevity_2.png">
