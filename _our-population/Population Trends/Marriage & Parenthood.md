@@ -133,11 +133,7 @@ in the LifeSG app, to find out how much benefits they can receive.</p>
 place to start and raise families. The Made For Families initiative was
 launched in June 2020 to further assure families of support from the Government
 and the broader society, and to encourage more businesses and community
-groups to play a part in building a family-friendly environment. Organisations
-can submit their request to adopt the&nbsp;<a href="https://www.madeforfamilies.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Made For Families</a>&nbsp;brand
-mark&nbsp;<a href="https://www.madeforfamilies.gov.sg/about-us/made-for-families" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-to identify themselves as entities promoting the value of family in our
-society.</p>
+groups to play a part in building a family-friendly environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Made_for_Families_logo.jpg">
 </div>
