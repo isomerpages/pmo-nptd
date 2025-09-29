@@ -68,10 +68,10 @@ which provides key updates and trends on Singapore’s population.</p>
 </p>
 <p><em><u>Employment Pass Holders</u> are foreign professionals, managers and executives. The monthly qualifying salary for an Employment Pass is $5,600 for applicants at age 23. This increases progressively with age, up to $10,700 at age 45 and above. A higher qualifying salary applies for the Financial Services sector.</em>
 </p>
-<p><em><u>Dependant’s Pass Holders and Long-Term Visit Pass Holders</u> are mostly dependants of SCss, and Work Pass Holders.</em>
+<p><em><u>Dependant’s Pass Holders and Long-Term Visit Pass Holders</u> are mostly dependants of SCs, and Work Pass Holders.</em>
 <br>
 <br><em>[2] The basic count and profile of the population are based on a person’s place of usual residence i.e. de jure concept. Therefore, citizens or PRs who have a registered foreign address or have been overseas continuously for 12 months or more prior to the reference date (i.e. June each year) are not counted as part of our citizen and PR population.</em>
 <br>
-<br><em>[3] To provide a clearer picture of foreign workforce growth related to economic sectors, Migrant Domestic Workers (MDWs) are excluded from the figures due to the distinct nature of their employment. Unlike other sectors where foreign workers contribute directly to industries such as Construction, Manufacturing and Services, MDWs work in households, performing domestic tasks.</em>
+<br><em>[3] To provide a clearer picture of foreign workforce growth related to economic sectors, MDWs are excluded from the figures due to the distinct nature of their employment. Unlike other sectors where foreign workers contribute directly to industries such as Construction, Manufacturing and Services, MDWs work in households, performing domestic tasks.</em>
 </p>
 <p></p>
