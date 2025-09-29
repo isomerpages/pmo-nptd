@@ -62,11 +62,11 @@ which provides key updates and trends on Singapore’s population.</p>
 <hr>
 <p><em>[1] <u>Singapore residents</u> comprise SCs and PRs.</em>
 </p>
-<p><em><u>Work Permit Holders</u> are semi-skilled non-professionals, managers, executives and technicians (non-PMET) workers from approved source countries. Some work in Construction, Marine Shipyard and Process (CMP) sectors (e.g. construction workers), and others work in non-CMP sectors (e.g. Services, Manufacturing).</em>
+<p><em><u>Work Permit Holders</u> are semi-skilled foreign workers from approved source countries. Some work in the Construction, Marine Shipyard and Process (CMP) sectors (e.g. construction workers), and others work in non-CMP sectors (e.g. Services, Manufacturing).</em>
 </p>
-<p><em><u>S Pass Holders</u> are skilled workers at the associate professionals and technicians (APT) level who earn a salary that is comparable to the top one third of the local APT salaries by age. The minimum qualifying salary starts a $3,150 a month (or $3,650 in the Financial Services sector).</em>
+<p><em><u>S Pass Holders</u> are skilled foreign workers (Associate Professionals and Technicians). The monthly qualifying salary for an S Pass is $3,300 for applicants at age 23. This increases progressively with age, up to $4,800 at age 45 and above. A higher qualifying salary applies for the Financial Services sector.</em>
 </p>
-<p><em><u>Employment Pass Holders</u> are foreign PMETs who earn a salary that is comparable to the top one-third of the local PMET salaries by age. The minimum qualifying salary starts at $5,000 a month (or $5,500 in the Financial Services sector). The EP holders are also subject to the Complementarity Assessment (COMPASS) framework when applying for/renewing their passes.</em>
+<p><em><u>Employment Pass Holders</u> are foreign professionals, managers and executives. The monthly qualifying salary for an Employment Pass is $5,600 for applicants at age 23. This increases progressively with age, up to $10,700 at age 45 and above. A higher qualifying salary applies for the Financial Services sector.</em>
 </p>
 <p><em><u>Long-Term Visit Pass Holders and Dependant’s Pass Holders</u> are mostly dependants of citizens, PRs, and Work Pass Holders.</em>
 <br>
