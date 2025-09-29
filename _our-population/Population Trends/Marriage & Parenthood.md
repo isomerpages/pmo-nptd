@@ -34,7 +34,7 @@ years (32,900).</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Chart_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_4_new.png">
 </div>
 <p><em>Source: Immigration &amp; Checkpoints Authority</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
