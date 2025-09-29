@@ -68,6 +68,7 @@ years (20,500 citizenships and 31,700 permanent residencies) (Chart 11).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chart 11: Number of Citizenships and Permanent Residencies granted" src="/images/Ppl_and_Soc_4.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chart 11: Number of Citizenships and Permanent Residencies granted" src="/images/Ppl_and_Soc_5.png">
 </div>
