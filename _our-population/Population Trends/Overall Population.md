@@ -11,10 +11,11 @@ description: Overall Population
 <p>Singapore’s total population stood at 6.11 million as at June 2025 (Diagram
 1), a 1.2% increase from June 2024. This increase was mainly due to the
 growth in the non-resident population. The annualised population growth
-rate over the past five years (2020-2025) was higher than the preceding
-five-year period (2015-2020), mostly due to an increase in the number of
-Work Permit Holders in the Construction sector to support key infrastructure
-projects such as Changi Terminal 5 and the ramping up of housing supply.</p>
+rate of 1.5% over the past five years (2020-2025) was higher than the 0.5%
+over the preceding five-year period (2015-2020), mostly due to an increase
+in the number of Work Permit Holders in the Construction sector to support
+key infrastructure projects such as Changi Terminal 5 and the ramping up
+of housing supply.</p>
 <p></p>
 <p><em>Diagram 1: Total population, as at June 2025<sup>[1]</sup></em>
 </p>
