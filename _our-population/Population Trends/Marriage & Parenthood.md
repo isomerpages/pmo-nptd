@@ -49,7 +49,12 @@ overseas to at least one Singaporean parents were granted citizenship by
 descent (Chart 5) [4].</p>
 <p><em>Chart 5: Number of children granted citizenships by descent</em>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_5.png">
+</div>
+<p><em>Source: Immigration &amp; Checkpoints Authority</em>
+<br><em>The figures are based on the full calendar year (January to December).</em>
+</p>
 <p><strong>Support for Marriage &amp; Parenthood</strong>
 </p>
 <p>Supporting Singaporeans to fulfil their aspirations to marry and have
@@ -125,3 +130,4 @@ society.</p>
 female would have during her reproductive years (15-49 years old) if she
 were subject to the prevailing age-specific fertility rates in the population
 in the given year.</p>
+<p></p>
