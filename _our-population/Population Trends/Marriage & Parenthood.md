@@ -149,4 +149,14 @@ groups to play a part in building a family-friendly environment.</p>
 female would have during her reproductive years (15-49 years old) if she
 were subject to the prevailing age-specific fertility rates in the population
 in the given year.</p>
-<p></p>
+<p>[4] Children under the age of 21 years old and were born overseas to Singaporean
+parents may be granted citizenship by descent if they meet the prevailing
+criteria. Citizenship by descent is based on a constitutional entitlement
+to citizenship for children born overseas to at least one Singaporean parent,
+akin to how children born in Singapore to at least one Singaporean parent
+are constitutionally entitled to citizenship by birth. From 2025, to more
+accurately reflect immigration inflows and birth statistics, citizenships
+by descent is reported under the Marriage &amp; Parenthood section of our
+website. Under the People &amp; Society section of our website, the figures
+for total number of citizenships granted exclude the category of citizenships
+by descent.</p>
