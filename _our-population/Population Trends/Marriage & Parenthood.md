@@ -126,6 +126,11 @@ Standards on Work-Life Harmony and Unpaid Leave for Unexpected Care Needs
 were also established in 2021 and 2018 respectively, to highlight good
 employment practices that all employers are recommended to implement at
 their workplace.</p>
+<p>The Government also introduced the Large Families Scheme (LFS) in 2025
+to strengthen support for couples with three or more children. Under the
+LFS, couples will receive up to $16,000 of additional support for each
+third or subsequent Singapore Citizen (SC) child born on or after 18 February
+2025.</p>
 <p>More details on all the support measures can be found at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mpbooklet</a>&nbsp;and&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">madeforfamilies.gov.sg</a>. Parents may also use the Family Support Calculator
 in the LifeSG app, to find out how much benefits they can receive.</p>
