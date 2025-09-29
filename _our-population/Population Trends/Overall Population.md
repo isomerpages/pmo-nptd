@@ -18,20 +18,22 @@ projects such as Changi Terminal 5 and the ramping up of housing supply.</p>
 <p></p>
 <p><em>Diagram 1: Total population, as at June 2025<sup>[1]</sup></em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Diagram_1_Total_Population.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Diagram_1.png">
 </div>
 <p><em>Source: Department of Statistics, Ministry of Manpower</em>
 <br><em>Figures may not sum up due to rounding.</em>
 </p>
-<p>The citizen and Permanent Resident (PR) populations increased by 0.7%
-(3.61 million to 3.64 million) and 1.2% (538,600 to 544,900) respectively
-between June 2023 and June 2024 (Chart 1)<sup>[2]</sup>.
+<p>The citizen population increased by 0.7% (from 3.64 million to 3.66 million),
+while the Permanent Resident (PR) population remained stable at 0.54 million
+in June 2025 (Chart 1).
 <br>
-<br><em>Chart 1: Total Population by residency status, as of June 2024</em>
+<br><em>Chart 1: Total population by residency status, as at June</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_1_Total_Population.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_1.png">
 </div>
 <p>
 <br><em>Source: Department of Statistics</em>
