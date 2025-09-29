@@ -12,7 +12,7 @@ description: Marriage & Parenthood
 </p>
 <p>There were 22,955 citizen marriages in 2024, 5.7% lower than the 24,355
 citizen marriages in 2023, but higher than the 22,165 citizen marriages
-in 2019 (pre-COVID) (Chart 3) [1].</p>
+in 2019 (pre-COVID) (Chart 3)<sup>[1]</sup>.</p>
 <p>The average number of citizen marriages per year in the last five years
 (23,000) was slightly lower than that of the preceding five years (23,600).
 The median age at first marriage for citizen grooms and brides was 30.8
@@ -27,8 +27,9 @@ and 29.1 years in 2024, up from 30.1 and 27.9 years respectively in 2014.</p>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 <br>
 <br>There were 29,237 citizen births in 2024, 1.2% more than the 28,877 citizen
-births in 2023 (Chart 4)[2]. The average number of births per year in the
-last five years (30,400) was lower than in the preceding five years (32,900).</p>
+births in 2023 (Chart 4)<sup>[2]</sup>. The average number of births per
+year in the last five years (30,400) was lower than in the preceding five
+years (32,900).</p>
 <p><em>Chart 4: Citizen births</em>
 </p>
 <p></p>
@@ -39,14 +40,14 @@ last five years (30,400) was lower than in the preceding five years (32,900).</p
 <br><em>The figures are based on the full calendar year (January to December).</em>
 </p>
 <p>The resident total fertility rate (TFR), which has been declining over
-the past few decades, was 0.97 in 2024, unchanged from 2023 [3]. Many other
-advanced societies are also experiencing falling birth rates, as more people
-are postponing family formation and having fewer children, as they prioritise
-other life goals.</p>
+the past few decades, was 0.97 in 2024, unchanged from 2023<sup>[3]</sup>.
+Many other advanced societies are also experiencing falling birth rates,
+as more people are postponing family formation and having fewer children,
+as they prioritise other life goals.</p>
 <p>In addition to citizen births in Singapore, there are also children born
 overseas to at least one Singaporean parents. In 2024, 1,409 children born
 overseas to at least one Singaporean parents were granted citizenship by
-descent (Chart 5) [4].</p>
+descent (Chart 5)<sup>[4]</sup>.</p>
 <p><em>Chart 5: Number of children granted citizenships by descent</em>
 </p>
 <div class="isomer-image-wrapper">
