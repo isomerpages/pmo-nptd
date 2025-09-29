@@ -25,12 +25,12 @@ sections:
           description: A strong and cohesive Singapore society
           url: /our-population/population-trends/people-and-society/
   - infopic:
-      image: /images/Population_in_Brief_2024_website_banner.png
+      image: /images/Population_in_Brief_2025_Banner.jpg
       title: Population in Brief
       description: The annual Population in Brief (PIB) provides key updates and
         trends on Singapore's population. The latest PIB is available here.
       button: Population In Brief
-      alt: Population in Brief 2024
+      alt: Population in Brief 2025
       url: /files/media-centre/publications/Population_in_Brief_2024.pdf
   - infopic:
       image: /images/census-web-banner-for-pmo.png
