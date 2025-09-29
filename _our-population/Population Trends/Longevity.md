@@ -25,7 +25,7 @@ boomers” have begun entering the post-65 age range (Chart 6)<sup>[1,2]</sup>.<
 <br>In June 2025, 59.8% of citizens were aged 20 to 64 years. This proportion
 decreased from 64.5% in 2015. Conversely, the proportion of citizens aged
 65 and above increased from 13.1% in 2015 to 20.7% in 2025. By 2030, around
-1 in 4 citizens (23.9%) will be aged 65 &amp; above (Chart 7).</p>
+1 in 4 citizens (23.9%) will be aged 65 and above (Chart 7).</p>
 <p>Chart 7: Citizen population by broad age bands, as at June<sup>[3]</sup>
 </p>
 <p></p>
