@@ -10,14 +10,14 @@ description: Marriage & Parenthood
 </div>
 <p><strong>Marriage and Parenthood Trends</strong>
 </p>
-<p>In 2023, there were 24,355 citizen marriages, 1.7 per cent fewer than
-the record high of 24,767 citizen marriages in 2022 (Chart 3)<sup>[1]</sup>,
-but higher than the 22,165 citizen marriages in 2019 (pre-COVID).</p>
+<p>There were 22,955 citizen marriages in 2024, 5.7% lower than the 24,355
+citizen marriages in 2023, but higher than the 22,165 citizen marriages
+in 2019 (pre-COVID) (Chart 3)<sup>[1]</sup>.</p>
 <p>The average number of citizen marriages per year in the last five years
-(22,800) was lower than in the preceding five years (24,000). The median
-age at first marriage for citizen grooms and brides was 30.7 and 29.0 years
-in 2023, up from 30.1 and 27.8 years respectively in 2013.</p>
-<p><em>Chart 3: Citizen marriages, 2013 – 2023</em>
+(23,000) was slightly lower than that of the preceding five years (23,600).
+The median age at first marriage for citizen grooms and brides was 30.8
+and 29.1 years in 2024, up from 30.1 and 27.9 years respectively in 2014.</p>
+<p><em>Chart 3: Citizen marriages</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Chart_3_Citizen_Marriages.png">
