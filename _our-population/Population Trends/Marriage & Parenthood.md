@@ -83,32 +83,37 @@ measures in the Package include:</p>
 and newborn care</p>
 </li>
 <li>
-<p>Financial support through the Baby Bonus scheme, comprising a Cash Gift
-and Government co-matching contributions to the Child Development Account</p>
+<p>Financial support through the Baby Bonus scheme, comprising a Cash Gift,
+First Step Grant and Government co-matching contributions to the Child
+Development Account</p>
+</li>
+<li>
+<p>Large Families Scheme to provide additional support to couples with three
+or more children</p>
 </li>
 <li>
 <p>MediSave Grant for Newborns to defray children’s healthcare expenses</p>
 </li>
 <li>
 <p>Government-Paid Parental Leave schemes including Maternity Leave, Paternity
-Leave, and Childcare Leave</p>
+Leave, Shared Parental Leave and Childcare Leave</p>
 </li>
 <li>
 <p>Subsidised infant care and childcare services</p>
 </li>
 </ul>
-<p>&nbsp;As announced at Budget 2023, the Government has increased support
-for parents during their children’s early years, by enhancing the Baby
-Bonus Cash Gift and Child Development Account contributions. Government-Paid
-Paternity Leave (GPPL) doubled from 2 to 4 weeks, on a voluntary basis,
-and Unpaid Infant Care Leave has also doubled from 6 to 12 days per parent
-per year, starting from 1 January 2024. During the 2024 National Day Rally,
-Prime Minister Lawrence Wong has also announced that the two weeks of voluntary
-Government-Paid Paternity Leave (GPPL) will be made mandatory from 1 April
-2025. A new Shared Parental Leave (SPL) Scheme will also be implemented
-in two phases from 1 April 2025, starting with 6 weeks of parental leave
-to be shared between both parents from 1 April 2025. This will increase
-to 10 weeks to be shared between both parents from 1 April 2026.</p>
+<p>The Government continually reviews and enhances our marriage and parenthood
+support in response to feedback gleaned through our surveys and engagements.</p>
+<p>Government-Paid Paternity Leave (GPPL) doubled from 2 to 4 weeks, on a
+voluntary basis, and Unpaid Infant Care Leave has also doubled from 6 to
+12 days per parent per year, starting from 1 January 2024. During the 2024
+National Day Rally, Prime Minister Lawrence Wong has also announced that
+the two weeks of voluntary Government-Paid Paternity Leave (GPPL) will
+be made mandatory from 1 April 2025. A new Shared Parental Leave (SPL)
+Scheme will also be implemented in two phases from 1 April 2025, starting
+with 6 weeks of parental leave to be shared between both parents from 1
+April 2025. This will increase to 10 weeks to be shared between both parents
+from 1 April 2026.</p>
 <p>In addition, measures are in place to help parents manage their work and
 family commitments. For example, the Tripartite Guidelines on FWA Requests
 will come into effect on 1 December 2024 to require employers to properly
