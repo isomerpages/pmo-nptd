@@ -11,7 +11,7 @@ variant: tiptap
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
 </p>
 <p><strong>WRITTEN REPLY</strong>&nbsp;</p>
-<p><strong>TUESDAY, 14 OCTOBER 2025</strong>
+<p><strong>WEDNESDAY, 15 OCTOBER 2025</strong>
 </p>
 <p><strong>Ms He Ting Ru:</strong>
 </p>
