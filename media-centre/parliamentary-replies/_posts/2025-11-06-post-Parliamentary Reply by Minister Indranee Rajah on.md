@@ -12,7 +12,7 @@ variant: tiptap
 <p><strong>WRITTEN REPLY</strong>&nbsp;</p>
 <p><strong>THURSDAY, 6 NOVEMBER 2025</strong>
 </p>
-<p><strong>Mr Ang Wei Neng: </strong>
+<p><strong>Mr Ang Wei Neng:</strong>
 </p>
 <p>To ask the Prime Minister and Minister for Finance (a) what are the factors
 that have contributed to the higher number of babies born in 2024; and
