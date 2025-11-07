@@ -1,5 +1,5 @@
 ---
-title: Parliamentary reply by Minister Indranee Rajah on Permanently Introducing
+title: Parliamentary Reply by Minister Indranee Rajah on Permanently Introducing
   a Baby Gift Initiative
 permalink: /parliamentary-reply-by-minister-indranee-rajah-on-permanently-introducing-a-baby-gift-initiative/
 date: 2025-11-06
