@@ -1,0 +1,12 @@
+logo: /images/nptd.png
+links:
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Our Population
+    collection: our-population
+  - title: Media Centre
+    resource_room: true
+  - title: Resources
+    url: /resources/
+  - title: Contact Us
+    url: /contact-us/
