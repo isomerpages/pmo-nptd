@@ -152,6 +152,7 @@ during the Marina Bay Countdown 2017.</p>
 <p>SPOR is prepared by the Ministry of Finance with inputs from all ministries.
 Published every two years, SPOR provides a perspective on how the public
 sector and Singapore have fared in a broad range of areas of national interest.
-SPOR 2018 is available at (<a href="https://file.go.gov.sg/spor-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">https://file.go.gov.sg/spor-2018.pdf</a>)</p>
+SPOR 2018 is available at <a href="https://file.go.gov.sg/spor-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">https://file.go.gov.sg/spor-2018.pdf</a>
+</p>
 <p>Source: <a href="https://file.go.gov.sg/spor-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Ministry of Finance</a>
 </p>
