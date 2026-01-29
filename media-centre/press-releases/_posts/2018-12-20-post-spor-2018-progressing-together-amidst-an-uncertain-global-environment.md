@@ -3,6 +3,7 @@ layout: post
 title: "SPOR 2018: Progressing together amidst an uncertain global environment"
 date: 2018-12-20
 permalink: /media-centre/press-releases/spor-2018-progressing-together-amidst-an-uncertain-global-environment/
+variant: markdown
 ---
 The Ministry of Finance has published the fifth edition of the Singapore Public Sector Outcomes Review (SPOR). The report takes stock of how Singapore has fared amidst a rapidly evolving global environment, and domestic issues that concern Singaporeans.
 
@@ -56,6 +57,5 @@ The Government is driving deeper technology adoption in its operations. For exam
 
 **Background**
 
-SPOR is prepared by the Ministry of Finance with inputs from all ministries. Published every two years, SPOR provides a perspective on how the public sector and Singapore have fared in a broad range of areas of national interest. SPOR 2018 is available at [https://www.mof.gov.sg/docs/default-source/default-document-library/spor-past-editions/spor_2018.pdf](https://www.mof.gov.sg/docs/default-source/default-document-library/spor-past-editions/spor_2018.pdf).
-
+SPOR is prepared by the Ministry of Finance with inputs from all ministries. Published every two years, SPOR provides a perspective on how the public sector and Singapore have fared in a broad range of areas of national interest. SPOR 2018 is available at (https://file.go.gov.sg/sport-2018.pdf)
 Source: [Ministry of Finance](https://www.mof.gov.sg/news-publications/press-releases/spor-2018-progressing-together-amidst-an-uncertain-global-environment)
