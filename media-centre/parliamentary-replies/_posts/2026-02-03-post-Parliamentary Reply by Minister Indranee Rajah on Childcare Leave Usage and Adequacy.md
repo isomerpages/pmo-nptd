@@ -9,16 +9,20 @@ image: ""
 variant: tiptap
 ---
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
+<br>
 <br><strong>WRITTEN REPLY</strong>
+<br>
 <br><strong>TUESDAY, 3 FEBRUARY 2026</strong>
 </p>
 <p><strong>Ms Valerie Lee:</strong>
+<br>
 <br>To ask the Prime Minister and Minister for Finance (a) whether the Ministry
 has conducted studies on the number of leave days taken by parents with
 children under seven due to childcare centre closures or their children
 falling ill; and (b) if so, whether such leave usage frequently exceeds
 the current enhanced childcare leave entitlement.</p>
 <p><strong>Ms Indranee Rajah (for the Prime Minister)</strong>:
+<br>
 <br>A working parent with a Singaporean child under the age of seven has six
 days of Government-Paid Childcare Leave (GPCL) a year. This means that
 a working couple has a total of 12 days of GPCL to care for their child,
