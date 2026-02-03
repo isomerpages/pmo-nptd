@@ -9,15 +9,19 @@ image: ""
 variant: tiptap
 ---
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
+<br>
 <br><strong>WRITTEN REPLY</strong>
+<br>
 <br><strong>TUESDAY, 3 FEBRUARY 2026</strong>
 </p>
 <p><strong>Ms Elysa Chen:</strong>
+<br>
 <br>To ask the Prime Minister and Minister for Finance in respect of the key
 drivers affecting women’s decisions to delay childbirth, whether the Ministry
 will consider refreshed practical support measures such as structural help
 with daily tasks and labour and postpartum guidance.</p>
 <p><strong>Ms Indranee Rajah:</strong>
+<br>
 <br>There are various reasons why women may decide to delay childbirth. These
 include prioritisation of other life goals like career, and concerns about
 whether they can manage the changes that come with parenthood.
