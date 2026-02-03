@@ -9,8 +9,8 @@ image: ""
 variant: tiptap
 ---
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
-</p>
-<p><strong>WRITTEN REPLY</strong>
+<br>
+<br><strong>WRITTEN REPLY</strong>
 </p>
 <p><strong>TUESDAY, 3 FEBRUARY 2026</strong>
 </p>
