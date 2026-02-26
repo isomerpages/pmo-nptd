@@ -41,9 +41,10 @@ This is an existential challenge.</p>
 <p>What does a TFR of 0.87 mean? Let me try to illustrate.</p>
 <p>Assuming our TFR stays at 0.87 – based on a simplistic calculation, for
 every 100 residents today, we will have just 44 children, and a mere 19
-grandchildren.<sup>2</sup> Over time, it will be practically impossible
-to reverse the trend, because we will have fewer and fewer women who can
-bear children.</p>
+grandchildren.<sup>2</sup> 
+</p>
+<p>Over time, it will be practically impossible to reverse the trend, because
+we will have fewer and fewer women who can bear children.</p>
 <p>PM said we have not given up, and he emphasised we will not give up. Let
 me add – we cannot give up.</p>
 <p>Low birth rates and an ageing population will profoundly reshape our nation,
@@ -295,10 +296,9 @@ this effort, and welcome all debate and fresh ideas on how to do so.</p>
 <p>Our path ahead will not be straightforward. But I am confident in our
 ability to adapt and thrive. Together, we will build a vibrant and resilient
 Singapore for present and future generations.</p>
-<p></p>
-<p></p>
-<p></p>
-<p><sup>1</sup> Based on preliminary data on resident births in 2025.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;<sup>1</sup> Based on preliminary data on resident births in 2025.</p>
 <p><sup>2</sup> This theoretical scenario assumes a TFR (i.e. the average
 number of children a woman would have over her childbearing years) of 0.87
 sustained over time, and that half of the population is female.</p>
