@@ -41,7 +41,7 @@ This is an existential challenge.</p>
 <p>What does a TFR of 0.87 mean? Let me try to illustrate.</p>
 <p>Assuming our TFR stays at 0.87 – based on a simplistic calculation, for
 every 100 residents today, we will have just 44 children, and a mere 19
-grandchildren.<sup>2</sup> 
+grandchildren.<sup>2</sup>
 </p>
 <p>Over time, it will be practically impossible to reverse the trend, because
 we will have fewer and fewer women who can bear children.</p>
