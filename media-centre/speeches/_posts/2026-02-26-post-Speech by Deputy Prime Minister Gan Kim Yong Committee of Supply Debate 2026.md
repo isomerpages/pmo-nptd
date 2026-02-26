@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Chairman, with your permission, Minister Indranee Rajah and I will take
 any clarifications after both our speeches.</p>
-<p><strong><u>Introduction</u></strong> 
+<p><strong><u>Introduction</u></strong>
 </p>
 <p>Earlier I spoke about the urgent realities of climate change. Now, I turn
 to a challenge equally fundamental to Singapore’s future – our population.</p>
@@ -68,7 +68,7 @@ difficult to meet our national security and national defence needs.</p>
 from now – will we remain vibrant, liveable and relevant?</p>
 <p><strong><u>Supporting Singaporeans’ Marriage &amp; Parenthood Aspirations</u></strong>
 </p>
-<p><strong>Our first and top priority is to continue to support Singaporeans in forming families. </strong>
+<p><strong>Our first and top priority is to continue to support Singaporeans in forming families.</strong>
 </p>
 <p>Over the years, we have consistently invested in our families. We have
 steadily enhanced support for families in housing, preschool, education
@@ -90,7 +90,7 @@ Singaporeans in starting families.</p>
 </p>
 <p>Let me speak plainly about the realities before us. Even as we redouble
 our efforts to support Singaporeans in starting families and having more
-children, <strong>we will still need a carefully managed immigration flow to augment our low birth rate.   </strong>
+children, <strong>we will still need a carefully managed immigration flow to augment our low birth rate.</strong>
 </p>
 <p>Most Singaporeans recognise the case for immigration. A 2021 Institute
 of Policy Studies survey found that over 75% of Singaporeans agreed that
@@ -155,11 +155,11 @@ better home for all of us.</p>
 <p>It is critical that we maintain a stable citizen core, hopefully one that
 is growing modestly over time, to keep our society and our economy dynamic
 and vibrant.</p>
-<p>Last year, we granted around 25,000 citizenships. <strong>We expect to take in between 25,000 and 30,000 new citizens annually, over the next five years, depending on our demographic trends including our TFR. </strong>
+<p>Last year, we granted around 25,000 citizenships. <strong>We expect to take in between 25,000 and 30,000 new citizens annually, over the next five years, depending on our demographic trends including our TFR.</strong>
 </p>
 <p><strong>We will also have to adjust our PR intake</strong>, as permanent
 residence is the pathway to work towards citizenship. Our PR population
-has remained stable over the past few years, at around 540,000. <strong>We estimate an intake of about 40,000 PRs annually in the next five years, slightly higher than the 35,000 PRs we granted last year. </strong>
+has remained stable over the past few years, at around 540,000. <strong>We estimate an intake of about 40,000 PRs annually in the next five years, slightly higher than the 35,000 PRs we granted last year.</strong>
 </p>
 <p>That said, we will adjust the actual number of immigrants we take in year
 by year, depending on our TFR trends, other demographic factors, and the
