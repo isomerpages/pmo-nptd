@@ -35,8 +35,9 @@ and the healthcare and social sectors.
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 This breadth of participation reflects how ageing is a global and multi-dimensional
 issue that requires individuals, governments and the whole of society to
-work together. Platforms like this bring together stakeholders <a rel="noopener noreferrer nofollow" target="_blank">to </a>exchange best practices and deepen
-our understanding of how societies can adapt to ageing.
+work together. Platforms like this bring together stakeholders to exchange
+best practices and deepen our understanding of how societies can adapt
+to ageing.
 <br>
 </p>
 <p><strong>Singapore’s Demographic Realities</strong>
