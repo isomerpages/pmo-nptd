@@ -7,12 +7,19 @@ description: Census of Population 2020
 image: ""
 variant: tiptap
 ---
-### Census of Population 2020 - Population
-![Census of Population 2020 - Population](/images/census2020-population.jpg "Census of Population 2020 - Population")  
-*Source: Singapore Department of Statistics*  
-
-### Census of Population 2020 - Marriage & Fertility
-![Census of Population 2020 - Marriage & Fertility](/images/census2020-marriage-fertility.jpg "Census of Population 2020 - Population")  
-*Source: Singapore Department of Statistics*   
-
-**Find out more [here](https://www.singstat.gov.sg/whats-new/visualising-data).**
+<h3>Census of Population 2020 - Population</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" title="Census of Population 2020 - Population" alt="Census of Population 2020 - Population" src="/images/census2020-population.jpg">
+</div>
+<p>
+<br><em>Source: Singapore Department of Statistics</em>
+</p>
+<h3>Census of Population 2020 - Marriage &amp; Fertility</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" title="Census of Population 2020 - Population" alt="Census of Population 2020 - Marriage &amp; Fertility" src="/images/census2020-marriage-fertility.jpg">
+</div>
+<p>
+<br><em>Source: Singapore Department of Statistics</em>
+</p>
+<p><strong>Find out more <a href="https://www.singstat.gov.sg/infographics/census-2020" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+</p>
