@@ -42,7 +42,7 @@ sections:
         DOS’s website.
       button: Census 2020
       alt: Census of Population 2020
-      url: https://www.singstat.gov.sg/whats-new/visualising-data
+      url: https://www.singstat.gov.sg/infographics/census-2020
   - infopic:
       title: Made For Families
       description: Join us to build a Singapore that is Made For Families. Click on
