@@ -87,4 +87,123 @@ Rajah, Ms Goh Hanyan, Mr Dinesh Vasu Dash</p>
 Lau, Mr Zhulkarnain Abdul Rahim</p>
 <p>Please download the high-res photos <a href="https://drive.google.com/drive/folders/16Oi_FWZ1P3jRZvsZYSb_SU10poIhUFi1?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
+<p><strong>ANNEX</strong>
+</p>
+<p><strong><u>Statements from Workgroup Members</u></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Chair’s Statement</strong>
+</p>
+<p><strong>Ms Indranee Rajah, Minister in the Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development</strong>
+</p>
+<p>“In 2025, our TFR fell to 0.87, our lowest to date. If this trajectory
+continues, it will have profound and serious consequences for Singapore.
+This is an existential issue for us and we must address it before it becomes
+irreversible. Given the importance of this issue, it cannot be business
+as usual. We need a Marriage and Parenthood Reset.</p>
+<p>We also recognise that at a personal level, many Singaporeans aspire to
+marriage and have children. Family is one of our most important anchors
+in life and we hope as many Singaporeans as possible will be able to experience
+the joy and fulfilment that marriage and parenthood can bring.</p>
+<p>The Workgroup will be approaching its task in two broad ways:</p>
+<p>First, what Government can do. We will review our policies to see how
+we can strengthen support for families, including cost of childraising
+and ensuring access to affordable housing.</p>
+<p>Second, what society as a whole can do, and how each and every one of
+us in our various capacities – as individuals, organisations, employers,
+colleagues, neighbours, friends – can contribute to this important national
+issue.</p>
+<p>We will be engaging widely to get ideas and feedback and to secure commitment
+of stakeholders.</p>
+<p>I ask all Singaporeans to be part of this effort and to help change the
+trajectory of our TFR through the power of our collective effort.” &nbsp;&nbsp;</p>
+<hr>
+<p><strong>On Caregiving and Relationship Formation</strong>
+</p>
+<p><strong>Mr Goh Pei Ming, Minister of State, Ministry of Home Affairs &amp; Ministry of Social and Family Development</strong>
+</p>
+<p>“Many aspiring parents seek greater certainty and support on preschool
+and caregiving arrangements. Through this Workgroup, MSF and ECDA will
+strengthen that assurance through a full review of our preschool accessibility
+and affordability, and how we can better support parents in fulfilling
+their family commitments. We will also build on recent enhancements to
+parental leave, guided by feedback from parents and employers.”</p>
+<p><strong>Mr Zhulkarnain Abdul Rahim, Minister of State, Ministry of Foreign Affairs &amp; Ministry of Social and Family Development</strong>
+</p>
+<p>“We&nbsp;want to build a&nbsp;Singapore&nbsp;where marriage and parenthood
+are valued, desired and supported. MSF will work closely with partners
+such as Families for Life to foster positive mindsets and strengthen community
+support for families.&nbsp;</p>
+<p>&nbsp;</p>
+<p>This includes supporting singles to form meaningful relationships. MSF
+will work with MCCY and community partners to ensure that youth are well
+equipped with skills to build strong friendships, appreciate the importance
+of relationships alongside other life goals, and creating more opportunities
+for people to connect.”&nbsp;</p>
+<hr>
+<p><strong>On Workplace Practices and Work-Life Norms</strong>
+</p>
+<p><strong>Mr Dinesh Vasu Dash, Minister of State, Ministry of Culture, Community and Youth &amp; Ministry of Manpower</strong>
+</p>
+<p>“Many Singaporeans are navigating real pressures of balancing work and
+parenthood commitments. MOM will engage tripartite partners and take in
+feedback from both workers and employers to find practicable approaches
+that support their needs. This is so that workers have the flexibility
+to balance their career aspirations and parenthood commitments, while we
+remain sensitive to the operational needs of businesses.”</p>
+<p><strong>Mr Shawn Huang, Senior Parliamentary Secretary, Ministry of Finance &amp; Ministry of Manpower</strong>
+</p>
+<p>“Workplace culture plays a significant role in supporting employees to
+thrive both in their careers and in life beyond work. MOM will continue
+to work closely with our tripartite partners to support and foster work-life
+friendly workplaces and work culture in Singapore.”</p>
+<hr>
+<p><strong>On Healthcare</strong>
+</p>
+<p><strong>Ms Rahayu Mahzam, Minister of State, Ministry of Digital Development and Information &amp; Ministry of Health</strong>
+</p>
+<p>“As couples marry and start families later, fertility challenges are becoming
+more common. We understand that the decision to seek fertility help is
+deeply personal and the process can be difficult. MOH will work with healthcare
+partners to raise awareness about fertility health, and strengthen support
+for couples at every stage of their fertility and maternity journey.”</p>
+<hr>
+<p><strong>On Education</strong>
+</p>
+<p><strong>Ms Jasmin Lau, Minister of State, Ministry of Digital Development and Information &amp; Ministry of Education</strong>
+</p>
+<p>“Many families today feel the weight of expectations, whether around academic
+achievements or the idea of ‘perfect parenting’. These pressures are shaped
+not just at home, but by the norms we see around us. MOE will work with
+parents, schools and the wider community to build a more supportive environment
+– one where families feel confident planning for their children’s future,
+where different pathways are valued, and where every child is given the
+space to grow and thrive in their own way.”</p>
+<hr>
+<p><strong>On Community and Youth Engagement</strong>
+</p>
+<p><strong>Ms Goh Hanyan, Senior Parliamentary Secretary, Ministry of Culture, Community and Youth &amp; Ministry of Sustainability and the Environment</strong>
+</p>
+<p>“Over the past year, MCCY and the National Youth Council have been listening
+to our young people about what matters to them. Many shared that while
+they are more connected online than ever, it is not always easy to find
+a real sense of belonging. Our youths want a Singapore where friendships
+can form more naturally across different backgrounds, and where everyone
+has a chance to be part of a community. MCCY will continue working with
+our partners to create more opportunities and spaces for youths to meet
+and form meaningful connections, because these relationships give young
+people the support and confidence to take the next steps in life.”</p>
+<hr>
+<p><strong>On Business Community</strong>
+</p>
+<p><strong>Ms Low Yen Ling, Senior Minister of State, Ministry of Trade and Industry &amp; Ministry of Culture, Community and Youth</strong>
+</p>
+<p>“We need all hands on board to create a vibrant culture of support for
+families. Businesses can play an active role in supporting a pro-family
+environment and an enjoyable family life. From neighbourhood heartlands
+and shopping malls, to providers of products and services for young families,
+MTI will work with the business community to encourage more inclusive,
+family-friendly offerings. Together, we can shape welcoming, accessible
+spaces and options that foster family life and connections.”</p>
 <p></p>
