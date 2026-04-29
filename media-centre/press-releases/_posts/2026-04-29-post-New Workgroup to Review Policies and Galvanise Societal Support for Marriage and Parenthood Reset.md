@@ -78,9 +78,8 @@ aims to release a full report with consolidated findings early next year
 though it may also make early recommendations where appropriate prior to
 the issuance of the full report.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workgroup_Image__Press_Release_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Workgroup__Press_Release_.png">
 </div>
 <p></p>
 <p><strong>ANNEX</strong>
