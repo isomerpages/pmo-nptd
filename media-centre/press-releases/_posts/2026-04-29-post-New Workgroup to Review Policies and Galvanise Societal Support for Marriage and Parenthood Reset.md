@@ -91,8 +91,6 @@ Lau, Mr Zhulkarnain Abdul Rahim</p>
 </p>
 <p><strong><u>Statements from Workgroup Members</u></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Chair’s Statement</strong>
 </p>
 <p><strong>Ms Indranee Rajah, Minister in the Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development</strong>
