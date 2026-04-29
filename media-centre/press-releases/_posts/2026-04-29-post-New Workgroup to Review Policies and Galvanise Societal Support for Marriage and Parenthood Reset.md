@@ -135,7 +135,6 @@ parental leave, guided by feedback from parents and employers.”</p>
 are valued, desired and supported. MSF will work closely with partners
 such as Families for Life to foster positive mindsets and strengthen community
 support for families.&nbsp;</p>
-<p>&nbsp;</p>
 <p>This includes supporting singles to form meaningful relationships. MSF
 will work with MCCY and community partners to ensure that youth are well
 equipped with skills to build strong friendships, appreciate the importance
@@ -206,4 +205,3 @@ and shopping malls, to providers of products and services for young families,
 MTI will work with the business community to encourage more inclusive,
 family-friendly offerings. Together, we can shape welcoming, accessible
 spaces and options that foster family life and connections.”</p>
-<p></p>
