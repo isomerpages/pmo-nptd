@@ -9,6 +9,6 @@ image: ""
 ---
 The Government has not proposed, planned nor targeted for Singapore to increase its population to 10 million. The Government has explained its population policies in an earlier article [here](/media-centre/articles/what-is-the-aim-of-government-population-policies).
 
-We monitor our population trends closely, and regularly review our population policies along with infrastructure and social development needs. An [update](https://www.strategygroup.gov.sg/media-centre/speeches/2018-03-01-speech-by-minister-josephine-teo-population) on our population outlook was provided in Parliament in March 2018. At that update, the Government said that given recent trends, Singapore’s total population is likely to be significantly below 6.9 million by 2030.
+     
+We monitor our population trends closely, and regularly review our population policies along with infrastructure and social development needs. Most recently, Deputy Prime Minister Gan Kim Yong shared at the 2026 Committee of Supply debate that our total population will remain significantly below 6.9 million by 2030, and beyond 2030, if present trends continue, it will take us a considerable time to reach 6.9 million \[1\].
 
-Subsequent updates have since been provided in Parliament reiterating the same point. At the 2023 Committee of Supply debate, Minister Indranee Rajah shared that the population was likely to be significantly below 6.9 million by 2030, and that based on the various scenarios that the Government had, the planning parameter of 6.9 million remained relevant for the 2030s.
