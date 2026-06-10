@@ -11,8 +11,7 @@ image: ""
 The Government&nbsp;<a href="https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-3252" rel="noopener noreferrer nofollow" target="_blank">said in Parliament in 2016</a>&nbsp;that
 the number of Singapore Citizenship (SC) renunciations between 2005 to
 2015 was, on average, around 1,200 annually. This is less than 0.1% of
-the total citizen population each year. <a rel="noopener noreferrer nofollow" target="_blank">Recent figures are similar.</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NTPD1]</a>&nbsp;</p>
+the total citizen population each year. Recent figures are similar.</p>
 <p>By international statistical convention, Overseas Singaporeans (who remain
 citizens but are living overseas for a continuous period of 12 months or
 longer) are not counted in the Singapore population statistics. Such Singaporeans,
