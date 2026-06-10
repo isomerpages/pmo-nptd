@@ -41,7 +41,6 @@ value and support families.</p>
 <li>
 <p><a href="https://www.population.gov.sg/media-centre/publications/population-in-brief" rel="noopener noreferrer nofollow" target="_blank">Population in Brief Report</a>
 </p>
-<p></p>
 </li>
 </ul>
 <p></p>
