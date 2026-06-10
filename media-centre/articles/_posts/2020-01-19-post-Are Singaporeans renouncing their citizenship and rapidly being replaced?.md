@@ -8,10 +8,11 @@ description: Are Singaporeans renouncing their citizenship and rapidly being rep
 image: ""
 ---
 <p>No, Singaporeans are not renouncing their citizenship in large numbers.
-The Government <a href="https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-3252" rel="noopener noreferrer nofollow" target="_blank">said in Parliament in 2016</a> that
+The Government&nbsp;<a href="https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-3252" rel="noopener noreferrer nofollow" target="_blank">said in Parliament in 2016</a>&nbsp;that
 the number of Singapore Citizenship (SC) renunciations between 2005 to
 2015 was, on average, around 1,200 annually. This is less than 0.1% of
-the total citizen population each year. Recent figures are similar.</p>
+the total citizen population each year. <a rel="noopener noreferrer nofollow" target="_blank">Recent figures are similar.</a>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NTPD1]</a>&nbsp;</p>
 <p>By international statistical convention, Overseas Singaporeans (who remain
 citizens but are living overseas for a continuous period of 12 months or
 longer) are not counted in the Singapore population statistics. Such Singaporeans,
@@ -19,28 +20,27 @@ who are mainly working or studying abroad, have not renounced their citizenship,
 and should not be counted as having done so.</p>
 <p>The Government’s immigration policy has been to take in a stable and considered
 number of PRs and Singapore Citizens who are committed to making Singapore
-their home. Between 15,000 and 25,000 new citizenships are granted each
-year to individuals who have family ties with Singaporeans, or have studied,
-worked or lived here for some time. The majority of new citizens are from
-Southeast Asian Countries such as Malaysia.</p>
-<p>In comparison, from 2014 to 2018, there were about 33,000 citizen births
-on average each year. The Government <a href="https://www.strategygroup.gov.sg/media-centre/press-releases/making-singapore-a-great-place-for-families" rel="noopener noreferrer nofollow" target="_blank">has been enhancing support</a> for
-child-raising in the key areas of housing, education, healthcare, parental
-leave and the workplace. In partnership with Singaporeans, the Government
-is continuously looking into ways to foster an even more family-friendly
-environment.</p>
-<p>For more information, you may refer to the following publications:</p>
+their home. New citizenships are generally granted to individuals who have
+family ties with Singaporeans, or have studied, worked or lived here for
+some time. The majority of new citizens are from Southeast Asian Countries
+such as Malaysia.</p>
+<p>The Government&nbsp;<a href="https://www.madeforfamilies.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">has significantly enhanced support</a>&nbsp;for
+child-raising in the key areas of financial support, housing, preschool,
+education, healthcare, and work-life support. The Government will continue
+partnering whole-of-society, including Tripartite Partners and community
+organisations, to foster workplace cultures and societal norms that celebrate,
+value and support families.</p>
+<p>For more information, you may refer to the following publications/resources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.singstat.gov.sg/publication-resources/population-trends-dashboard/population" rel="noopener noreferrer nofollow" target="_blank">Population Trends 2019 (Department of Statistics)</a>
+<p><a href="https://www.singstat.gov.sg/find-data/explore-data-themes/population/population-and-population-structure/latest-news-data" rel="noopener noreferrer nofollow" target="_blank">Population Trends Report (Department of Statistics)</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://www.singstat.gov.sg/publication-resources/population-trends-dashboard/population" rel="noopener nofollow" target="_blank">Population Trends Dashboard (Department of Statistics)</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.ica.gov.sg/docs/default-source/ica/stats/annual-bd-statistics/stats_2018_annual_rbd_report.pdf" rel="noopener noreferrer nofollow" target="_blank">Report on Registration of Births &amp; Deaths in 2018 (Immigration &amp; Checkpoints Authority)</a>
-</p>
-</li>
-<li>
-<p><a href="/media-centre/publications/population-in-brief" rel="noopener noreferrer nofollow" target="_blank">Population in Brief 2019</a>
+<p><a href="https://www.population.gov.sg/media-centre/publications/population-in-brief" rel="noopener noreferrer nofollow" target="_blank">Population in Brief Report</a>
 </p>
 </li>
 </ul>
