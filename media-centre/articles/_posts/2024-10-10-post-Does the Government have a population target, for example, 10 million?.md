@@ -15,4 +15,3 @@ We monitor our population trends closely, and regularly review our population po
 
         
 \[1\] Update as of Sep 2024 Mar 2026: Previous updates have since been provided in Parliament have reiterated the same point. At the 2018 Committee of Supply debate, Minister Josephine Teo said that given recent trends, Singapore’s total population is likely to be significantly below 6.9 million by 2030. At the 2023 Committee of Supply debate, Minister Indranee Rajah shared that the population was likely to be significantly below 6.9 million by 2030, and that based on the various scenarios that the Government had, the planning parameter of 6.9 million remained relevant for the 2030s.
-
