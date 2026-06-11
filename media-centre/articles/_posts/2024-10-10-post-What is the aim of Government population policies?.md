@@ -7,7 +7,7 @@ variant: tiptap
 description: What is the aim of Government population policies?
 image: ""
 ---
-<p>[Updated as of 10 Jun 2026]</p>
+<p>[Updated as of 11 Jun 2026]</p>
 <p>Our population size is affected by many factors, including birth rates,
 life expectancy, as well as global developments. The Government aims to
 achieve a careful balance between these factors to ensure a sustainable
