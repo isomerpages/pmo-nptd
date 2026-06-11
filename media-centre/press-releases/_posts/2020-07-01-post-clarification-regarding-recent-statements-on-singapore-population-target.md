@@ -7,7 +7,7 @@ variant: markdown
 ---
 **Clarification regarding recent statements on Singapore population 'target'**
 
-\[Updated as of 10 Jun 2026\]
+\[Updated as of 11 Jun 2026\]
 
 There have been statements circulating on various online platforms, that the Government proposes or plans to increase the population in Singapore to 10 million. The National Population and Talent Division (NPTD), Strategy Group, Prime Minister’s Office, would like to state categorically that these statements are untrue. The Government has not proposed, planned nor targeted for Singapore to increase its population to 10 million.
 
