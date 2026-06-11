@@ -7,10 +7,6 @@ description: resources
 <h3>Articles</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/media-centre/articles/population-in-brief-2020-key-trends" rel="noopener noreferrer nofollow" target="_blank">Population in Brief 2020: Key Trends</a>
-</p>
-</li>
-<li>
 <p><a href="/media-centre/articles/how-is-the-tfr-calculated" rel="noopener noreferrer nofollow" target="_blank">How is the Total Fertility Rate calculated?</a>
 </p>
 </li>
