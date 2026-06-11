@@ -52,14 +52,7 @@ description: resources
 <li>
 <p><a href="https://www.singstat.gov.sg/find-data/explore-data-themes/population/marital-status-marriages-and-divorces/latest-news-data" rel="noopener noreferrer nofollow" target="_blank">Statistics on Marriages and Divorces by Singapore Department of Statistics</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.ica.gov.sg/docs/default-source/ica/stats/annual-bd-statistics/stats_2018_annual_rbd_report.pdf" rel="noopener noreferrer nofollow" target="_blank">Report on Registration of births and deaths by the Immigration and Checkpoints Authority</a>
-</p>
-</li>
-<li>
-<p><a href="https://stats.mom.gov.sg/Pages/Labour-Market-Report-4Q-2019.aspx" rel="noopener noreferrer nofollow" target="_blank">Labour Market report by the Ministry of Manpower</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
