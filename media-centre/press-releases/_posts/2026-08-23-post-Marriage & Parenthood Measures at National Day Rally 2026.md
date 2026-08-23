@@ -233,5 +233,347 @@ is aged 6 years and below has 6 days of CCL a year. A working parent whose
 youngest SC child is aged 7 to 12 has 2 days of Extended Childcare Leave
 (ECL) a year.
 <br>
-<br>&nbsp;</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_192240.png">
+</div>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As childcare
+needs grow with the number of children and continue beyond preschool years,
+the Government will enhance CCL provisions by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Merging CCL and ECL into a single new CCL scheme for parents with SC children
+aged 12 and below, by removing tiering by age of youngest child.</p>
+</li>
+<li>
+<p>&nbsp;Increasing the number of CCL days, tiered by number of children:
+8, 10, or 12 days a year per working parent for those with one, two, or
+three or more SC children respectively.</p>
+</li>
+</ul>
+<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under
+the new CCL scheme, eligible working parents will receive:
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_193314.png">
+</div>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In summary,
+the revised CCL scheme comprises the following changes:
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_193449.png">
+</div>
+<p><strong>On Government Covering the Cost of Child-Related Leave</strong>
+</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today,
+employers pay employees the gross rate of pay and are not reimbursed by
+the Government for the first 8 weeks of the 16-week Government-Paid Maternity
+Leave (GPML) (1st and 2nd child order), the first 4 weeks of the 12-week
+Government-Paid Adoption Leave (GPAL) (1st and 2nd child order) and the
+first 3 days of the 6-day CCL. The Government reimburses employers up to
+the reimbursement limit of $10,000 for every 4 weeks for the remaining
+8 weeks of the 16-week GPML (1<sup>st</sup> and 2<sup>nd</sup> child order),
+the remaining 8 weeks of the 12-week GPAL (1<sup>st</sup> and 2<sup>nd</sup> child
+order) and the remaining 3 days of the 6-day CCL, as well as the full duration
+of Government-Paid Paternity Leave (GPPL), Shared Parental Leave (SPL)
+and ECL.</p>
+<p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To
+reduce the financial costs borne by employers, the Government will cover
+the cost for all child-related leave, i.e. GPML, GPAL, GPPL, SPL and CCL
+for all child orders, up to the reimbursement limit.</p>
+<p>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This
+will also apply to eligible Self-Employed Persons (SEPs), who can currently
+claim compensation for income lost during the Government-paid portion of
+respective child-related leave schemes.</p>
+<p>&nbsp;<strong>Implementation Details</strong>
+</p>
+<p>&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More
+details, including the start date of the new CCL scheme, will be announced
+at a later date. The Government has been working closely with Tripartite
+Partners on these enhancements, and will continue to engage employers and
+parents to gather feedback on implementation. Updates to legislation and
+systems are also required.
+<br>
+<br><strong>Annex B</strong>
+</p>
+<p><strong><u>SG Child Support Package</u></strong>
+</p>
+<p>&nbsp;The Government will introduce a new SG Child Support Package to
+provide families with stronger and more sustained financial support in
+raising their children.</p>
+<p>
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The SG
+Child Support Package, together with the continuation of existing support,
+will provide every eligible Singapore Citizen (SC) child with around $70,000,
+from birth to age 17, regardless of birth order. The Package replaces the
+financial support currently provided through the Baby Bonus Scheme<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>2</sup></a>and Large
+Families Scheme<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><sup>3</sup></a>.
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_194106.png">
+</div>
+<p><em>*For students in MOE-funded schools. $230 annually for primary school students, $290 annually for secondary school students. ~$2,500 assumes 6 years of primary school and 4 years of secondary school​.</em>
+<br>
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The diagram
+below illustrates what each eligible SC child will receive under the SG
+Child Support Package compared with the current support provided through
+the Baby Bonus Scheme and Large Families Scheme, by birth order.
+<br>
+<br>[2] The Baby Bonus Scheme comprises a Baby Bonus Cash Gift (BBCG) disbursed
+from age 0 to 6.5, and Child Development Account (CDA) monies ringfenced
+for uses such as preschool and healthcare. All children receive a $5,000
+CDA First Step Grant at birth. Parents who save into the CDA receive Government
+co-matching up to a cap. Children of higher birth orders (BO) receive higher
+BBCG and have higher co-matching caps. BO1 and BO2 children receive $11,000
+in BBCG; and BO3 and higher children $13,000. The CDA co-matching caps
+are: BO1 - $4,000; BO2 - $7,000; BO3 and BO4 - $9,000; BO5 and higher -
+$15,000.</p>
+<p>&nbsp;[3] The Large Families Scheme comprises an additional $5,000 CDA
+First Step Grant, $5,000 Large Family MediSave Grant paid into the mother’s
+MediSave Account, and $6,000 Large Family LifeSG Credits ($1,000 disbursed
+annually over 6 years), for each third and subsequent child.
+<br>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The package provides the same support
+for every child regardless of birth order. To do this, the current Baby
+Bonus Scheme and Large Families Scheme components which differentiate by
+birth order will be repositioned or removed. Notwithstanding this, all
+birth orders (BOs) will receive more support under the SG Child Support
+Package.
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_194819.png">
+</div>
+<p><em>*$16,000 reduction reflects the discontinuation of the Large Families Scheme which currently comprises the additional $5,000 CDA First Step Grant, $5,000 Large Family MediSave Grant (LFMG), and $6,000 Large Family LifeSG Credits (LFLC) ($1,000 disbursed annually over 6 years), for each third and subsequent child. The LFLC will be replaced by the Child Credits and extended to all birth orders. Large families will continue to receive additional support for healthcare expenses and we are reviewing how the LFMG can be repositioned to achieve this.</em>
+<br>
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+While the new Package will replace the Large Families Scheme, large families
+will continue to be supported.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp; As the enhanced baseline support is given for each child, large
+families will naturally receive more. For instance, the $1,000 annual LFLC
+currently given to each 3<sup>rd</sup> and subsequent child for 6 years
+will be increased to $2,000, extended to 16 years, and given to all birth
+orders, including the first and second child in large families.</p>
+</li>
+<li>
+<p>Large families will also receive additional support on top of the Package,
+in areas where they are likely to face a sharper increase in costs – healthcare,
+transport and housing. Details will be released at a later date. &nbsp;</p>
+</li>
+</ul>
+<p><strong>Key Changes Under the SG Child Support Package</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_195125.png">
+</div>
+<p>[4] In addition to the $62,000, every SC child also receives a $5,000
+Medisave Grant for Newborns at birth and annual Edusave top-ups which add
+up to around $2,500 across primary and secondary school. Together, these
+provide around $70,000 of direct financial support for every SC child.
+<br>
+<br><strong>Implementation and Transition Arrangements</strong>
+<br>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>$10,000 Baby Gift</strong>
+</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;<u>Children born on or after 1 Apr 2027</u> will receive the
+$10,000 Baby Gift in two tranches before the child turns 1 year old.</p>
+<p>·&nbsp;<u>Children born before 1 Apr 2027</u> who are still receiving BBCG
+payouts will continue to receive BBCG payouts till 31 Mar 2027. As the
+Baby Gift will replace the BBCG, they will receive a top-up by 30 Apr 2027
+to bring their total amount of support to $10,000, if applicable.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>$32,000 Child Credits</strong>
+</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· <u>2026 Child Credits</u>: Children turning 1 to 16 in 2026 will receive
+their 2026 Child Credits of $2,000 by 30 Apr 2027.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>2027 Child Credits</u>: Children
+whose birthdays fall between January and April will receive their 2027
+Child Credits of $2,000 by 30 Apr 2027, while those whose birthdays fall
+between May and December will receive their Child Credits on their birthdays.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;<u>2028 and future Child Credits</u>: Children will receive
+their Child Credits of $2,000 annually on their birthdays until the year
+they turn 16.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;The Child Credits represent an enhancement of the current Large
+Family LifeSG Credits (LFLC), with a larger total quantum of $32,000 disbursed
+over a longer period, and extended to all birth orders instead of only
+to the third and subsequent child. The LFLC, currently paid in April each
+year, will therefore cease, with no disbursements in 2027.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CDA and PSEA co-matching<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[5]</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;<u>Children born on or after 1 Apr 2027</u> will receive $5,000
+CDA First Step Grant (FSG) and be eligible for the CDA Government co-matching
+contributions up to the uniform cap of $5,000.</p>
+<p><em>&nbsp;</em>
+</p>
+<p>·&nbsp;The additional CDA FSG of $5,000 under the previous Large Families
+Scheme will be discontinued from 1 Apr 2027.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;<u>For children born between 1 Jan 2015 and 31 Mar 2027</u> (i.e.,
+turning 1 to 12 in 2027, or born in 2027 before start of uniform cap):</p>
+<p>o&nbsp;&nbsp; Their existing CDA co-matching caps will be retained until
+30 Sep 2027 to give families time to save more in the CDAs to receive the
+Government co-matching contributions.</p>
+<p>o&nbsp;&nbsp; Their CDA Government co-matching cap will be adjusted to
+the uniform cap of $5,000 from 1 Oct 2027.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;<u>For children born between 1 Jan 2009 and 31 Dec 2014</u> (i.e.,
+turning 13 to 18 in 2027), their eligibility for PSEA co-matching, if applicable,
+remains unchanged (i.e. they may receive co-matching on PSEA until the
+day before their 18<sup>th</sup> birthday):</p>
+<p>o&nbsp;&nbsp; Their existing PSEA co-matching cap will be retained until
+30 Sep 2027.</p>
+<p>o&nbsp;&nbsp; Their PSEA co-matching cap will be adjusted to the uniform
+$5,000 co-matching cap from 1 Oct 2027.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;PSEA co-matching will cease for new PSEAs opened from 1 Jan 2028.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Extension of CDA to age 16</strong>
+</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Children born on or after 1 Jan 2015</u> will
+have their CDAs extended to the end of the year they turn age 16.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;<u>Children born before 1 Jan 2015 </u>will continue to retain
+their PSEAs, as their CDAs would have closed by then.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>$10,000 PSEA top-up</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;<u>Children turning 17 in 2026</u> will receive the $10,000
+top-up in Jun 2027.</p>
+<p>&nbsp;</p>
+<p>·&nbsp;<u>Children turning 17 from 2027</u> will receive the $10,000 top-up
+in Jun of the year they turn 17.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[5]</a> The
+PSEA allows parents to continue receiving dollar-for-dollar Government
+co-matching contributions before the child turns 18, if they have not met
+the CDA co-matching cap before the CDA closes.</p>
+<p></p>
+<p><strong>Annex C</strong>
+<br>
+<br><strong><u>Enhancements to Childcare and Infant Care</u></strong>
+</p>
+<p>The Government will further enhance the affordability and accessibility
+of childcare and infant care for Singapore Citizen (SC) children by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Significantly reducing fees for Government-supported preschools;</p>
+</li>
+<li>
+<p>Extending full childcare and infant care subsidies to families with SC
+children regardless of the working status of the main subsidy applicant;
+and</p>
+</li>
+<li>
+<p>Expanding the network of Government-supported preschool operators.</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Lower Fees for Government-Supported Preschool</strong>
+</p>
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When
+fully implemented, full-day SC childcare fees at Government-supported centres
+will be reduced to $150 per month before means-testing. Full-day infant
+care fees will be reduced to $300 per month before means-testing.</p>
+<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These
+fees will be less than half of today’s fees. Lower-income families will
+continue to pay even lower means-tested fees.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_200108.png">
+</div>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These fee
+reductions will be rolled out progressively from 2028, with target fee
+levels expected to be reached by 2030. More details on implementation timelines
+will be shared in early 2027. This phased approach gives the sector the
+time needed to adjust sustainably, while ensuring that quality of care
+and education is maintained throughout the transition.</p>
+<p>&nbsp;<strong>Extending Full Childcare and Infant Care Subsidies to Families with SC Children Regardless of the Applicant’s Working Status</strong>
+</p>
+<p>&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today,
+full preschool subsidies are only available to families where the main
+subsidy applicant is working<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[6]</a>. To ensure that all families can benefit from affordable
+preschool regardless of their employment circumstances, the Government
+will eventually extend full childcare and infant care subsidies to families
+with SC children regardless of the applicant’s working status. More details
+will be announced in early 2027.</p>
+<p><strong>&nbsp;Continued Expansion of Government-Supported Preschool</strong>
+</p>
+<p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+Government will continue to expand the network of Government-supported
+preschool operators, to provide families with greater access to affordable,
+quality preschool services. Additional support will be provided to eligible
+non-Government-supported operators to come onboard the network.</p>
+<p>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+Government will also ramp up the number of infant care spaces available
+and expand the infant educator workforce. More details will be shared when
+ready.</p>
+<hr>
+<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[6]</a> Working
+main applicant refers to the mother (or single father for divorced, separation
+or widowed cases) who works at least 56 hours per month. This includes
+full-time, part-time and freelance work arrangements.
+<br>
+<br>
+</p>
