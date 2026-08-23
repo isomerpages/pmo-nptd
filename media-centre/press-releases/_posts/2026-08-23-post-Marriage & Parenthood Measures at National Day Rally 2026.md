@@ -309,7 +309,7 @@ Large Families Scheme<sup>[3]</sup>.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_194106.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_201834.png">
 </div>
 <p><em>*For students in MOE-funded schools. $230 annually for primary school students, $290 annually for secondary school students. ~$2,500 assumes 6 years of primary school and 4 years of secondary school​.</em>
 <br>
@@ -338,7 +338,6 @@ Bonus Scheme and Large Families Scheme components which differentiate by
 birth order will be repositioned or removed. Notwithstanding this, all
 birth orders (BOs) will receive more support under the SG Child Support
 Package.
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
