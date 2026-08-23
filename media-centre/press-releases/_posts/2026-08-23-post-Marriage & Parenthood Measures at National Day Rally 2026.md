@@ -207,7 +207,22 @@ does not reimburse the first 8 weeks of the 16-week GPML (for the 1<sup>st</sup>
 the 1<sup>st</sup> and 2<sup>nd</sup> child orders), and the first 3 days
 of the 6-day CCL. The Government already reimburses for the full duration
 of GPPL, SPL and ECL.
-<br><strong><br>Annex A</strong>
+<br><strong><br></strong>– End –</p>
+<p>&nbsp;<strong>For media queries, please contact:</strong>
+</p>
+<p>Jeslyn Goh (Ms), Communications and Engagement Directorate,
+<br>Strategy Group, Prime Minister’s Office
+<br>Contact: 9728 3452 (HP) <a href="mailto:jeslyn_goh@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeslyn_goh@pmo.gov.sg</a> (Email)</p>
+<p>&nbsp;Ng Liyan (Ms), Communications and Engagement Division
+<br>Ministry of Social and Family Development
+<br>Contact: 9151 1462 (HP) <a href="mailto:NG_Liyan@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Liyan@msf.gov.sg</a> (Email)</p>
+<p>&nbsp;Chan Yee Chun (Ms), Communications and Engagement Division
+<br>Ministry of Social and Family Development
+<br>Contact: 9739 4215 (HP) <a href="mailto:Chan_Yee_Chun@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_Yee_Chun@msf.gov.sg</a> (Email)
+<br>
+<br>
+</p>
+<p><strong>Annex A</strong>
 <br>
 </p>
 <p><strong><u>Enhancements to Child-Related Leave Provisions</u></strong>
@@ -238,16 +253,12 @@ three or more SC children respectively.</p>
 </li>
 </ul>
 <p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under
-the new CCL scheme, eligible working parents will receive:
-<br>
-</p>
+the new CCL scheme, eligible working parents will receive:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_193314.png">
 </div>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In summary,
-the revised CCL scheme comprises the following changes:
-<br>
-</p>
+the revised CCL scheme comprises the following changes:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_193449.png">
 </div>
@@ -486,7 +497,7 @@ year, will therefore cease, with no disbursements in 2027.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CDA and PSEA co-matching<sup>[5]  </sup></strong>
+<p><strong>CDA and PSEA co-matching<sup>[5]</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -592,8 +603,6 @@ care fees will be reduced to $300 per month before means-testing.</p>
 <p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These
 fees will be less than half of today’s fees. Lower-income families will
 continue to pay even lower means-tested fees.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_08_23_200108.png">
 </div>
