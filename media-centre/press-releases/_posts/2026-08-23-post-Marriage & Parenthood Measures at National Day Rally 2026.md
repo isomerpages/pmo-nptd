@@ -48,7 +48,7 @@ each working parent when their youngest child is aged 0 to 6, and 2 days
 of ECL when their youngest child is aged 7 to 12.</p>
 </li>
 </ul>
-<p>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The Government will also reimburse employers for the full duration of all child-related leave schemes <a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1] </a>, up to the reimbursement cap</strong>.
+<p>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>The Government will also reimburse employers for the full duration of all child-related leave schemes<sup>[1]</sup>, up to the reimbursement cap</strong>.
 This will significantly reduce the cost borne by employers and support
 them in building work-life friendly workplaces where parents can take leave
 with greater confidence. Employees are encouraged to discuss leave plans
@@ -73,7 +73,6 @@ towards valuing and supporting every child equally. &nbsp;</p>
 <p>&nbsp;8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The SG Child Support Package will provide up to <strong>$62,000</strong> to
 every Singapore Citizen child. It comprises:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>$10,000 Baby Gift</strong> in cash, disbursed in two tranches within
@@ -81,7 +80,6 @@ every Singapore Citizen child. It comprises:</p>
 with the higher expenses incurred at birth and in the child’s first year.</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>$32,000 Child Credits</strong> in cash, with $2,000 disbursed annually
@@ -199,19 +197,6 @@ work-life support, fertility and maternity health, relationship formation,
 and education.”</p>
 <p>&nbsp;17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 The Workgroup will release a fuller set of recommendations in early 2027.</p>
-<p>&nbsp;– End –</p>
-<p>&nbsp;<strong>For media queries, please contact:</strong>
-</p>
-<p>Jeslyn Goh (Ms), Communications and Engagement Directorate,
-<br>Strategy Group, Prime Minister’s Office
-<br>Contact: 9728 3452 (HP) <a href="mailto:jeslyn_goh@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeslyn_goh@pmo.gov.sg</a> (Email)</p>
-<p>Ng Liyan (Ms), Communications and Engagement Division
-<br>Ministry of Social and Family Development
-<br>Contact: 9151 1462 (HP) <a href="mailto:NG_Liyan@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Liyan@msf.gov.sg</a> (Email)</p>
-<p>&nbsp;Chan Yee Chun (Ms), Communications and Engagement Division
-<br>Ministry of Social and Family Development
-<br>Contact: 9739 4215 (HP) <a href="mailto:Chan_Yee_Chun@msf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_Yee_Chun@msf.gov.sg</a> (Email)</p>
-<p></p>
 <hr>
 <p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Child-related
 leave schemes comprise Government-Paid Maternity Leave (GPML), Government-Paid
@@ -309,8 +294,8 @@ raising their children.</p>
 Child Support Package, together with the continuation of existing support,
 will provide every eligible Singapore Citizen (SC) child with around $70,000,
 from birth to age 17, regardless of birth order. The Package replaces the
-financial support currently provided through the Baby Bonus Scheme<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>2</sup></a>and Large
-Families Scheme<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><sup>3</sup></a>.
+financial support currently provided through the Baby Bonus Scheme<sup>[2]</sup> and
+Large Families Scheme<sup>[3]</sup>.
 <br>
 <br>
 </p>
@@ -553,11 +538,11 @@ and education is maintained throughout the transition.</p>
 </p>
 <p>&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today,
 full preschool subsidies are only available to families where the main
-subsidy applicant is working<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[6]</a>. To ensure that all families can benefit from affordable
-preschool regardless of their employment circumstances, the Government
-will eventually extend full childcare and infant care subsidies to families
-with SC children regardless of the applicant’s working status. More details
-will be announced in early 2027.</p>
+subsidy applicant is working<sup>[6]</sup>. To ensure that all families
+can benefit from affordable preschool regardless of their employment circumstances,
+the Government will eventually extend full childcare and infant care subsidies
+to families with SC children regardless of the applicant’s working status.
+More details will be announced in early 2027.</p>
 <p><strong>&nbsp;Continued Expansion of Government-Supported Preschool</strong>
 </p>
 <p>&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
