@@ -382,7 +382,7 @@ transport and housing. Details will be released at a later date. &nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Each eligible child will receive the same support of up to $62,000<strong><a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[4]</sup></a></strong>,
+<p>Each eligible child will receive the same support of up to $62,000 <sup>[4]</sup>,
 regardless of birth order.</p>
 <p>Large families will continue to receive additional support on top of the
 Package, in areas where they are likely to face a sharper increase in costs.</p>
@@ -486,7 +486,7 @@ year, will therefore cease, with no disbursements in 2027.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CDA and PSEA co-matching<sup> </sup><a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank"><sup>[5]</sup></a></strong>
+<p><strong>CDA and PSEA co-matching<sup>[5]  </sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
