@@ -14,7 +14,6 @@ variant: tiptap
 </p>
 <p><strong>WEDNESDAY, 9 September 2026</strong>
 </p>
-<p></p>
 <p><strong>Ms Valerie Lee:</strong>
 </p>
 <p>To ask the Prime Minister and Minister for Finance (a) whether the Government
