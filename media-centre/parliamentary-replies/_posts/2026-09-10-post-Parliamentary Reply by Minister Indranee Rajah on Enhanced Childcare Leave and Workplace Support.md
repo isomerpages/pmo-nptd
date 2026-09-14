@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p><strong>FIFTEENTH PARLIAMENT OF SINGAPORE</strong>
 </p>
-<p><strong>ORQL REPLY</strong>
+<p><strong>ORAL REPLY</strong>
 </p>
 <p><strong>THURSDAY, 10 September 2026</strong>
 </p>
