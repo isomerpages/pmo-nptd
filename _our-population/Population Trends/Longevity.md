@@ -32,7 +32,7 @@ to 64 age band, including from managed immigration inflows.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizen_population_by_broad_age_bands.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.png">
 </div>
 <p><em>Source: Department of Statistics. Figures may not sum up due to rounding.</em>
 <br>
