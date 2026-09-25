@@ -56,7 +56,7 @@ to 2025 (29,300) was lower than over 2016 to 2020 (32,500).</p>
 <p>The resident TFR was 0.87 in 2025, a decrease from 0.97 in 2024.</p>
 </li>
 </ul>
-<p>PIB 2026 is available&nbsp;<a href="https://www.population.gov.sg/files/Population_in_Brief_2026.pdf" rel="noopener nofollow" target="_blank">here</a><strong>.</strong> 
+<p>PIB 2026 is available&nbsp;<a href="https://www.population.gov.sg/files/Population_in_Brief_2026.pdf" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
 </p>
 <p>[1] Data for 2020-2022 have been excluded from the average due to fluctuations
 in the number of marriages arising from disruptions in marriage plans due
