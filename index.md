@@ -30,8 +30,8 @@ sections:
       description: The annual Population in Brief (PIB) provides key updates and
         trends on Singapore's population. The latest PIB is available here.
       button: Population In Brief
-      alt: Population in Brief 2025
-      url: /files/media-centre/publications/Population_in_Brief_2025.pdf
+      alt: Population in Brief 2026
+      url: https://www.population.gov.sg/files/Population_in_Brief_2026.pdf
   - infopic:
       image: /images/census-web-banner-for-pmo.png
       title: Census of Population 2020
