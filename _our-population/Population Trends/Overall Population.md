@@ -8,53 +8,50 @@ description: Overall Population
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pedestrians aerial view" src="/images/stock-image-6.jpg">
 </div>
-<p>Singapore’s total population stood at 6.11 million as at June 2025 (Diagram
-1), a 1.2% increase from June 2024. This increase was mainly due to the
-growth in the non-resident population. The annualised population growth
-rate of 1.5% over the past five years (2020-2025) was higher than the 0.5%
-over the preceding five-year period (2015-2020), mostly due to an increase
-in the number of Work Permit Holders in the Construction sector to support
-key infrastructure projects such as Changi Terminal 5 and the ramping up
-of housing supply.</p>
-<p></p>
-<p><em>Diagram 1: Total population, as at June 2025<sup>[1]</sup></em>
+<p>Singapore’s total population stood at 6.21 million as at June 2026 (Diagram
+1), a 1.6% increase from June 2025. &nbsp;The increase was mainly due to
+growth in the Non-Resident population, particularly an increase in the
+number of Work Permit Holders in the Construction sector to support infrastructure
+projects such as Changi Terminal 5, Marina Bay Sands expansion, and the
+ramp up of housing supply and other transport infrastructure.</p>
+<p><em>Diagram 1: Total population, as at June 2026<sup>[1]</sup></em>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Diagram_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total_population_6_2M.png">
 </div>
 <p><em>Source: Department of Statistics, Ministry of Manpower</em>
 <br><em>Figures may not sum up due to rounding.</em>
 </p>
-<p>The citizen population increased by 0.7% (from 3.64 million to 3.66 million),
-while the Permanent Resident (PR) population remained stable at 0.54 million
-in June 2025 (Chart 1).
+<p>The citizen population increased by 0.7% from 3.66 million in June 2025
+to 3.68 million in June 2026, while the Permanent Resident (PR) population
+remained relatively stable at 0.55 million in June 2026 (Chart 1).
 <br>
-<br><em>Chart 1: Total population by residency status, as at June<sup>[2]</sup></em>
+<br><em>Chart 1: Total population by residency status, as at June 2026<sup>[2]</sup></em>
+<br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total_population_by_residency_status.png">
 </div>
-<p>
-<br><em>Source: Department of Statistics</em>
+<p><em>Source: Department of Statistics</em>
 <br><em>Figures may not sum up due to rounding.</em>
 </p>
 <p>The Non-Resident (NR) population is diverse, and its size and composition
-fluctuate depending on our economic and social needs. Today, the foreign
-workforce makes up about two-thirds of the NR population, while the remaining
-one-third comprises mainly Migrant Domestic Workers (MDWs), dependants,
-and students.</p>
-<p>As at June 2025, the NR population stood at 1.91 million, an increase
-of 2.7% from June 2024. The increase in the NR population came primarily
-from Work Permit Holders, followed by MDWs. The pace of foreign employment
-growth in Singapore remained stable from June 2024 to June 2025, compared
-to June 2023 to June 2024 (Chart 2).</p>
-<p><em>Chart 2: Change in foreign employment, as at June<sup>[3]</sup></em>
+vary over time to support our evolving economic and social needs. Today,
+the foreign workforce makes up about two-thirds of the NR population, while
+the remaining one-third comprises mainly Migrant Domestic Workers (MDWs),
+dependants, and students.</p>
+<p>As at June 2026, the NR population stood at 1.98 million, an increase
+of 3.7% from June 2025. The increase in the NR population came primarily
+from Work Permit Holders, followed by MDWs. &nbsp;Foreign employment growth
+in Singapore was higher over the period of June 2025 to June 2026, compared
+to June 2024 to June 2025 (Chart 2), primarily due to increases in WPHs.</p>
+<p><em>Chart 2: Change in foreign employment, as at June 2026<sup>[3]</sup></em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chart_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figures_from_the_Population_in_Brief_2026.png">
 </div>
 <p><em>Source: Ministry of Manpower</em>
 </p>
