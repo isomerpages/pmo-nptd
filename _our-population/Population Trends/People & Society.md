@@ -100,5 +100,18 @@ Singapore’s norms and values, we also encourage all Singaporeans to remain
 open to help educate newcomers about local culture and norms.</p>
 <p></p>
 <hr>
-<p></p>
-<p>ation.</p>
+<p>[1] Inter-ethnic marriages refer to marriages between persons of different
+ethnic groups, namely Chinese, Malay, Indian and Others.</p>
+<p>[2] Transnational marriages refer to marriages between a citizen and a
+non-citizen (i.e. PR or NR).</p>
+<p>[3] The small group of new citizens who were not PRs prior to obtaining
+citizenship were minors who were either (i) children of citizens, or (ii)
+children of PRs who were included as dependants in their parents’ citizenship
+application.</p>
+<p>[4] Launched in 2011, the Singapore Citizenship Journey comprises an online
+e-learning module with a quiz component, an experiential learning programme
+and a Community Sharing Session with local community leaders.</p>
+<p>[5]<sup> </sup>INCs develop and implement programmes to welcome and integrate
+new citizens. They play a pivotal role in bridging cultural gaps and fostering
+a sense of belonging, leveraging their understanding of both local culture
+and the challenges faced by newcomers.</p>
