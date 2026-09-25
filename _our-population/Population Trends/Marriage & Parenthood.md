@@ -10,49 +10,48 @@ description: Marriage & Parenthood
 </div>
 <p><strong>Marriage and Parenthood Trends</strong>
 </p>
-<p>There were 22,955 citizen marriages in 2024, 5.7% lower than the 24,355
-citizen marriages in 2023, but higher than the 22,165 citizen marriages
-in 2019 (pre-COVID) (Chart 3)<sup>[1]</sup>.</p>
-<p>The average number of citizen marriages per year in the last five years
-(23,000) was lower than that of the preceding five years (23,600). The
-median age at first marriage for citizen grooms and brides was 30.8 and
-29.1 years in 2024, up from 30.1 and 27.9 years respectively in 2014.</p>
+<p>There were 21,671 citizen marriages in 2025, 5.6% lower than the 22,955
+citizen marriages in 2024 (Chart 3).<sup> [1]</sup>
+</p>
+<p>The average number of citizen marriages per year from 2023 to 2025 (23,000)
+was lower than from 2016 to 2019 (23,500).<sup> [2]</sup> The median age
+at first marriage for citizen grooms and brides was 30.8 and 29.1 years
+in 2025, up from 30.1 and 27.9 years respectively in 2015.</p>
 <p><em>Chart 3: Citizen marriages</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_3_new.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizen_Marriages.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 <br>
-<br>There were 29,237 citizen births in 2024, 1.2% more than the 28,877 citizen
-births in 2023 (Chart 4)<sup>[2]</sup>. The average number of births per
-year in the last five years (30,400) was lower than in the preceding five
-years (32,900).</p>
+<br>There were 26,071 citizen births in 2025, 10.8% lower than the 29,237
+citizen births in 2024 (Chart 4).<sup>[3]</sup> The average number of births
+per year over 2021 to 2025 (29,300) was lower than in the preceding five
+years (32,500).</p>
 <p><em>Chart 4: Citizen births</em>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_4_new.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizen_Birth.png">
 </div>
 <p><em>Source: Immigration &amp; Checkpoints Authority</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
 </p>
 <p>The resident total fertility rate (TFR), which has been declining over
-the past few decades, was 0.97 in 2024, unchanged from 2023<sup>[3]</sup>.
-Many other advanced societies are also experiencing falling birth rates,
-as more people are postponing family formation and having fewer children,
-as they prioritise other life goals.</p>
+the past few decades, was 0.87 in 2025, a decrease from 0.97 in 2024.<sup>[4]</sup>
+</p>
 <p>In addition to citizen births in Singapore, there are also children born
-overseas to at least one Singaporean parents. In 2024, 1,409 children born
-overseas to at least one Singaporean parents were granted citizenship by
-descent (Chart 5)<sup>[4]</sup>.</p>
+overseas to at least one citizen parent. In 2025, 1,646 children born overseas
+to at least one citizen parent were granted citizenship by descent (Chart
+5).</p>
 <p><em>Chart 5: Number of children granted citizenships by descent</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chart_5_new.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizenships_by_descent.png">
 </div>
 <p><em>Source: Immigration &amp; Checkpoints Authority</em>
 <br><em>The figures are based on the full calendar year (January to December).</em>
@@ -64,34 +63,53 @@ by a variety of factors including changing social norms and personal priorities.
 Our approach has been to foster an environment where Singaporeans continue
 to aspire towards marriage and parenthood, and are supported to start,
 raise and grow their families.</p>
-<p>Young Singaporeans have consistently expressed a strong desire to get
-married and have children. From our 2021 Marriage &amp; Parenthood survey,
-8 in 10 young singles aspire to get married and have children, and over
-9 in 10 married Singaporeans want at least two children. These sentiments
-have remained relatively stable since our surveys in 2012 and 2016.</p>
 <p>Supporting Singaporeans to fulfil their aspirations to marry and have
-children continues to be our priority. Through close partnerships across
-Government agencies, and with community partners, employers, businesses
-and the broader society, a range of support is available to Singaporeans
-at every stage of their marriage and parenthood journey. The&nbsp;<a href="https://www.go.gov.sg/mpbooklet" rel="noopener nofollow" target="_blank">Marriage &amp; Parenthood Package </a>provides
-comprehensive support to help couples start and raise their families. Key
-measures in the Package include:</p>
+children continues to be our priority. The inter-agency Marriage &amp;
+Parenthood (M&amp;P) Reset Workgroup was set up in April 2026 &nbsp;to
+strengthen support for Singaporeans across their marriage and parenthood
+journey, mobilise whole-of-society action, and support a broader societal
+reset.</p>
+<p>Since its formation, the Workgroup has engaged young people, couples,
+parents, employers and community partners, and is reviewing concerns across
+the M&amp;P journey, including work-life demands, child-raising costs,
+caregiving, housing, fertility and maternity health, relationship formation
+and education stress.</p>
+<p>At the 2026 National Day Rally, the Prime Minister announced the first
+set of policy enhancements arising from the Workgroup’s recommendations.
+These enhancements mark an important shift in how the Government supports
+marriage and parenthood. First, support is no longer concentrated mainly
+around a child’s early years, but strengthened and sustained across the
+journey of raising children. Second, unlike past enhancements that mainly
+applied to new births, the enhancements also strengthen support for existing
+parents and children.</p>
+<p>These measures include the SG Child Support Package, increased childcare
+leave and Government reimbursement for the full duration of all child-related
+leave schemes, lower preschool fees and expanded access to Government-supported
+preschools, as well as enhanced housing support for families. &nbsp;More
+details can be found at <a href="https://www.madeforfamilies.gov.sg/ndr-2026-supporting-families" rel="noopener noreferrer nofollow" target="_blank">https://www.madeforfamilies.gov.sg/ndr-2026-supporting-families.</a>
+</p>
+<p>Through close partnerships across Government agencies, and with community
+partners, employers, businesses and the broader society, a range of support
+is available to Singaporeans at every stage of their marriage and parenthood
+journey. The&nbsp;Marriage &amp; Parenthood Package&nbsp;provides comprehensive
+support to help couples start and raise their families. Key measures in
+the Package include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Priority housing schemes and grants to help couples own their first home</p>
 </li>
 <li>
-<p>Healthcare schemes to defray the costs of assisted conception, maternity
-and newborn care</p>
+<p>Healthcare schemes to defray the costs of assisted conception procedures,
+maternity services and newborn care</p>
 </li>
 <li>
 <p>Financial support through the Baby Bonus scheme, comprising a Cash Gift,
 First Step Grant and Government co-matching contributions to the Child
-Development Account</p>
-</li>
-<li>
-<p>Large Families Scheme to provide additional support to couples with three
-or more children</p>
+Development Account (The new SG Child Support Package, announced at the
+2026 National Day Rally, will replace the Baby Bonus Scheme and Large Families
+Scheme. Those currently on the Baby Bonus Scheme will be automatically
+transitioned to the new package. In the meantime, existing payouts will
+continue as usual. Learn more <a href="https://www.life.gov.sg/family-parenting/benefits-support/sg-child-support-package" rel="noopener noreferrer nofollow" target="_blank">here</a>.)</p>
 </li>
 <li>
 <p>MediSave Grant for Newborns to defray children’s healthcare expenses</p>
@@ -101,64 +119,22 @@ or more children</p>
 Leave, Shared Parental Leave and Childcare Leave</p>
 </li>
 <li>
-<p>Subsidised infant care and childcare services</p>
+<p>Subsidised infant care, and childcare services</p>
 </li>
 </ul>
-<p>The Government continually reviews and enhances our marriage and parenthood
-support in response to feedback gleaned through our surveys and engagements.</p>
-<p>For example, to help parents manage the costs of child-raising, the Baby
-Bonus Scheme has been progressively enhanced over the years, and most recently
-at Budget 2023.</p>
-<p>In addition, we have strengthened measures to help parents manage their
-work and family commitments. Since 1 January 2024, Unpaid Infant Care Leave
-was doubled from 6 to 12 days per parent per year. Since 1 April 2025,
-to encourage greater shared parental responsibility, mandatory Government-Paid
-Paternity Leave (GPPL) was increased to four weeks, and the new Shared
-Parental Leave (SPL) Scheme was also introduced, on top of parents’ maternity
-and paternity leave entitlements. The new SPL will be implemented in two
-phases, starting with 6 weeks of paid parental leave to be shared between
-both parents, for parents of babies born from 1 April 2025, and increasing
-to 10 weeks for parents of babies born from 1 April 2026.</p>
-<p>Apart from legislated leave provisions, the Tripartite Guidelines on Flexible
-Work Arrangement Requests (TG-FWAR), which came into effect on 1 December
-2024, requires employers to properly consider employees’ formal Flexible
-Work Arrangement (FWA) requests, and encourage both sides to have constructive
-discussions to work out FWAs that are mutually beneficial. The Tripartite
-Standards on Work-Life Harmony and Unpaid Leave for Unexpected Care Needs
-were also established in 2021 and 2018 respectively, to highlight good
-employment practices that all employers are recommended to implement at
-their workplace.</p>
-<p>The Government also introduced the Large Families Scheme (LFS) in 2025
-to strengthen support for couples with three or more children. Under the
-LFS, couples will receive up to $16,000 of additional support for each
-third or subsequent Singapore Citizen (SC) child born on or after 18 February
-2025.</p>
-<p>More details on all the support measures can be found at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mpbooklet</a>&nbsp;and&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">madeforfamilies.gov.sg</a>. Parents may also use the Family Support Calculator
-in the LifeSG app, to find out how much benefits they can receive.</p>
-<p>Beyond these, we must all do our part to ensure that Singapore is a great
-place to start and raise families. The Made For Families initiative was
-launched in June 2020 to further assure families of support from the Government
-and the broader society, and to encourage more businesses and community
-groups to play a part in building a family-friendly environment.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/population-trends/2024/Made_for_Families_logo.jpg">
-</div>
+<p>The Workgroup will continue its engagements and review of further support
+measures, and will release its final report in early 2027.</p>
+<p>Ultimately, we must all do our part to build a Singapore where marriage
+and parenthood is valued and supported, and seen as sources of joy and
+strength, such that Singaporeans aspire, feel confident and are assured
+in starting and raising their families.</p>
 <hr>
 <p>[1] Citizen marriages refer to marriages involving at least one citizen.</p>
-<p>[2] Citizen births refer to babies born to at least one citizen parent.</p>
-<p>[3] Total fertility rate refers to the average number of live-births each
+<p>[2] Data for 2020-2022 have been excluded from the average due to fluctuations
+in the number of marriages arising from disruptions in marriage plans due
+to the COVID-19 pandemic.</p>
+<p>[3] Citizen births refer to babies born to at least one citizen parent.</p>
+<p>[4] Total fertility rate refers to the average number of live-births each
 female would have during her reproductive years (15-49 years old) if she
 were subject to the prevailing age-specific fertility rates in the population
 in the given year.</p>
-<p>[4] Children under the age of 21 years old and were born overseas to Singaporean
-parents may be granted citizenship by descent if they meet the prevailing
-criteria. Citizenship by descent is based on a constitutional entitlement
-to citizenship for children born overseas to at least one Singaporean parent,
-akin to how children born in Singapore to at least one Singaporean parent
-are constitutionally entitled to citizenship by birth. From 2025, to more
-accurately reflect immigration inflows and birth statistics, citizenships
-by descent is reported under the Marriage &amp; Parenthood section of our
-website. Under the People &amp; Society section of our website, the figures
-for total number of citizenships granted exclude the category of citizenships
-by descent.</p>

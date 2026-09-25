@@ -55,20 +55,20 @@ to June 2024 to June 2025 (Chart 2), primarily due to increases in WPHs.</p>
 </div>
 <p><em>Source: Ministry of Manpower</em>
 </p>
-<p>These figures are from the <a href="/files/media-centre/publications/Population_in_Brief_2025.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2025</a>&nbsp;publication,
+<p>These figures are from the <a href="https://www.population.gov.sg/files/Population_in_Brief_2026.pdf" rel="noopener nofollow" target="_blank">Population in Brief 2026</a>&nbsp;publication,
 which provides key updates and trends on Singapore’s population.</p>
 <hr>
-<p><em>[1] <u>Singapore residents</u> comprise SCs and PRs.</em>
+<p><em>[1]&nbsp;<u>Singapore residents</u>&nbsp;comprise citizens and PRs.</em>
 </p>
-<p><em><u>Work Permit Holders</u> are semi-skilled foreign workers from approved source countries. Some work in the Construction, Marine Shipyard and Process (CMP) sectors (e.g. construction workers), and others work in non-CMP sectors (e.g. Services, Manufacturing).</em>
+<p><em><u>Employment Pass Holders</u>&nbsp;are benchmarked to Professionals, Managers, Executives and Technicians (PMET). The monthly qualifying salary for an Employment Pass is $5,600 for applicants at age 23. This increases progressively with age, up to $10,700 at age 45 and above. A higher qualifying salary applies for the Financial Services sector.</em>
 </p>
-<p><em><u>S Pass Holders</u> are skilled foreign workers (Associate Professionals and Technicians). The monthly qualifying salary for an S Pass is $3,300 for applicants at age 23. This increases progressively with age, up to $4,800 at age 45 and above. A higher qualifying salary applies for the Financial Services sector.</em>
+<p><em><u>S Pass Holders</u>&nbsp;are skilled foreign workers benchmarked to Associate Professionals and Technicians. The monthly qualifying salary for an S Pass is $3,300 for applicants at age 23. This increases progressively with age, up to $4,800 at age 45 and above. A higher qualifying salary applies for the Financial Services sector.</em>
 </p>
-<p><em><u>Employment Pass Holders</u> are foreign professionals, managers and executives. The monthly qualifying salary for an Employment Pass is $5,600 for applicants at age 23. This increases progressively with age, up to $10,700 at age 45 and above. A higher qualifying salary applies for the Financial Services sector.</em>
-</p>
-<p><em><u>Dependant’s Pass Holders and Long-Term Visit Pass Holders</u> are mostly dependants of SCs, and Work Pass Holders.</em>
+<p><em><u>Work Permit Holders</u>&nbsp;are non-PMET foreign workers from approved source countries. Some work in the Construction, Marine Shipyard and Process (CMP) sectors (e.g. construction workers), and others work in non-CMP sectors (e.g. Services, Manufacturing).</em>
 <br>
-<br><em>[2] The basic count and profile of the population are based on a person’s place of usual residence i.e. de jure concept. Therefore, citizens or PRs who have a registered foreign address or have been overseas continuously for 12 months or more prior to the reference date (i.e. June each year) are not counted as part of our citizen and PR population.</em>
+<br><em><u>Dependant’s Pass Holders and Long-Term Visit Pass Holders</u>&nbsp;are mostly dependants of citizens, PRs, and Work Pass Holders.</em>
+<br>
+<br><em>[2] The basic count and profile of the population are based on a person’s place of usual residence i.e. de jure concept. Citizens or PRs who have a registered foreign address or have been overseas continuously for 12 months or more prior to the reference date (i.e. June each year) are not included in the count for citizen and PR population.</em>
 <br>
 <br><em>[3] To provide a clearer picture of foreign workforce growth related to economic sectors, MDWs are excluded from the figures due to the distinct nature of their employment. Unlike other sectors where foreign workers contribute directly to industries such as Construction, Manufacturing and Services, MDWs work in households, performing domestic tasks.</em>
 </p>
