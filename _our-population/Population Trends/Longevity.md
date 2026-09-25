@@ -12,68 +12,72 @@ description: population trend longevity
 </p>
 <p>The proportion of our citizen population aged 65 years and above is rising,
 and at a faster pace compared to the last decade. Large cohorts of “baby
-boomers” have begun entering the post-65 age range (Chart 6)<sup>[1,2]</sup>.</p>
-<p></p>
-<p><em>Chart 6: Age profile of citizen population, as at June</em>
+boomers” continue to enter the post-65 age range (Chart 6)<sup>[1,2]</sup>.</p>
+<p><em>Chart 6: Age profile of citizen population, as at June 2026</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chart 6: Age profile of citizen population, as at June" src="/images/Longevity_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Longevity.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br>
-<br>In June 2025, 59.8% of citizens were aged 20 to 64 years. This proportion
-decreased from 64.5% in 2015. Conversely, the proportion of citizens aged
-65 and above increased from 13.1% in 2015 to 20.7% in 2025. By 2030, around
-1 in 4 citizens (23.9%) will be aged 65 and above (Chart 7).</p>
-<p>Chart 7: Citizen population by broad age bands, as at June<sup>[3]</sup>
+<br>Singapore has become a super-aged society as the proportion of citizens
+aged 65 and above was at 21.4% in 2026, an increase from 13.7% in 2016.
+By 2035, it is estimated that more than 1 in 4 citizens will be aged 65
+and above (Chart 7).</p>
+<p>The proportion of citizens aged 20–64 is expected to remain broadly stable
+between 2030 and 2035. This is due to smaller cohorts ageing into the 65
+and above age band, balanced by an inflow of younger cohorts into the 20
+to 64 age band, including from managed immigration inflows.</p>
+<p>Chart 7: Citizen population by broad age bands, as at June 2026<sup>[4]</sup>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chart 7: Citizen population by broad age bands, as at June[3]" src="/images/Longevity_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizen_population_by_broad_age_bands.png">
 </div>
 <p><em>Source: Department of Statistics. Figures may not sum up due to rounding.</em>
 <br>
-<br>Given these trends, it is important that we make Singapore a home for
-all to age with confidence and peace of mind.</p>
-<p>The S$3 billion Action Plan for Successful Ageing, launched by the Ministerial
-Committee on Ageing in 2015, is the national blueprint to enable Singaporeans
-to age well and lead active lives, and to build a nation for all ages.
-It encompasses a range of initiatives, at the individual, community, and
-national levels. It is working towards creating more opportunities for
-seniors to be meaningfully engaged, be part of a caring and inclusive society,
-and live well in a city where they can age gracefully and confidently in
-place.</p>
-<p>Good progress has been made over the years. This includes enhancing workplace
-longevity by raising the re-employment age, supporting retirement adequacy,
-and promoting health, learning, and volunteering among seniors. Other measures
-include strengthening support for caregivers and fostering inter-generational
-harmony. There has also been greater access to aged care services, improved
-healthcare affordability through the Pioneer and Merdeka Generation Packages,
-and more senior-friendly homes and public infrastructure.</p>
-<p>The Refresh of the Action Plan for Successful Ageing was launched in 2023,
-and population health efforts, through Healthier SG, aim to empower all
-Singaporeans to take charge of their health and achieve healthy longevity.
-With good health, Singaporeans can more readily pursue their aspirations,
-contribute meaningfully at the workplace or in the community, and remain
-well connected with their loved ones.</p>
-<p>To support healthy longevity in homes and communities, Age Well SG was
-launched in 2023. This programme aims to tackle social isolation as one
-of the key determinants of frailty and support seniors to age actively,
-stay socially connected, and be cared for within their communities.</p>
+<br>The Government has implemented several initiatives to enable and encourage
+seniors to remain in productive employment:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;We have been steadily raising
+the statutory retirement and re-employment ages to support seniors who
+wish to continue working and are able to do so. In 2026, the retirement
+age increased from 63 to 64, while the re-employment age increased from
+68 to 69. The retirement and re-employment ages will be raised to 65 and
+70 respectively by 2030.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We also support senior workers to
+remain productive and employable. For example, the Career Conversion Programmes
+support individuals (including seniors) to reskill and take on new job
+roles with good prospects. The Mid-Career Pathways Programme supports mature
+workers aged 40 and above to transit into new sectors through a full-time
+attachment to gain industry-relevant skills and experience.</p>
+<p>&nbsp;The Government also encourages employers to hire senior workers,
+to tap on their experience and expertise:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under the Senior Employment Credit
+(SEC), employers can receive wage offsets of up to 7% for Singaporean employees
+aged 60 and above and earning below $4,000 a month.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Part-Time Re-employment Grant
+(PTRG) provides up to $125,000 in funding support to employers that commit
+to providing part-time re-employment, flexible work arrangements and structured
+career planning to senior workers.
+<br>
+<br>These whole-of-society efforts are further complemented by Age Well SG,
+our national programme that lays out further moves to weave together social
+and health services in local communities around our seniors. By helping
+seniors stay healthy, socially engaged, and supporting those who wish to
+work for longer to do so, we can age successfully as a society.</p>
 <p>Ageing must continue to be redefined as a positive force, so that Singapore
 remains a place where Singaporeans can age well in. Everyone can play a
 part, to build an inclusive society that celebrates seniors in Singapore,
 and to turn silver into gold.
 <br>
-<br>Visit&nbsp;<a href="https://www.moh.gov.sg/others/resources-and-statistics/action-plan-for-successful-ageing" rel="noopener nofollow" target="_blank">I Feel Young SG</a>&nbsp;for
+<br>Visit&nbsp;<a href="https://www.agewellsg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.agewellsg.gov.sg/</a>&nbsp;for
 more information.</p>
 <hr>
 <p>[1] The benchmark of 65 years is aligned with international statistical
 definitions.</p>
 <p>[2] “Baby boomers” are defined as those born from 1946 to 1964. As such,
 they would be aged between 51 and 69 in 2015, and 61 and 79 in 2025.</p>
-<p>[3] The 2030 numbers illustrate the possible change in the population
-that could occur if certain demographic assumptions prevail over the stated
-period. These assumptions may or may not be realised. Projections have
-been updated from Population in Brief 2024.</p>
+<p>[3] The United Nations defines a country as ‘super aged’ once the share
+of its population aged 65 and above reaches 21%.</p>
+<p>[4] <em>The 2030 and 2035 numbers illustrate the possible change in the population that could occur if certain demographic assumptions prevail over the stated period. These assumptions may or may not be realised. Projections have been updated from Population in Brief 2025.</em>
+</p>
