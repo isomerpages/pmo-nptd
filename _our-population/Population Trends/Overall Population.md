@@ -17,9 +17,8 @@ ramp up of housing supply and other transport infrastructure.</p>
 <p><em>Diagram 1: Total population, as at June 2026<sup>[1]</sup></em>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total_population_6_2M.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_09_30_120921.png">
 </div>
 <p><em>Source: Department of Statistics, Ministry of Manpower</em>
 <br><em>Figures may not sum up due to rounding.</em>
@@ -32,7 +31,7 @@ remained relatively stable at 0.55 million in June 2026 (Chart 1).
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Total_population_by_residency_status.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_09_30_120840.png">
 </div>
 <p><em>Source: Department of Statistics</em>
 <br><em>Figures may not sum up due to rounding.</em>
@@ -51,7 +50,7 @@ to June 2024 to June 2025 (Chart 2), primarily due to increases in WPHs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figures_from_the_Population_in_Brief_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_09_30_123713.png">
 </div>
 <p><em>Source: Ministry of Manpower</em>
 </p>
