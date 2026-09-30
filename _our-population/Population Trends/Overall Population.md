@@ -50,7 +50,7 @@ to June 2024 to June 2025 (Chart 2), primarily due to increases in WPHs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Figures_from_the_Population_in_Brief_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_09_30_123713.png">
 </div>
 <p><em>Source: Ministry of Manpower</em>
 </p>
